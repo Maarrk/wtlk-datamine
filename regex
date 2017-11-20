@@ -1,0 +1,2 @@
+result = re.search(r'First flight\n</th>\n<td>(.*?)\n', html)
+result.group(1)
