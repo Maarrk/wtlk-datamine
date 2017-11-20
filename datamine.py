@@ -9,10 +9,14 @@ from pprint import pprint
 
 colorinit()
 
-jfile = open('petscan.json', 'r')
-jdata = json.load(jfile)
-titles = [p['title'] for p in jdata['*'][0]['a']['*']]
+petfile = open('petscan.json', 'r')
+# planefile = open('planes.json', 'w')
+
+petdata = json.load(petfile)
+titles = [page['title'] for page in petdata['*'][0]['a']['*']]
 # titles = [p['title'].replace('_', ' ') for p in jdata['*'][0]['a']['*']]
+
+planedata = {'planes':[]}
 
 for i in range(100):
     # print('Getting page: ' + titles[i])
@@ -29,6 +33,12 @@ for i in range(100):
                     print(Fore.GREEN + titles[i] + ' ' + result.group(1) + Fore.RESET)
                 else:
                     print(Fore.YELLOW + titles[i] + ' ' + result.group(1) + Fore.RESET)
+
+                plane = {'name': titles[i].replace('_', ' '), 'firstflight': result.group(1)}
+                planedata['planes'].append(plane)
+                planefile = open('planes.json', 'w')
+                json.dump(planedata, planefile)
+                planefile.close()
             else:
                 print(Fore.RED + titles[i] + ' has no First flight data' + Fore.RESET)
     except UnicodeEncodeError:
