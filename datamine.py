@@ -37,7 +37,8 @@ for i in range(100):
                 plane = {'name': titles[i].replace('_', ' '), 'firstflight': result.group(1)}
                 planedata['planes'].append(plane)
                 planefile = open('planes.json', 'w')
-                json.dump(planedata, planefile)
+                # json.dump(planedata, planefile)
+                planefile.write(json.dumps(planedata, indent=4))
                 planefile.close()
             else:
                 print(Fore.RED + titles[i] + ' has no First flight data' + Fore.RESET)
