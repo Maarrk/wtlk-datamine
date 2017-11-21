@@ -10,38 +10,41 @@ from pprint import pprint
 colorinit()
 
 petfile = open('petscan.json', 'r')
-# planefile = open('planes.json', 'w')
 
 petdata = json.load(petfile)
 titles = [page['title'] for page in petdata['*'][0]['a']['*']]
-# titles = [p['title'].replace('_', ' ') for p in jdata['*'][0]['a']['*']]
 
 planedata = {'planes':[]}
 
-for i in range(100):
-    # print('Getting page: ' + titles[i])
-    # html = wikipedia.page(titles[i]).html()
+# Patterns:
+pat_firstflight = re.compile(r'(First flight|Introduction)</th>\n<td>(.*?)<')
+
+for i in range(len(titles)):
     try:
         with urllib.request.urlopen('https://en.wikipedia.org/wiki/' + titles[i]) as response:
             html = response.read().decode('utf-8')
             # pprint(html)
-            # print('Got: ' + titles[i])
-            # result = re.search(r'First flight\n</th>\n<td>(.*?)\n', html)  # wikipedia
-            result = re.search(r'First flight</th>\n<td>(.*?)<', html)  # urllib
+            result = pat_firstflight.search(html)
             if result:
-                if len(result.group(1)) == 4:
-                    print(Fore.GREEN + titles[i] + ' ' + result.group(1) + Fore.RESET)
+                firstflight = result.group(2)
+                decade = re.search(r'\d\d\d\ds', firstflight)
+                if decade:
+                    print(Fore.YELLOW + titles[i] + ' ' + decade.group()[:-1] + Fore.RESET)
                 else:
-                    print(Fore.YELLOW + titles[i] + ' ' + result.group(1) + Fore.RESET)
+                    year = re.search(r'\d\d\d\d', firstflight)
+                    if year:
+                        print(Fore.GREEN + titles[i] + ' ' + year.group() + Fore.RESET)
+                    else:
+                        print(Fore.RED + titles[i] + ' has no First flight / Introduction year or decade' + Fore.RESET)
 
-                plane = {'name': titles[i].replace('_', ' '), 'firstflight': result.group(1)}
+                plane = {'name': titles[i].replace('_', ' '), 'firstflight': result.group(2)}
                 planedata['planes'].append(plane)
                 planefile = open('planes.json', 'w')
                 # json.dump(planedata, planefile)
                 planefile.write(json.dumps(planedata, indent=4))
                 planefile.close()
             else:
-                print(Fore.RED + titles[i] + ' has no First flight data' + Fore.RESET)
+                print(Fore.RED + titles[i] + ' has no First flight / Introduction data' + Fore.RESET)
     except UnicodeEncodeError:
             print(Fore.RED + titles[i] + ' has bad encoding' + Fore.RESET)
             continue
