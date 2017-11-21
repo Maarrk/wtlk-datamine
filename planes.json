@@ -2,1219 +2,159 @@
     "planes": [
         {
             "name": "Advanced Aeromarine Carrera",
-            "firstflight": "1990s"
+            "decade": 1990
         },
         {
             "name": "Advanced Aeromarine Buccaneer",
-            "firstflight": "1984"
+            "year": 1984,
+            "decade": 1980
         },
         {
             "name": "Advanced Aviation Cobra",
-            "firstflight": "1980s"
+            "decade": 1980
         },
         {
             "name": "Advanced Aviation Explorer",
-            "firstflight": "1990s"
+            "decade": 1990
+        },
+        {
+            "name": "A\u00e9riane Swift",
+            "error": "UnicodeEncodeError"
         },
         {
             "name": "Aero Adventure Aventura",
-            "firstflight": "1995"
+            "year": 1995,
+            "decade": 1990
         },
         {
             "name": "Mitchell U-2 Superwing",
-            "firstflight": "1980"
+            "year": 1980,
+            "decade": 1980
+        },
+        {
+            "name": "Eipper Quicksilver"
         },
         {
             "name": "Zenith STOL CH 701",
-            "firstflight": "1986"
+            "year": 1986,
+            "decade": 1980
         },
         {
             "name": "CZAW SportCruiser",
-            "firstflight": "2006"
+            "year": 2006,
+            "decade": 2000
         },
         {
             "name": "Aerosport Rail",
-            "firstflight": "14 November 1970"
+            "year": 1970,
+            "decade": 1970
+        },
+        {
+            "name": "Bradley Aerobat"
         },
         {
             "name": "Chotia Weedhopper",
-            "firstflight": "1977"
+            "year": 1977,
+            "decade": 1970
         },
         {
             "name": "E-Go Aeroplanes e-Go",
-            "firstflight": "24 October 2013"
+            "year": 2013,
+            "decade": 2010
         },
         {
             "name": "Hovey Whing Ding",
-            "firstflight": "February 1971"
+            "year": 1971,
+            "decade": 1970
         },
         {
-            "name": "Janowski Don Kichot",
-            "firstflight": "30 July "
+            "name": "Janowski Don Kichot"
         },
         {
             "name": "MAI-223",
-            "firstflight": "20 October 2004"
+            "year": 2004,
+            "decade": 2000
         },
         {
             "name": "Canaero Toucan",
-            "firstflight": "September 1983"
+            "year": 1983,
+            "decade": 1980
+        },
+        {
+            "name": "Lamco Eurocub"
         },
         {
             "name": "Fisher Dakota Hawk",
-            "firstflight": "1993"
+            "year": 1993,
+            "decade": 1990
         },
         {
             "name": "Fisher FP-101",
-            "firstflight": "mid-1982"
+            "year": 1982,
+            "decade": 1980
         },
         {
             "name": "Fisher Flyer",
-            "firstflight": "July 1980"
+            "year": 1980,
+            "decade": 1980
         },
         {
             "name": "Freebird I",
-            "firstflight": "1998"
+            "year": 1998,
+            "decade": 1990
         },
         {
             "name": "Freebird II",
-            "firstflight": "1996"
+            "year": 1996,
+            "decade": 1990
         },
         {
             "name": "Birdman Atlas",
-            "firstflight": "1980"
+            "year": 1980,
+            "decade": 1980
         },
         {
             "name": "InterPlane Griffon",
-            "firstflight": "1992"
+            "year": 1992,
+            "decade": 1990
         },
         {
             "name": "InterPlane Skyboy",
-            "firstflight": "1992"
+            "year": 1992,
+            "decade": 1990
         },
         {
             "name": "CGS Hawk",
-            "firstflight": "January 1982"
+            "year": 1982,
+            "decade": 1980
         },
         {
             "name": "Team Mini-Max Hi-MAX",
-            "firstflight": "1987"
+            "year": 1987,
+            "decade": 1980
         },
         {
             "name": "Mini-MAX",
-            "firstflight": "1984"
+            "year": 1984,
+            "decade": 1980
         },
         {
             "name": "Watkinson Dingbat",
-            "firstflight": "June 1938"
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "name": "Murphy Renegade"
         },
         {
             "name": "Fisher Barnstormer",
-            "firstflight": "mid-1982"
+            "year": 1982,
+            "decade": 1980
         },
         {
             "name": "Fisher Boomerang",
-            "firstflight": "mid-1982"
-        },
-        {
-            "name": "Normand Dube Aerocruiser",
-            "firstflight": "1985"
-        },
-        {
-            "name": "Excalibur Aircraft Excalibur",
-            "firstflight": "1993"
-        },
-        {
-            "name": "Airconcept VoWi 10",
-            "firstflight": "16 April 1975"
-        },
-        {
-            "name": "Sorrell Hiperlight",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Hipp's Superbirds J-3 Kitten",
-            "firstflight": "1986"
-        },
-        {
-            "name": "Hy-Tek Hurricane 103",
-            "firstflight": "1991"
-        },
-        {
-            "name": "Capella Javelin",
-            "firstflight": "1999"
-        },
-        {
-            "name": "Capella XS",
-            "firstflight": "1988"
-        },
-        {
-            "name": "Kolb Firefly",
-            "firstflight": "1995"
-        },
-        {
-            "name": "Kolb Firestar",
-            "firstflight": "1985"
-        },
-        {
-            "name": "Kolb Kolbra",
-            "firstflight": "2000"
-        },
-        {
-            "name": "Kolb Flyer",
-            "firstflight": "1970"
-        },
-        {
-            "name": "Kolb Ultrastar",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Milholland Legal Eagle",
-            "firstflight": "1998"
-        },
-        {
-            "name": "Light Miniature Aircraft LM-1",
-            "firstflight": "1985"
-        },
-        {
-            "name": "Light Miniature Aircraft LM-5",
-            "firstflight": "1991"
-        },
-        {
-            "name": "AmeriPlanes Mitchell Wing A-10",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Aero-Service Puma",
-            "firstflight": "pending"
-        },
-        {
-            "name": "Loehle Sport Parasol",
-            "firstflight": "1991"
-        },
-        {
-            "name": "Phantom X1",
-            "firstflight": "1982"
-        },
-        {
-            "name": "CFM Shadow",
-            "firstflight": "1983"
-        },
-        {
-            "name": "American Aerolights Double Eagle",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Lilienthal Bekas",
-            "firstflight": "March 1993"
-        },
-        {
-            "name": "Skyeton K-10 Swift",
-            "firstflight": "October 2006"
-        },
-        {
-            "name": "RemSchetMash Robust",
-            "firstflight": "2006"
-        },
-        {
-            "name": "Pop's Props Pinocchio",
-            "firstflight": "1994"
-        },
-        {
-            "name": "Pop's Props Cloudster",
-            "firstflight": "1995"
-        },
-        {
-            "name": "Pop's Props Zing",
-            "firstflight": "1996"
-        },
-        {
-            "name": "RagWing RW1 Ultra-Piet",
-            "firstflight": "1994 (RW5 &amp; RW6)"
-        },
-        {
-            "name": "RagWing RW4 Midwing Sport",
-            "firstflight": "1994"
-        },
-        {
-            "name": "RagWing RW8 PT2S",
-            "firstflight": "1993"
-        },
-        {
-            "name": "RagWing RW9 Motor Bipe",
-            "firstflight": "1995"
-        },
-        {
-            "name": "Rocky Mountain Wings Ridge Runner",
-            "firstflight": "2000"
-        },
-        {
-            "name": "Dart Skycycle",
-            "firstflight": "1985"
-        },
-        {
-            "name": "Wood Sky Pup",
-            "firstflight": "1980"
-        },
-        {
-            "name": "Flying K Sky Raider",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Carlson Sparrow",
-            "firstflight": "1987"
-        },
-        {
-            "name": "Golden Circle Air T-Bird",
-            "firstflight": "1983"
-        },
-        {
-            "name": "Earthstar Thunder Gull",
-            "firstflight": "March 1987 (Thunder Gull)"
-        },
-        {
-            "name": "Titan Tornado",
-            "firstflight": "1994"
-        },
-        {
-            "name": "TL Ultralight TL-96 Star",
-            "firstflight": "November 1997"
-        },
-        {
-            "name": "Aeroprakt A-20 Vista",
-            "firstflight": "1991"
-        },
-        {
-            "name": "TL Ultralight Condor",
-            "firstflight": "1993"
-        },
-        {
-            "name": "Bailey-Moyes Dragonfly",
-            "firstflight": "1990"
-        },
-        {
-            "name": "Falconar Golden Hawk",
-            "firstflight": "1983"
-        },
-        {
-            "name": "Precision Tech Fergy",
-            "firstflight": "1991"
-        },
-        {
-            "name": "Buzzman L'il Buzzard",
-            "firstflight": "1990"
-        },
-        {
-            "name": "Arnet Pereyra Sabre II",
-            "firstflight": "July 1992"
-        },
-        {
-            "name": "Blue Yonder Merlin",
-            "firstflight": "1987"
-        },
-        {
-            "name": "M-Squared Breese",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Raj Hamsa X-Air",
-            "firstflight": "1993"
-        },
-        {
-            "name": "UFM Easy Riser",
-            "firstflight": "1975 (powered ultralight)"
-        },
-        {
-            "name": "Roko Aero NG4",
-            "firstflight": "23 March 2008 (LSA)"
-        },
-        {
-            "name": "Euro-ALA Jet Fox",
-            "firstflight": "1991"
-        },
-        {
-            "name": "Cyclone AX2000",
-            "firstflight": "c.1997"
-        },
-        {
-            "name": "US Aviation CAVU",
-            "firstflight": "1997"
-        },
-        {
-            "name": "Colomban MC-30 Luciole",
-            "firstflight": "9 March 2007"
-        },
-        {
-            "name": "BRM Aero Bristell",
-            "firstflight": "2010"
-        },
-        {
-            "name": "Volmer VJ-24W SunFun",
-            "firstflight": "1977"
-        },
-        {
-            "name": "Robertson B1-RD",
-            "firstflight": "June 1982"
-        },
-        {
-            "name": "US Aviation Cloud Dancer",
-            "firstflight": "1983"
-        },
-        {
-            "name": "Hovey Delta Bird",
-            "firstflight": "1982"
-        },
-        {
-            "name": "American Aerolights Eagle",
-            "firstflight": "1975"
-        },
-        {
-            "name": "Phase 3 Eclipse",
-            "firstflight": "1983"
-        },
-        {
-            "name": "St Croix Excelsior",
-            "firstflight": "1980"
-        },
-        {
-            "name": "Striplin F.L.A.C.",
-            "firstflight": "October 1978"
-        },
-        {
-            "name": "Goldwing Ltd Goldwing",
-            "firstflight": "1979"
-        },
-        {
-            "name": "Howland H-3 Pegasus",
-            "firstflight": "1988"
-        },
-        {
-            "name": "Howland H-2 Honey Bee",
-            "firstflight": "1986"
-        },
-        {
-            "name": "Gemini Hummingbird",
-            "firstflight": "1981"
-        },
-        {
-            "name": "Advanced Aviation Husky",
-            "firstflight": "1978"
-        },
-        {
-            "name": "Blue Yonder EZ Fun Flyer",
-            "firstflight": "2011"
-        },
-        {
-            "name": "Ultra-Efficient Products Invader",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Cascade Kasperwing I-80",
-            "firstflight": "1976"
-        },
-        {
-            "name": "Tomark Viper SD4",
-            "firstflight": "1 November 2006"
-        },
-        {
-            "name": "Mariner Aircraft Mariner",
-            "firstflight": "1989"
-        },
-        {
-            "name": "Mathews PUP",
-            "firstflight": "1983"
-        },
-        {
-            "name": "Chandelle Mk IV",
-            "firstflight": "1984"
-        },
-        {
-            "name": "Shark.Aero Shark",
-            "firstflight": "19 August 2009"
-        },
-        {
-            "name": "Meadowlark Ultralight Meadowlark",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Paup P-Craft",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Waspair HM 81 Tomcat",
-            "firstflight": "1980"
-        },
-        {
-            "name": "Rotec Rally",
-            "firstflight": "1977"
-        },
-        {
-            "name": "Rotec Panther",
-            "firstflight": "1984"
-        },
-        {
-            "name": "Ritz Model A",
-            "firstflight": "1984"
-        },
-        {
-            "name": "Skyhigh Skybaby",
-            "firstflight": "1983"
-        },
-        {
-            "name": "Raceair Skylite",
-            "firstflight": "1991"
-        },
-        {
-            "name": "TL Ultralight TL-3000 Sirius",
-            "firstflight": "21 May 2008"
-        },
-        {
-            "name": "Worldwide Ultralite Skyraider S/S",
-            "firstflight": "early 1980s"
-        },
-        {
-            "name": "UL-Jih Fascination",
-            "firstflight": "early 1996"
-        },
-        {
-            "name": "UL-Jih Evolution",
-            "firstflight": "16 February 2002"
-        },
-        {
-            "name": "Skye Treck Skyseeker",
-            "firstflight": "1981"
-        },
-        {
-            "name": "TL Ultralight TL-32 Typhoon",
-            "firstflight": "1991"
-        },
-        {
-            "name": "Eastern Ultralights Snoop",
-            "firstflight": "1981"
-        },
-        {
-            "name": "V-STOL Solution",
-            "firstflight": "1998"
-        },
-        {
-            "name": "Star Flight Starfire",
-            "firstflight": "1979"
-        },
-        {
-            "name": "Ultra-Fab Sundowner",
-            "firstflight": "1983"
-        },
-        {
-            "name": "Thor T/A",
-            "firstflight": "1985"
-        },
-        {
-            "name": "Aerodyne Systems Vector",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Greenwood Witch",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Chotia Woodhopper",
-            "firstflight": "1978"
-        },
-        {
-            "name": "Airborne XT",
-            "firstflight": "2003"
-        },
-        {
-            "name": "Ultimate Jetwing",
-            "firstflight": "1981"
-        },
-        {
-            "name": "Pegasus Quantum",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Pegasus Quik",
-            "firstflight": "~2003"
-        },
-        {
-            "name": "Aviate Raptor",
-            "firstflight": "1992"
-        },
-        {
-            "name": "Medway Av8R",
-            "firstflight": "2003"
-        },
-        {
-            "name": "Sabre 340",
-            "firstflight": "1991"
-        },
-        {
-            "name": "World Seair Corp Seair",
-            "firstflight": "July 1998"
-        },
-        {
-            "name": "Lookout Mountain SkyCycle",
-            "firstflight": "1997"
-        },
-        {
-            "name": "Solo Wings Windlass",
-            "firstflight": "circa 1987"
-        },
-        {
-            "name": "Solo Wings Aquilla",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "Flylight Doodle Bug",
-            "firstflight": "1999"
-        },
-        {
-            "name": "Swedish Aerosport Mosquito",
-            "firstflight": "1995"
-        },
-        {
-            "name": "Buckeye Dream Machine",
-            "firstflight": "1985"
-        },
-        {
-            "name": "Goodwin Buckshot",
-            "firstflight": "1998"
-        },
-        {
-            "name": "Emerald Coast XL2 Sport",
-            "firstflight": "2000"
-        },
-        {
-            "name": "Powrachute Pegasus",
-            "firstflight": "2000"
-        },
-        {
-            "name": "Tennessee Propellers Scout",
-            "firstflight": "1999"
-        },
-        {
-            "name": "Six Chuter SR7",
-            "firstflight": "1997"
-        },
-        {
-            "name": "Sky Seeker Powerchutes Sky Seeker",
-            "firstflight": "2000"
-        },
-        {
-            "name": "Summit 2",
-            "firstflight": "1999"
-        },
-        {
-            "name": "Goodwin Tri-Moto",
-            "firstflight": "1997"
-        },
-        {
-            "name": "St Andrews Viking",
-            "firstflight": "1998"
-        },
-        {
-            "name": "Fresh Breeze Solo",
-            "firstflight": "1980s"
-        },
-        {
-            "name": "Fresh Breeze Paratour Twin",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "Fresh Breeze Twin",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "Fresh Breeze Simonini",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "Fresh Breeze Monster",
-            "firstflight": "2000s"
-        },
-        {
-            "name": "Per Il Volo Miniplane",
-            "firstflight": "1989"
-        },
-        {
-            "name": "Daiichi Kosho Whisper",
-            "firstflight": "1992"
-        },
-        {
-            "name": "Paraborne Backplane",
-            "firstflight": "circa 1999"
-        },
-        {
-            "name": "Vortech G-1",
-            "firstflight": "1970s"
-        },
-        {
-            "name": "Vortech Kestrel Jet",
-            "firstflight": "1980s"
-        },
-        {
-            "name": "A2 CZ Ellipse Spirit",
-            "firstflight": "July 2011"
-        },
-        {
-            "name": "Aero & Tech Nexth",
-            "firstflight": "February 2012"
-        },
-        {
-            "name": "Aero Synergie J300 Joker",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "Aero-Kros MP-02 Czajka",
-            "firstflight": "2009"
-        },
-        {
-            "name": "Aeroalcool Quasar",
-            "firstflight": "2007"
-        },
-        {
-            "name": "Aeroflying Sensation",
-            "firstflight": "2007"
-        },
-        {
-            "name": "AeroJames 01 Isatis",
-            "firstflight": "April 2009"
-        },
-        {
-            "name": "Aeropilot Legend 540",
-            "firstflight": "2011"
-        },
-        {
-            "name": "DAR Solo",
-            "firstflight": "August 2008"
-        },
-        {
-            "name": "DAR 21 Vector II",
-            "firstflight": "1 August 2000"
-        },
-        {
-            "name": "Aeros UL-2000 Flamingo",
-            "firstflight": "2001"
-        },
-        {
-            "name": "Aerosette MH-46 Eclipse",
-            "firstflight": "2002"
-        },
-        {
-            "name": "Airflow Twinbee",
-            "firstflight": "2010"
-        },
-        {
-            "name": "AirLony Highlander",
-            "firstflight": "1998"
-        },
-        {
-            "name": "Airo 1",
-            "firstflight": "2008"
-        },
-        {
-            "name": "Air Sports AIRector 120",
-            "firstflight": "2010"
-        },
-        {
-            "name": "ATEC 321 Faeta",
-            "firstflight": "2003"
-        },
-        {
-            "name": "ATEC 122 Zephyr 2000",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Aurore MB 04 Souris Bulle",
-            "firstflight": "circa 1998"
-        },
-        {
-            "name": "Australian Aircraft Kits Hornet STOL",
-            "firstflight": "2004"
-        },
-        {
-            "name": "BOT SC07 Speed Cruiser",
-            "firstflight": "2009"
-        },
-        {
-            "name": "Blackshape Prime",
-            "firstflight": "2007"
-        },
-        {
-            "name": "Celier XeWing",
-            "firstflight": "2009"
-        },
-        {
-            "name": "Bushcaddy R-80",
-            "firstflight": "1994"
-        },
-        {
-            "name": "Colyaer Freedom S100",
-            "firstflight": "2006"
-        },
-        {
-            "name": "Ikarus C52",
-            "firstflight": "2011"
-        },
-        {
-            "name": "Egvoyager Voyager 203",
-            "firstflight": "May 2010"
-        },
-        {
-            "name": "Ehroflug Coach II S",
-            "firstflight": "1989"
-        },
-        {
-            "name": "Fly Synthesis Catalina",
-            "firstflight": "2010"
-        },
-        {
-            "name": "Fly Synthesis Storch",
-            "firstflight": "1990"
-        },
-        {
-            "name": "Fly Synthesis Syncro",
-            "firstflight": "2009"
-        },
-        {
-            "name": "Fly Synthesis Texan",
-            "firstflight": "1999"
-        },
-        {
-            "name": "Flying Machines FM250 Vampire",
-            "firstflight": "2007"
-        },
-        {
-            "name": "FlyNano Nano",
-            "firstflight": "11 June 2012"
-        },
-        {
-            "name": "Houde Bimax",
-            "firstflight": "September 2010"
-        },
-        {
-            "name": "Ibis GS-700 Magic",
-            "firstflight": "2003"
-        },
-        {
-            "name": "Mentzel Baltic Fox",
-            "firstflight": "2009"
-        },
-        {
-            "name": "Kubicek M-2 Scout",
-            "firstflight": "May 2009"
-        },
-        {
-            "name": "Light Wing AC4",
-            "firstflight": "2013"
-        },
-        {
-            "name": "Microleve Corsario",
-            "firstflight": "1988"
-        },
-        {
-            "name": "Peak Aerospace Me 109R",
-            "firstflight": "1991"
-        },
-        {
-            "name": "Pegasus EDA 100 Flamingo",
-            "firstflight": "Late 2013"
-        },
-        {
-            "name": "Pro.Mecc Freccia Anemo",
-            "firstflight": "2011"
-        },
-        {
-            "name": "Norman Aviation Nordic II",
-            "firstflight": "1986"
-        },
-        {
-            "name": "Norman Aviation J6 Karatoo",
-            "firstflight": "1988 (Norman Aviation version)"
-        },
-        {
-            "name": "Anglin J6 Karatoo",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Mosquito Aviation XE",
-            "firstflight": "2004"
-        },
-        {
-            "name": "Sapphire Aircraft Australia Sapphire LSA",
-            "firstflight": "late 1980s"
-        },
-        {
-            "name": "Letov LK-2 Sluka",
-            "firstflight": "1988"
-        },
-        {
-            "name": "Skyleader GP One",
-            "firstflight": "2010"
-        },
-        {
-            "name": "Slepcev Storch",
-            "firstflight": "1994"
-        },
-        {
-            "name": "Thruster T600 Sprint",
-            "firstflight": "mid-1990s"
-        },
-        {
-            "name": "ULBI Wild Thing",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Vervoost FV-3 Delphin",
-            "firstflight": "19 November 2009"
-        },
-        {
-            "name": "Weller ULI NG",
-            "firstflight": "2010"
-        },
-        {
-            "name": "Alpi Pioneer 400",
-            "firstflight": "Early 2013"
-        },
-        {
-            "name": "Hummel Ultracruiser",
-            "firstflight": "2000"
-        },
-        {
-            "name": "DAR-23",
-            "firstflight": "August 2001"
-        },
-        {
-            "name": "Synergy Paramotors Synergy",
-            "firstflight": "2012"
-        },
-        {
-            "name": "Sanstroem Friendship 3",
-            "firstflight": "July 2012"
-        },
-        {
-            "name": "Air Creation iXess",
-            "firstflight": "circa 2000"
-        },
-        {
-            "name": "Air Creation Skypper",
-            "firstflight": "2011"
-        },
-        {
-            "name": "Airbridge Cruiser Suzuki",
-            "firstflight": "2004"
-        },
-        {
-            "name": "Aviation Products Star Trike",
-            "firstflight": "1980"
-        },
-        {
-            "name": "Bautek Skycruiser",
-            "firstflight": "2009"
-        },
-        {
-            "name": "Cosmik Chaser",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "DTA Diva",
-            "firstflight": "2009"
-        },
-        {
-            "name": "DTA Magic",
-            "firstflight": "2010"
-        },
-        {
-            "name": "Electravia Electro Trike",
-            "firstflight": "June 2008"
-        },
-        {
-            "name": "Fly Air Swallow",
-            "firstflight": "2007"
-        },
-        {
-            "name": "Flylight Dragonfly",
-            "firstflight": "2007"
-        },
-        {
-            "name": "Flylight Motorfloater",
-            "firstflight": "2010"
-        },
-        {
-            "name": "General Aviation Design Bureau T-2 Maverick",
-            "firstflight": "1995"
-        },
-        {
-            "name": "Polaris AM-FIB",
-            "firstflight": "2003"
-        },
-        {
-            "name": "Polaris FIB",
-            "firstflight": "mid-1980s"
-        },
-        {
-            "name": "Polaris Skin",
-            "firstflight": "early 1980s"
-        },
-        {
-            "name": "Ramphos Trident",
-            "firstflight": "1998"
-        },
-        {
-            "name": "ViS Sprint",
-            "firstflight": "2004"
-        },
-        {
-            "name": "KhAZ ViS-3",
-            "firstflight": "8 October 2006"
-        },
-        {
-            "name": "Skyrider Stingray",
-            "firstflight": "2007"
-        },
-        {
-            "name": "Sunair Sunlight",
-            "firstflight": "circa 2010"
-        },
-        {
-            "name": "Take Off Merlin",
-            "firstflight": "1994"
-        },
-        {
-            "name": "Butterfly Banty",
-            "firstflight": "1984"
-        },
-        {
-            "name": "Duane's Hangar Ultrababy",
-            "firstflight": "circa 1997"
-        },
-        {
-            "name": "Freedom Lite SS-11 Skywatch",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Stern ST 87 Vega",
-            "firstflight": "July 1992"
-        },
-        {
-            "name": "Paxman Viper",
-            "firstflight": "1994"
-        },
-        {
-            "name": "Pipistrel Spider",
-            "firstflight": "1980s"
-        },
-        {
-            "name": "Progressive Aerodyne Stingray",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "Raisner Graffiti",
-            "firstflight": "circa 1997"
-        },
-        {
-            "name": "Rowley P-40F",
-            "firstflight": "1986"
-        },
-        {
-            "name": "Star-Lite Warp 1-A",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Synairgie Jet Ranger",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "Ultracraft Calypso",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "V-STOL XC 2000T",
-            "firstflight": "Fall of 1997"
-        },
-        {
-            "name": "Vintage Ultralight SR-1 Hornet",
-            "firstflight": "Early 1980s"
-        },
-        {
-            "name": "Chasle YC-100 Hirondelle",
-            "firstflight": "1 May 1985"
-        },
-        {
-            "name": "FK-Lightplanes SW51 Mustang",
-            "firstflight": "October 2014"
-        },
-        {
-            "name": "Raven Explorer I",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "Rotorwing-Aero 3D-RV",
-            "firstflight": "1989"
-        },
-        {
-            "name": "Parascender I",
-            "firstflight": "1989"
-        },
-        {
-            "name": "Parascender II",
-            "firstflight": "1990"
-        },
-        {
-            "name": "Calumet Snobird Explorer",
-            "firstflight": "May 1997"
-        },
-        {
-            "name": "Performance Aircraft Formula GT",
-            "firstflight": "1990s"
-        },
-        {
-            "name": "Spring WS202 Sprint",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Theiss Sportster",
-            "firstflight": "1998"
-        },
-        {
-            "name": "Ibis GS-501 Urraco",
-            "firstflight": "2000"
-        },
-        {
-            "name": "Ibis GS-600 Arrow",
-            "firstflight": "2000"
-        },
-        {
-            "name": "Vancil Spitz S1",
-            "firstflight": "late 1990s"
-        },
-        {
-            "name": "Huntwing",
-            "firstflight": "1982"
-        },
-        {
-            "name": "Jeof Candiana",
-            "firstflight": "mid-1990s"
-        },
-        {
-            "name": "Aerochute International Dual",
-            "firstflight": "1992"
-        },
-        {
-            "name": "Air Sylphe Bi 582",
-            "firstflight": "2004"
-        },
-        {
-            "name": "Bilsam Sky Cruiser",
-            "firstflight": "early 2000s"
-        },
-        {
-            "name": "Eagles Wing Scout",
-            "firstflight": "1999"
-        },
-        {
-            "name": "Explorair Relax MV",
-            "firstflight": "circa 2002"
-        },
-        {
-            "name": "EuroSport Crossover",
-            "firstflight": "23 July 2013"
-        },
-        {
-            "name": "WLT Sparrow",
-            "firstflight": "24 August 2010"
-        },
-        {
-            "name": "Fly Castelluccio Diavolo",
-            "firstflight": "circa 2004"
-        },
-        {
-            "name": "Kolb Flyer Powered Parachute",
-            "firstflight": "circa 2001"
-        },
-        {
-            "name": "New PowerChutes Gemini",
-            "firstflight": "2001"
-        },
-        {
-            "name": "Sky Science PowerHawk",
-            "firstflight": "circa 2000"
-        },
-        {
-            "name": "Skymaster Single Seater",
-            "firstflight": "circa 2004"
-        },
-        {
-            "name": "Soaring Concepts Sky Trek",
-            "firstflight": "2000"
-        },
-        {
-            "name": "Airframes Unlimited SS-2 Trainer",
-            "firstflight": "2003"
-        },
-        {
-            "name": "Technic'air Fly Roller",
-            "firstflight": "1999"
-        },
-        {
-            "name": "Viking Aircraft Viking II",
-            "firstflight": "2000"
-        },
-        {
-            "name": "Fly Castelluccio Flash",
-            "firstflight": "2000s"
-        },
-        {
-            "name": "Fly Castelluccio Mach",
-            "firstflight": "2000s"
-        },
-        {
-            "name": "Fly Castelluccio SMN",
-            "firstflight": "2000s"
-        },
-        {
-            "name": "Fresh Breeze Airbass",
-            "firstflight": "mid-2000s"
-        },
-        {
-            "name": "Fresh Breeze Respect",
-            "firstflight": "mid-2000s"
-        },
-        {
-            "name": "Paramania Vortex",
-            "firstflight": "2002"
-        },
-        {
-            "name": "Parasport.de Fun",
-            "firstflight": "2000s"
-        },
-        {
-            "name": "Paratour SD",
-            "firstflight": "mid 2000s"
-        },
-        {
-            "name": "Skyrunner Basic",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Skyrunner Powerful",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Skyrunner Booster",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Skyrunner Light",
-            "firstflight": "1996"
-        },
-        {
-            "name": "Sokopf Falke",
-            "firstflight": "1998"
-        },
-        {
-            "name": "Aeromarine Merlin",
-            "firstflight": "2016"
+            "year": 1982,
+            "decade": 1980
         }
     ]
 }
