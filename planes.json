@@ -1,160 +1,95 @@
 {
+    "meta": {
+        "planecount": 10
+    },
     "planes": [
         {
+            "capacity": " 2",
+            "decade": 1990,
+            "emptyweight": 186.0,
+            "grossweight": 431.0,
+            "htmllength": 34700,
+            "length": 6.76,
             "name": "Advanced Aeromarine Carrera",
-            "decade": 1990
+            "wingspan": 9.53
         },
         {
+            "decade": 1980,
+            "emptyweight": 147.0,
+            "grossweight": 560.0,
+            "htmllength": 44583,
             "name": "Advanced Aeromarine Buccaneer",
-            "year": 1984,
-            "decade": 1980
+            "wingspan": 10.21,
+            "year": 1984
         },
         {
+            "decade": 1980,
+            "emptyweight": 107.0,
+            "grossweight": 238.0,
+            "htmllength": 31797,
             "name": "Advanced Aviation Cobra",
-            "decade": 1980
+            "wingspan": 11.0
         },
         {
+            "capacity": " one passenger",
+            "decade": 1990,
+            "emptyweight": 218.0,
+            "grossweight": 476.0,
+            "htmllength": 47587,
+            "length": 6.86,
             "name": "Advanced Aviation Explorer",
-            "decade": 1990
+            "wingspan": 9.04
         },
         {
-            "name": "A\u00e9riane Swift",
-            "error": "UnicodeEncodeError"
+            "error": "UnicodeEncodeError",
+            "name": "A\u00e9riane Swift"
         },
         {
+            "decade": 1990,
+            "emptyweight": 325.0,
+            "grossweight": 650.0,
+            "htmllength": 45517,
+            "length": 6.25,
             "name": "Aero Adventure Aventura",
-            "year": 1995,
-            "decade": 1990
+            "wingspan": 8.48,
+            "year": 1995
         },
         {
+            "decade": 1980,
+            "emptyweight": 109.0,
+            "grossweight": 249.0,
+            "htmllength": 39264,
             "name": "Mitchell U-2 Superwing",
-            "year": 1980,
-            "decade": 1980
+            "wingspan": 10.0,
+            "year": 1980
         },
         {
-            "name": "Eipper Quicksilver"
+            "emptyweight": 113.0,
+            "grossweight": 238.0,
+            "htmllength": 63252,
+            "length": 5.51,
+            "name": "Eipper Quicksilver",
+            "wingspan": 8.53
         },
         {
+            "decade": 1980,
+            "emptyweight": 263.0,
+            "htmllength": 61331,
+            "length": 6.38,
             "name": "Zenith STOL CH 701",
-            "year": 1986,
-            "decade": 1980
+            "wingspan": 8.23,
+            "year": 1986
         },
         {
+            "capacity": " one passenger",
+            "decade": 2000,
+            "emptyweight": 388.0,
+            "grossweight": 600.0,
+            "htmllength": 85475,
+            "length": 6.62,
             "name": "CZAW SportCruiser",
-            "year": 2006,
-            "decade": 2000
-        },
-        {
-            "name": "Aerosport Rail",
-            "year": 1970,
-            "decade": 1970
-        },
-        {
-            "name": "Bradley Aerobat"
-        },
-        {
-            "name": "Chotia Weedhopper",
-            "year": 1977,
-            "decade": 1970
-        },
-        {
-            "name": "E-Go Aeroplanes e-Go",
-            "year": 2013,
-            "decade": 2010
-        },
-        {
-            "name": "Hovey Whing Ding",
-            "year": 1971,
-            "decade": 1970
-        },
-        {
-            "name": "Janowski Don Kichot"
-        },
-        {
-            "name": "MAI-223",
-            "year": 2004,
-            "decade": 2000
-        },
-        {
-            "name": "Canaero Toucan",
-            "year": 1983,
-            "decade": 1980
-        },
-        {
-            "name": "Lamco Eurocub"
-        },
-        {
-            "name": "Fisher Dakota Hawk",
-            "year": 1993,
-            "decade": 1990
-        },
-        {
-            "name": "Fisher FP-101",
-            "year": 1982,
-            "decade": 1980
-        },
-        {
-            "name": "Fisher Flyer",
-            "year": 1980,
-            "decade": 1980
-        },
-        {
-            "name": "Freebird I",
-            "year": 1998,
-            "decade": 1990
-        },
-        {
-            "name": "Freebird II",
-            "year": 1996,
-            "decade": 1990
-        },
-        {
-            "name": "Birdman Atlas",
-            "year": 1980,
-            "decade": 1980
-        },
-        {
-            "name": "InterPlane Griffon",
-            "year": 1992,
-            "decade": 1990
-        },
-        {
-            "name": "InterPlane Skyboy",
-            "year": 1992,
-            "decade": 1990
-        },
-        {
-            "name": "CGS Hawk",
-            "year": 1982,
-            "decade": 1980
-        },
-        {
-            "name": "Team Mini-Max Hi-MAX",
-            "year": 1987,
-            "decade": 1980
-        },
-        {
-            "name": "Mini-MAX",
-            "year": 1984,
-            "decade": 1980
-        },
-        {
-            "name": "Watkinson Dingbat",
-            "year": 1938,
-            "decade": 1930
-        },
-        {
-            "name": "Murphy Renegade"
-        },
-        {
-            "name": "Fisher Barnstormer",
-            "year": 1982,
-            "decade": 1980
-        },
-        {
-            "name": "Fisher Boomerang",
-            "year": 1982,
-            "decade": 1980
+            "wingspan": 8.6,
+            "year": 2006
         }
     ]
 }
