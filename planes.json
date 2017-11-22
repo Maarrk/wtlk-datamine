@@ -1,16 +1,24 @@
 {
     "meta": {
-        "planecount": 10
+        "planecount": 13,
+        "units": {
+            "dimensions": "m",
+            "mass": "kg",
+            "speed": "kn"
+        }
     },
     "planes": [
         {
             "capacity": " 2",
+            "cruisespeed": 55.0,
             "decade": 1990,
             "emptyweight": 186.0,
             "grossweight": 431.0,
             "htmllength": 34700,
             "length": 6.76,
+            "maxspeed": 65.0,
             "name": "Advanced Aeromarine Carrera",
+            "stallspeed": 27.0,
             "wingspan": 9.53
         },
         {
@@ -18,26 +26,33 @@
             "emptyweight": 147.0,
             "grossweight": 560.0,
             "htmllength": 44583,
+            "maxspeed": 65.0,
             "name": "Advanced Aeromarine Buccaneer",
             "wingspan": 10.21,
             "year": 1984
         },
         {
+            "cruisespeed": 48.0,
             "decade": 1980,
             "emptyweight": 107.0,
             "grossweight": 238.0,
             "htmllength": 31797,
+            "maxspeed": 56.0,
             "name": "Advanced Aviation Cobra",
+            "stallspeed": 21.0,
             "wingspan": 11.0
         },
         {
             "capacity": " one passenger",
+            "cruisespeed": 63.0,
             "decade": 1990,
             "emptyweight": 218.0,
             "grossweight": 476.0,
             "htmllength": 47587,
             "length": 6.86,
+            "maxspeed": 78.0,
             "name": "Advanced Aviation Explorer",
+            "stallspeed": 29.0,
             "wingspan": 9.04
         },
         {
@@ -50,6 +65,7 @@
             "grossweight": 650.0,
             "htmllength": 45517,
             "length": 6.25,
+            "maxspeed": 74.0,
             "name": "Aero Adventure Aventura",
             "wingspan": 8.48,
             "year": 1995
@@ -60,36 +76,82 @@
             "grossweight": 249.0,
             "htmllength": 39264,
             "name": "Mitchell U-2 Superwing",
+            "stallspeed": 23.0,
             "wingspan": 10.0,
             "year": 1980
         },
         {
+            "cruisespeed": 43.0,
             "emptyweight": 113.0,
             "grossweight": 238.0,
             "htmllength": 63252,
             "length": 5.51,
+            "maxspeed": 47.0,
             "name": "Eipper Quicksilver",
+            "stallspeed": 21.0,
             "wingspan": 8.53
         },
         {
+            "cruisespeed": 70.0,
             "decade": 1980,
             "emptyweight": 263.0,
             "htmllength": 61331,
             "length": 6.38,
+            "maxspeed": 74.0,
             "name": "Zenith STOL CH 701",
+            "stallspeed": 26.0,
             "wingspan": 8.23,
             "year": 1986
         },
         {
             "capacity": " one passenger",
+            "cruisespeed": 93.0,
             "decade": 2000,
             "emptyweight": 388.0,
             "grossweight": 600.0,
             "htmllength": 85475,
             "length": 6.62,
+            "maxspeed": 119.0,
             "name": "CZAW SportCruiser",
+            "stallspeed": 30.0,
             "wingspan": 8.6,
             "year": 2006
+        },
+        {
+            "cruisespeed": 57.0,
+            "decade": 1970,
+            "emptyweight": 172.0,
+            "grossweight": 295.0,
+            "htmllength": 37820,
+            "length": 4.8,
+            "maxspeed": 83.0,
+            "name": "Aerosport Rail",
+            "stallspeed": 36.0,
+            "wingspan": 7.11,
+            "year": 1970
+        },
+        {
+            "cruisespeed": 130.0,
+            "emptyweight": 158.0,
+            "grossweight": 281.0,
+            "htmllength": 37069,
+            "length": 4.42,
+            "maxspeed": 174.0,
+            "name": "Bradley Aerobat",
+            "stallspeed": 43.0,
+            "wingspan": 5.61
+        },
+        {
+            "cruisespeed": 48.0,
+            "decade": 1970,
+            "emptyweight": 113.0,
+            "grossweight": 249.0,
+            "htmllength": 53166,
+            "length": 5.64,
+            "name": "Chotia Weedhopper",
+            "stallspeed": 17.0,
+            "wingspan": 8.53,
+            "year": 1977
         }
     ]
 }

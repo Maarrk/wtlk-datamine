@@ -16,7 +16,7 @@ petfile = open('petscan.json', 'r')
 petdata = json.load(petfile)
 titles = [page['title'] for page in petdata['*'][0]['a']['*']]
 
-planedata = {'planes':[]}
+planedata = {'planes':[], 'meta': {'units': {'dimensions': 'm', 'mass': 'kg', 'speed': 'kn'}}}
 
 # Patterns:
 pat_firstflight = re.compile(r'(First flight|Introduction)</th>\n<td>(.*?)<')
@@ -25,6 +25,9 @@ pat_length = re.compile(r'<li><b>Length:</b>(.*?)\D([0-9|\.]*?)&#160;m')
 pat_wingspan = re.compile(r'<li><b>Wingspan:</b>(.*?)\D([0-9|\.]*?)&#160;m')
 pat_emptyweight = re.compile(r'<li><b>Empty weight:</b>(.*?)\D([0-9|\.]*?)&#160;kg')
 pat_grossweight = re.compile(r'<li><b>Gross weight:</b>(.*?)\D([0-9|\.]*?)&#160;kg')
+pat_maxspeed = re.compile(r'<li><b>Maximum speed:</b>(.*?)\D([0-9|\.]*?)&#160;kn')
+pat_cruisespeed = re.compile(r'<li><b>Cruise speed:</b>(.*?)\D([0-9|\.]*?)&#160;kn')
+pat_stallspeed = re.compile(r'<li><b>Stall speed:</b>(.*?)\D([0-9|\.]*?)&#160;kn')
 
 try:
     for i in range(len(titles)):
@@ -93,6 +96,30 @@ try:
                     except:
                         pass
 
+                # Maximum speed:
+                result = pat_maxspeed.search(html)
+                if result:
+                    try:
+                        plane['maxspeed'] = float(result.group(2))
+                    except:
+                        pass
+
+                # Cruise speed:
+                result = pat_cruisespeed.search(html)
+                if result:
+                    try:
+                        plane['cruisespeed'] = float(result.group(2))
+                    except:
+                        pass
+
+                # Stall speed:
+                result = pat_stallspeed.search(html)
+                if result:
+                    try:
+                        plane['stallspeed'] = float(result.group(2))
+                    except:
+                        pass
+
         except UnicodeEncodeError:
             print(Fore.RED + titles[i] + ' has bad encoding' + Fore.RESET)
             plane['error'] = 'UnicodeEncodeError'
@@ -101,8 +128,8 @@ try:
 
 except KeyboardInterrupt:
     print('Saving to JSON file...')
+    planedata['meta']['planecount'] = len(planedata['planes'])
     planefile = open('planes.json', 'w')
-    planedata['meta'] = {'planecount': len(planedata['planes'])}
     planefile.write(json.dumps(planedata, indent=4, sort_keys=True))
     planefile.close()
     print(Fore.GREEN + 'JSON file saved' + Fore.RESET)
