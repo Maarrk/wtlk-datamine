@@ -29,6 +29,16 @@ pat_maxspeed = re.compile(r'<li><b>Maximum speed:</b>(.*?)\D([0-9|\.]*?)&#160;kn
 pat_cruisespeed = re.compile(r'<li><b>Cruise speed:</b>(.*?)\D([0-9|\.]*?)&#160;kn')
 pat_stallspeed = re.compile(r'<li><b>Stall speed:</b>(.*?)\D([0-9|\.]*?)&#160;kn')
 
+parseparam_names = ['length', 'wingspan', 'emptyweight', 'grossweight', 'maxspeed', 'cruisespeed', 'stallspeed']
+
+def parseparam(name, plane, html):
+    result = eval('pat_{}.search(html)'.format(name))
+    if result:
+        try:
+            plane[name] = float(result.group(2))
+        except:
+            pass
+
 try:
     for i in range(len(titles)):
         plane = {'name': titles[i].replace('_', ' ')}
@@ -64,61 +74,8 @@ try:
                 if result:
                     plane['capacity'] = result.group(1)
 
-                # Length:
-                result = pat_length.search(html)
-                if result:
-                    try:
-                        plane['length'] = float(result.group(2))
-                    except:
-                        pass
-
-                # Wingspan:
-                result = pat_wingspan.search(html)
-                if result:
-                    try:
-                        plane['wingspan'] = float(result.group(2))
-                    except:
-                        pass
-
-                # Empty weight:
-                result = pat_emptyweight.search(html)
-                if result:
-                    try:
-                        plane['emptyweight'] = float(result.group(2))
-                    except:
-                        pass
-
-                # Gross weight:
-                result = pat_grossweight.search(html)
-                if result:
-                    try:
-                        plane['grossweight'] = float(result.group(2))
-                    except:
-                        pass
-
-                # Maximum speed:
-                result = pat_maxspeed.search(html)
-                if result:
-                    try:
-                        plane['maxspeed'] = float(result.group(2))
-                    except:
-                        pass
-
-                # Cruise speed:
-                result = pat_cruisespeed.search(html)
-                if result:
-                    try:
-                        plane['cruisespeed'] = float(result.group(2))
-                    except:
-                        pass
-
-                # Stall speed:
-                result = pat_stallspeed.search(html)
-                if result:
-                    try:
-                        plane['stallspeed'] = float(result.group(2))
-                    except:
-                        pass
+                for name in parseparam_names:
+                    parseparam(name, plane, html)
 
         except UnicodeEncodeError:
             print(Fore.RED + titles[i] + ' has bad encoding' + Fore.RESET)
