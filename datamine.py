@@ -20,7 +20,8 @@ title_count = len(titles)
 planedata = {'planes':[], 'meta': {'units': {'dimensions': 'm', 'area': 'm^2', 'mass': 'kg', 'speed': 'kn', 'distance': 'nmi', 'fuel': 'litre', 'power': 'kW'}}}
 
 # Patterns:
-pat_firstflight = re.compile(r'(First flight|Introduction)</th>\n<td>(.*?)<')
+pat_firstflight = re.compile(r'(First flight|Introduction)</th>\n<td>(.*?)</td>')
+pat_decade_category = re.compile(r'<a href="/wiki/Help:Category" title="Help:Category">Categories</a>:(.*?)(\d\d\d\d)–\d\d\d\d</a>')
 pat_crew = re.compile(r'<li><b>Crew:</b> (.*?)</li>')
 pat_capacity = re.compile(r'<li><b>Capacity:</b> (.*?)</li>')
 pat_length = re.compile(r'<li><b>Length:</b>(.*?)\D([0-9|\.]*?)&#160;m')
@@ -82,7 +83,14 @@ try:
                         else:
                             print(progress + Fore.RED + titles[i] + ' has no First flight / Introduction year or decade' + Fore.RESET)
                 else:
-                    print(progress + Fore.RED + titles[i] + ' has no First flight / Introduction data' + Fore.RESET)
+                    # Decade from category name:
+                    result = pat_decade_category.search(html)
+                    if result:
+                        dec_num = int(result.group(2))
+                        print(progress + Fore.YELLOW + title + ' ' + str(dec_num) + Fore.RESET)
+                        plane['decade'] = dec_num
+                    else:    
+                        print(progress + Fore.RED + titles[i] + ' has no First flight / Introduction data' + Fore.RESET)
 
                 # Crew:
                 result = pat_crew.search(html)
