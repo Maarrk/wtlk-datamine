@@ -16,20 +16,25 @@ petfile = open('petscan.json', 'r')
 petdata = json.load(petfile)
 titles = [page['title'] for page in petdata['*'][0]['a']['*']]
 
-planedata = {'planes':[], 'meta': {'units': {'dimensions': 'm', 'mass': 'kg', 'speed': 'kn'}}}
+planedata = {'planes':[], 'meta': {'units': {'dimensions': 'm', 'area': 'm^2', 'mass': 'kg', 'speed': 'kn', 'distance': 'nmi', 'fuel': 'litre', 'power': 'kW'}}}
 
 # Patterns:
 pat_firstflight = re.compile(r'(First flight|Introduction)</th>\n<td>(.*?)<')
-pat_capacity = re.compile(r'<li><b>Capacity:</b>(.*?)</li>')
+pat_crew = re.compile(r'<li><b>Crew:</b> (.*?)</li>')
+pat_capacity = re.compile(r'<li><b>Capacity:</b> (.*?)</li>')
 pat_length = re.compile(r'<li><b>Length:</b>(.*?)\D([0-9|\.]*?)&#160;m')
 pat_wingspan = re.compile(r'<li><b>Wingspan:</b>(.*?)\D([0-9|\.]*?)&#160;m')
+pat_wingarea = re.compile(r'<li><b>Wing area:</b>(.*?)\D([0-9|\.]*?)&#160;m<sup>2</sup>')
 pat_emptyweight = re.compile(r'<li><b>Empty weight:</b>(.*?)\D([0-9|\.]*?)&#160;kg')
 pat_grossweight = re.compile(r'<li><b>Gross weight:</b>(.*?)\D([0-9|\.]*?)&#160;kg')
 pat_maxspeed = re.compile(r'<li><b>Maximum speed:</b>(.*?)\D([0-9|\.]*?)&#160;kn')
 pat_cruisespeed = re.compile(r'<li><b>Cruise speed:</b>(.*?)\D([0-9|\.]*?)&#160;kn')
 pat_stallspeed = re.compile(r'<li><b>Stall speed:</b>(.*?)\D([0-9|\.]*?)&#160;kn')
+pat_range = re.compile(r'<li><b>Range:</b>(.*?)\D([0-9|\.]*?)&#160;nmi')
+pat_fuelcapacity = re.compile(r'<li><b>Fuel capacity:</b>(.*?)\D([0-9|\.]*?)&#160;(litres|L)')
+pat_power = re.compile(r'<li><b>Powerplant:</b>(.*?)\D([0-9|\.]*?)&#160;kW')
 
-parseparam_names = ['length', 'wingspan', 'emptyweight', 'grossweight', 'maxspeed', 'cruisespeed', 'stallspeed']
+parseparam_names = ['length', 'wingspan', 'wingarea', 'emptyweight', 'grossweight', 'maxspeed', 'cruisespeed', 'stallspeed', 'range', 'fuelcapacity', 'power']
 
 def parseparam(name, plane, html):
     result = eval('pat_{}.search(html)'.format(name))
@@ -69,11 +74,17 @@ try:
                 else:
                     print(Fore.RED + titles[i] + ' has no First flight / Introduction data' + Fore.RESET)
 
+                # Crew:
+                result = pat_crew.search(html)
+                if result:
+                    plane['crew'] = result.group(1)
+
                 # Capacity:
                 result = pat_capacity.search(html)
                 if result:
                     plane['capacity'] = result.group(1)
 
+                # Scalar parameters:
                 for name in parseparam_names:
                     parseparam(name, plane, html)
 

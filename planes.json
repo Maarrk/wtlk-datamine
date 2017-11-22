@@ -1,6 +1,6 @@
 {
     "meta": {
-        "planecount": 13,
+        "planecount": 12,
         "units": {
             "dimensions": "m",
             "mass": "kg",
@@ -35,10 +35,12 @@
             "cruisespeed": 48.0,
             "decade": 1980,
             "emptyweight": 107.0,
+            "fuelcapacity": 18.0,
             "grossweight": 238.0,
             "htmllength": 31797,
             "maxspeed": 56.0,
             "name": "Advanced Aviation Cobra",
+            "range": 113.0,
             "stallspeed": 21.0,
             "wingspan": 11.0
         },
@@ -52,6 +54,7 @@
             "length": 6.86,
             "maxspeed": 78.0,
             "name": "Advanced Aviation Explorer",
+            "range": 174.0,
             "stallspeed": 29.0,
             "wingspan": 9.04
         },
@@ -73,9 +76,11 @@
         {
             "decade": 1980,
             "emptyweight": 109.0,
+            "fuelcapacity": 11.0,
             "grossweight": 249.0,
             "htmllength": 39264,
             "name": "Mitchell U-2 Superwing",
+            "range": 156.0,
             "stallspeed": 23.0,
             "wingspan": 10.0,
             "year": 1980
@@ -99,6 +104,7 @@
             "length": 6.38,
             "maxspeed": 74.0,
             "name": "Zenith STOL CH 701",
+            "range": 323.0,
             "stallspeed": 26.0,
             "wingspan": 8.23,
             "year": 1986
@@ -113,6 +119,7 @@
             "length": 6.62,
             "maxspeed": 119.0,
             "name": "CZAW SportCruiser",
+            "range": 515.0,
             "stallspeed": 30.0,
             "wingspan": 8.6,
             "year": 2006
@@ -126,6 +133,7 @@
             "length": 4.8,
             "maxspeed": 83.0,
             "name": "Aerosport Rail",
+            "range": 104.0,
             "stallspeed": 36.0,
             "wingspan": 7.11,
             "year": 1970
@@ -133,25 +141,15 @@
         {
             "cruisespeed": 130.0,
             "emptyweight": 158.0,
+            "fuelcapacity": 38.0,
             "grossweight": 281.0,
             "htmllength": 37069,
             "length": 4.42,
             "maxspeed": 174.0,
             "name": "Bradley Aerobat",
+            "range": 348.0,
             "stallspeed": 43.0,
             "wingspan": 5.61
-        },
-        {
-            "cruisespeed": 48.0,
-            "decade": 1970,
-            "emptyweight": 113.0,
-            "grossweight": 249.0,
-            "htmllength": 53166,
-            "length": 5.64,
-            "name": "Chotia Weedhopper",
-            "stallspeed": 17.0,
-            "wingspan": 8.53,
-            "year": 1977
         }
     ]
 }
