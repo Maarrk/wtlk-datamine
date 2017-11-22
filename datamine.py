@@ -15,6 +15,7 @@ petfile = open('petscan.json', 'r')
 
 petdata = json.load(petfile)
 titles = [page['title'] for page in petdata['*'][0]['a']['*']]
+title_count = len(titles)
 
 planedata = {'planes':[], 'meta': {'units': {'dimensions': 'm', 'area': 'm^2', 'mass': 'kg', 'speed': 'kn', 'distance': 'nmi', 'fuel': 'litre', 'power': 'kW'}}}
 
@@ -44,11 +45,20 @@ def parseparam(name, plane, html):
         except:
             pass
 
+def save_planes(data):
+    print('Saving to JSON file...')
+    data['meta']['planecount'] = len(data['planes'])
+    planefile = open('planes.json', 'w')
+    planefile.write(json.dumps(data, indent=4, sort_keys=True))
+    planefile.close()
+    print(Fore.GREEN + 'JSON file saved' + Fore.RESET)
+
 try:
-    for i in range(len(titles)):
-        plane = {'name': titles[i].replace('_', ' ')}
+    for i, title in enumerate(titles):
+        plane = {'name': title.replace('_', ' ')}
+        progress = '{}/{} '.format(i, title_count)
         try:
-            with urllib.request.urlopen('https://en.wikipedia.org/wiki/' + titles[i]) as response:
+            with urllib.request.urlopen('https://en.wikipedia.org/wiki/' + title) as response:
                 html = response.read().decode('utf-8')
                 plane['htmllength'] = len(html)
                 # pprint(html)
@@ -60,19 +70,19 @@ try:
                     decade = re.search(r'\d\d\d\ds', firstflight)
                     if decade:
                         dec_num = int(decade.group()[:-1])
-                        print(Fore.YELLOW + titles[i] + ' ' + str(dec_num) + Fore.RESET)
+                        print(progress + Fore.YELLOW + titles[i] + ' ' + str(dec_num) + Fore.RESET)
                         plane['decade'] = dec_num
                     else:
                         year = re.search(r'\d\d\d\d', firstflight)
                         if year:
                             y_num = int(year.group())
-                            print(Fore.GREEN + titles[i] + ' ' + str(y_num) + Fore.RESET)
+                            print(progress + Fore.GREEN + title + ' ' + str(y_num) + Fore.RESET)
                             plane['year'] = y_num
                             plane['decade'] = y_num - y_num % 10
                         else:
-                            print(Fore.RED + titles[i] + ' has no First flight / Introduction year or decade' + Fore.RESET)
+                            print(progress + Fore.RED + titles[i] + ' has no First flight / Introduction year or decade' + Fore.RESET)
                 else:
-                    print(Fore.RED + titles[i] + ' has no First flight / Introduction data' + Fore.RESET)
+                    print(progress + Fore.RED + titles[i] + ' has no First flight / Introduction data' + Fore.RESET)
 
                 # Crew:
                 result = pat_crew.search(html)
@@ -89,15 +99,12 @@ try:
                     parseparam(name, plane, html)
 
         except UnicodeEncodeError:
-            print(Fore.RED + titles[i] + ' has bad encoding' + Fore.RESET)
+            print(Fore.RED + title + ' has bad encoding' + Fore.RESET)
             plane['error'] = 'UnicodeEncodeError'
 
         planedata['planes'].append(plane)
 
 except KeyboardInterrupt:
-    print('Saving to JSON file...')
-    planedata['meta']['planecount'] = len(planedata['planes'])
-    planefile = open('planes.json', 'w')
-    planefile.write(json.dumps(planedata, indent=4, sort_keys=True))
-    planefile.close()
-    print(Fore.GREEN + 'JSON file saved' + Fore.RESET)
+    pass
+
+save_planes(planedata)
