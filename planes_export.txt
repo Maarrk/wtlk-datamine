@@ -1,783 +1,783 @@
-name; year; decade; crew; capacity; length; wingspan; emptyweight
-Advanced Aeromarine Carrera; UNKNOWN; 1990; 1; 2; 6.76; 9.53; 186.0
-Advanced Aeromarine Buccaneer; 1984; 1980; UNKNOWN; UNKNOWN; UNKNOWN; 10.21; 147.0
-Advanced Aviation Cobra; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 11.0; 107.0
-Advanced Aviation Explorer; UNKNOWN; 1990; one; one passenger; 6.86; 9.04; 218.0
-Aériane Swift; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Aero Adventure Aventura; 1995; 1990; 1; UNKNOWN; 6.25; 8.48; 325.0
-Mitchell U-2 Superwing; 1980; 1980; one; UNKNOWN; UNKNOWN; 10.0; 109.0
-Eipper Quicksilver; UNKNOWN; 1970; one; UNKNOWN; 5.51; 8.53; 113.0
-Zenith STOL CH 701; 1986; 1980; two; UNKNOWN; 6.38; 8.23; 263.0
-CZAW SportCruiser; 2006; 2000; one; one passenger; 6.62; 8.6; 388.0
-Aerosport Rail; 1970; 1970; 1 (pilot); UNKNOWN; 4.8; 7.11; 172.0
-Bradley Aerobat; UNKNOWN; 1990; one; UNKNOWN; 4.42; 5.61; 158.0
-Chotia Weedhopper; 1977; 1970; one; UNKNOWN; 5.64; 8.53; 113.0
-E-Go Aeroplanes e-Go; 2013; 2010; one; UNKNOWN; UNKNOWN; 8.0; 115.0
-Hovey Whing Ding; 1971; 1970; one; UNKNOWN; 4.3; 5.2; 55.0
-Janowski Don Kichot; 1970; 1970; 1; UNKNOWN; 4.88; 7.6; 163.0
-MAI-223; 2004; 2000; 2; UNKNOWN; 6.0; 8.19; 320.0
-Canaero Toucan; 1983; 1980; one; one passenger; 5.7849; 11.73; 178.0
-Lamco Eurocub; UNKNOWN; 1990; one; one passenger; 5.7; 9.55; UNKNOWN
-Fisher Dakota Hawk; 1993; 1990; one; one passenger; 6.02; 8.69; 272.0
-Fisher FP-101; 1982; 1980; one; UNKNOWN; 5.03; 8.79; 112.0
-Fisher Flyer; 1980; 1980; one; UNKNOWN; 4.27; 7.92; 109.0
-Freebird I; 1998; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 114.0
-Freebird II; 1996; 1990; one; one passenger; 5.4; 8.5; 175.0
-Birdman Atlas; 1980; 1980; one; UNKNOWN; 4.27; 9.75; 94.0
-InterPlane Griffon; 1992; 1990; one; UNKNOWN; 5.72; 10.03; 155.0
-InterPlane Skyboy; 1992; 1990; one; one passenger; 6.1; 10.49; 222.0
-CGS Hawk; 1982; 1980; one; UNKNOWN; 6.27; 8.79; 141.0
-Team Mini-Max Hi-MAX; 1987; 1980; one; UNKNOWN; 4.88; 7.62; 149.0
-Mini-MAX; 1984; 1980; one; UNKNOWN; 4.88; 8.08; 181.0
-Watkinson Dingbat; 1938; 1930; 1; UNKNOWN; 4.88; 8.53; 209.0
-Murphy Renegade; UNKNOWN; 1980; one; one passenger; 5.61; UNKNOWN; 170.0
-Fisher Barnstormer; 1982; 1980; one; no passengers; UNKNOWN; 6.1; 100.0
-Fisher Boomerang; 1982; 1980; one; no passengers; UNKNOWN; 8.53; 86.0
-Norman Aviation Nordic VI; UNKNOWN; 1990; 2; UNKNOWN; 6.15; 10.21; 266.0
-Normand Dube Aerocruiser; 1985; 1980; one; one passenger; UNKNOWN; 9.75; 240.0
-Excalibur Aircraft Excalibur; 1993; 1990; one; one passenger; 6.1; 9.6; 204.0
-Airconcept VoWi 10; 1975; 1970; 2; UNKNOWN; 5.89; 11.0; 265.0
-Sorrell Hiperlight; 1982; 1980; one; UNKNOWN; 4.72; 6.71; 112.0
-Preceptor N3 Pup; UNKNOWN; 1990; one; UNKNOWN; 5.03; 9.3; 115.0
-Hipp's Superbirds J-3 Kitten; 1986; 1980; one; UNKNOWN; 4.95; 9.14; 113.0
-Hy-Tek Hurricane 103; 1991; 1990; one; UNKNOWN; 5.18; 8.53; 114.0
-Capella Javelin; 1999; 1990; one; UNKNOWN; 5.49; 8.53; 109.0
-Capella XS; 1988; 1980; one; one passenger; 5.61; 8.69; 218.0
-Kolb Firefly; 1995; 1990; one; UNKNOWN; 5.94; 6.71; 115.0
-Kolb Firestar; 1985; 1980; one; UNKNOWN; 6.17; 8.43; 115.0
-Kolb Mark III; UNKNOWN; 1990; one; one passenger; 6.86; 9.14; 204.0
-Kolb Slingshot; UNKNOWN; 1990; one; one passenger; 5.79; 6.71; 156.0
-Kolb Kolbra; 2000; 2000; one; one passenger; 7.32; 8.84; 225.0
-Kolb Flyer; 1970; 1970; one; UNKNOWN; UNKNOWN; 8.84; 84.0
-Kolb Ultrastar; 1982; 1980; one; UNKNOWN; UNKNOWN; 8.38; 107.0
-Ultravia Pelican; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 11.28; 95.0
-Milholland Legal Eagle; 1998; 1990; one; UNKNOWN; 3.96; 7.16; 111.0
-Light Miniature Aircraft LM-1; 1985; 1980; one; UNKNOWN; 5.41; 9.14; 136.0
-Light Miniature Aircraft LM-5; 1991; 1990; one; one passenger; 6.88; 11.0; 352.0
-AmeriPlanes Mitchell Wing A-10; 1982; 1980; one; UNKNOWN; 2.84; 10.46; 127.0
-Aero-Service Puma; UNKNOWN; UNKNOWN; one; one passenger; 6.27; 9.15; 290.0
-Loehle Sport Parasol; 1991; 1990; one; UNKNOWN; 5.61; 7.77; 114.0
-Phantom X1; 1982; 1980; one; UNKNOWN; 5.08; 8.69; 113.0
-CFM Shadow; 1983; 1980; 2; UNKNOWN; 6.13; 10.0; 215.0
-American Aerolights Double Eagle; 1982; 1980; UNKNOWN; 2; 4.6; 11.0; 141.0
-Lilienthal Bekas; 1993; 1990; one; one passenger; 6.55; 9.0; 300.0
-Skyeton K-10 Swift; 2006; 2000; UNKNOWN; 2; 6.235; 9.1; 285.0
-RemSchetMash Robust; 2006; 2000; UNKNOWN; 1; 5.47; 8.94; UNKNOWN
-Pop's Props Pinocchio; 1994; 1990; One; UNKNOWN; 5.03; 7.87; 115.0
-Pop's Props Cloudster; 1995; 1990; One; UNKNOWN; 5.03; 9.14; 113.0
-Pop's Props Zing; 1996; 1990; One; UNKNOWN; 5.18; 7.75; 113.0
-ICP Savannah; UNKNOWN; 2000; 2; UNKNOWN; 6.6; 9.0; 286.0
-RagWing RW1 Ultra-Piet; 1994; 1990; one; UNKNOWN; 4.57; 7.77; 115.0
-RagWing RW4 Midwing Sport; 1994; 1990; one; UNKNOWN; 4.88; 8.13; 107.0
-RagWing RW7 Duster; UNKNOWN; 1990; one; UNKNOWN; 5.18; 8.53; 125.0
-RagWing RW8 PT2S; 1993; 1990; one; one passenger; 5.18; 9.14; 209.0
-RagWing RW9 Motor Bipe; 1995; 1990; one; UNKNOWN; 4.88; 5.49; 102.0
-Rocky Mountain Wings Ridge Runner; 2000; 2000; one; UNKNOWN; 5.18; 7.98; 112.0
-Dart Skycycle; 1985; 1980; one; UNKNOWN; 6.1; 9.14; 115.0
-Wood Sky Pup; 1980; 1980; one; UNKNOWN; 4.85; 9.45; 88.0
-Flying K Sky Raider; 1996; 1990; one; UNKNOWN; 5.18; 8.0; 109.0
-Loehle Spad XIII; UNKNOWN; 1990; one; UNKNOWN; 5.0; 7.32; 113.0
-Carlson Sparrow; 1987; 1980; one; UNKNOWN; 5.11; 9.22; 115.0
-Golden Circle Air T-Bird; 1983; 1980; one; one passenger; 5.49; 9.45; 186.0
-Earthstar Thunder Gull; 1987; 1980; one; UNKNOWN; 5.26; 5.36; 114.0
-Titan Tornado; 1994; 1990; one; UNKNOWN; 5.64; 6.1; 113.0
-Joplin Tundra; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 7.92; 113.0
-TL Ultralight TL-96 Star; 1997; 1990; UNKNOWN; 2; 6.5; 9.2; 265.0
-Aeroprakt A-20 Vista; 1991; 1990; one; one passenger in tandem seating; 6.71; 11.58; 220.0
-TL Ultralight Condor; 1993; 1990; UNKNOWN; 2; 6.08; 10.6; 265.0
-Bailey-Moyes Dragonfly; 1990; 1990; one; one passenger; 5.94; 10.36; 233.0
-Falconar Golden Hawk; 1983; 1980; one; one passenger; 4.27; 10.36; 227.0
-Precision Tech Fergy; 1991; 1990; one; one passenger; 5.7; 8.99; 181.0
-Buzzman L'il Buzzard; 1990; 1990; one; one passenger; 6.25; 10.21; 227.0
-Arnet Pereyra Sabre II; 1992; 1990; one; one passenger; 6.81; 9.04; 218.0
-Aeroprakt A-26 Vulcan; UNKNOWN; 2000; UNKNOWN; 2; 6.7; 11.4; 290.0
-Blue Yonder Merlin; 1987; 1980; two; UNKNOWN; 7.01; 10.82; 318.0
-Aviasud Sirocco; UNKNOWN; 1980; 1; UNKNOWN; 5.08; 10.06; 131.0
-M-Squared Breese; 1996; 1990; one; one passenger; 5.79; 9.98; 215.0
-Raj Hamsa X-Air; 1993; 1990; one; one passenger; 5.65; 9.8; 240.0
-Rainbow Aerotrike; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.2; 154.0
-Air Creation Racer; UNKNOWN; 1980; one; UNKNOWN; 2.74; 10.06; 112.0
-UFM Easy Riser; 1975; 1970; one; UNKNOWN; 2.74; 9.14; 54.0
-Roko Aero NG4; 2008; 2000; UNKNOWN; 2; 6.45; 10.1; 330.0
-S-Wing Swing; UNKNOWN; 1990; one; one passenger; 6.29; 10.2; 296.0
-Euro-ALA Jet Fox; 1991; 1990; UNKNOWN; 2; 5.78; 9.78; 278.0
-Cyclone AX2000; 1997; 1990; 2; UNKNOWN; 5.6; 9.1; 201.0
-US Aviation CAVU; 1997; 1990; one; UNKNOWN; 5.26; UNKNOWN; 100.0
-Colomban MC-30 Luciole; 2007; 2000; 1; UNKNOWN; UNKNOWN; 6.9; 97.0
-BRM Aero Bristell; 2010; 2010; one; one passenger; 6.45; 8.13; 290.0
-Volmer VJ-24W SunFun; 1977; 1970; one; UNKNOWN; 5.64; 11.13; 75.0
-Aerotique Parasol; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 9.75; 110.0
-Ultralight Engineering Astra; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 10.06; 112.0
-Airborne Avenger; UNKNOWN; 1980; one; UNKNOWN; 5.18; 9.45; 114.0
-Brock Avion; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 10.36; 109.0
-Robertson B1-RD; 1982; 1980; one; UNKNOWN; UNKNOWN; 9.75; 100.0
-International Ultralight Banchee; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 10.36; 114.0
-Aircore Cadet; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 9.14; 112.0
-Worldwide Ultralite Clipper; UNKNOWN; 1980; one; UNKNOWN; 5.3; 9.1; 114.0
-Cloudbuster Ultralights Cloudbuster; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 11.0; 112.0
-US Aviation Cloud Dancer; 1983; 1980; one; UNKNOWN; 5.2; 12.19; 114.0
-Seahawk Condor; UNKNOWN; 1980; one; one passenger; UNKNOWN; 9.8; 109.0
-Hovey Delta Bird; 1982; 1980; one; UNKNOWN; 4.57; UNKNOWN; 99.0
-American Aerolights Eagle; 1975; 1970; one; UNKNOWN; UNKNOWN; 11.0; 102.0
-Phase 3 Eclipse; 1983; 1980; one; UNKNOWN; 4.3; 9.8; 75.0
-St Croix Excelsior; 1980; 1980; one; UNKNOWN; 5.03; 10.54; 113.0
-Striplin F.L.A.C.; 1978; 1970; one; UNKNOWN; UNKNOWN; 9.75; 91.0
-Goldwing Ltd Goldwing; 1979; 1970; one; UNKNOWN; UNKNOWN; 9.1; 114.0
-Delta Sailplane Nomad; UNKNOWN; 1980; one; UNKNOWN; 5.6; 9.8; 86.0
-Howland H-3 Pegasus; 1988; 1980; one; UNKNOWN; UNKNOWN; 7.6; 114.0
-Howland H-2 Honey Bee; 1986; 1980; one; UNKNOWN; 4.8; UNKNOWN; 225.0
-Gemini Hummingbird; 1981; 1980; one; UNKNOWN; UNKNOWN; 11.0; 109.0
-Advanced Aviation Husky; 1978; 1970; One; UNKNOWN; 5.11; 10.21; 90.0
-Blue Yonder EZ Fun Flyer; 2011; 2010; one; UNKNOWN; 4.6; 10.0; 114.0
-Ultra-Efficient Products Invader; 1982; 1980; one; UNKNOWN; 5.5; 9.4; 111.0
-Cascade Kasperwing I-80; 1976; 1970; one; UNKNOWN; 3.0; 11.0; 73.0
-Manta Foxbat; UNKNOWN; 1980; one; UNKNOWN; 2.4; 9.91; 86.0
-Striplin Lone Ranger; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 9.8; 111.0
-Tomark Viper SD4; 2006; 2000; UNKNOWN; 2; 6.4; 8.4; 292.0
-Mariner Aircraft Mariner; 1989; 1980; one; UNKNOWN; UNKNOWN; 9.8; 138.0
-Mathews Petit Breezy; UNKNOWN; 1980; one; UNKNOWN; 5.2; 9.1; 112.0
-Mathews PUP; 1983; 1980; one; UNKNOWN; UNKNOWN; 9.8; 112.0
-Mathews Turnerkraft; UNKNOWN; 1980; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Chandelle Mk IV; 1984; 1980; one; UNKNOWN; 5.2; 9.3; 110.0
-Shark.Aero Shark; 2009; 2000; one; one passenger; 6.715; 7.9; 275.0
-Meadowlark Ultralight Meadowlark; 1982; 1980; one; UNKNOWN; 5.8; 11.0; 114.0
-Ultralight Flight Mirage; UNKNOWN; 1980; one; UNKNOWN; 5.94; 9.8; 112.0
-Teman Mono-Fly; UNKNOWN; 1980; one; UNKNOWN; 5.2; 9.4; 113.0
-Golden Gate Mosquito; UNKNOWN; 1980; one; UNKNOWN; 4.6; 8.8; 114.0
-Paup P-Craft; 1982; 1980; one; UNKNOWN; UNKNOWN; 9.91; 75.0
-Waspair HM 81 Tomcat; 1980; 1980; one; UNKNOWN; UNKNOWN; 9.4; 111.0
-Rotec Rally; 1977; 1970; one; UNKNOWN; UNKNOWN; 9.4; 99.0
-Rotec Panther; 1984; 1980; one; UNKNOWN; UNKNOWN; 10.0; 113.0
-Ritz Model A; 1984; 1980; one; UNKNOWN; UNKNOWN; 11.0; 91.0
-Skyhigh Skybaby; 1983; 1980; one; UNKNOWN; 5.2; 9.8; 70.0
-Raceair Skylite; 1991; 1990; one; UNKNOWN; 5.33; 8.9; 109.0
-TL Ultralight TL-3000 Sirius; 2008; 2000; UNKNOWN; 2; 6.75; 9.4; 297.0
-Worldwide Ultralite Skyraider S/S; UNKNOWN; 1980; one; one passenger; UNKNOWN; 9.8; 115.0
-Bell Sidewinder; UNKNOWN; 1980; one; UNKNOWN; 5.03; 9.14; 113.0
-Worldwide Ultralite Spitfire; UNKNOWN; 1980; one; UNKNOWN; 5.59; 9.14; 115.0
-Jora Jora; UNKNOWN; 1990; UNKNOWN; two; 6.0; 10.6; 225.0
-UL-Jih Fascination; 1996; 1990; UNKNOWN; two; 6.87; 9.0; 297.0
-UL-Jih Evolution; 2002; 2000; UNKNOWN; two; 6.98; 9.0; 305.0
-Skye Treck Skyseeker; 1981; 1980; one; UNKNOWN; 3.7; 9.8; 112.0
-TL Ultralight TL-32 Typhoon; 1991; 1990; UNKNOWN; 2; 5.9; 10.7; 200.0
-Eastern Ultralights Snoop; 1981; 1980; one; UNKNOWN; UNKNOWN; 10.0; 108.0
-V-STOL Solution; 1998; 1990; one; UNKNOWN; UNKNOWN; 10.0; 112.0
-Star Flight Starfire; 1979; 1970; one; UNKNOWN; 4.6; 10.0; 100.0
-Airmass Sunburst; UNKNOWN; 1980; one; UNKNOWN; 4.9; 11.0; 115.0
-Ultra-Fab Sundowner; 1983; 1980; one; UNKNOWN; UNKNOWN; 9.3; 112.0
-Swallow Aeroplane Company Swallow; UNKNOWN; 1980; one; UNKNOWN; 5.5; 10.44; 132.0
-Teratorn T/A; UNKNOWN; 1970; one; UNKNOWN; UNKNOWN; 9.8; 103.0
-Thor T/A; 1985; 1980; one; UNKNOWN; 4.2; 9.86; 108.0
-Pinaire Ultra-Aire; UNKNOWN; 1980; one; UNKNOWN; 4.32; 7.9; 114.0
-Aerodyne Systems Vector; 1982; 1980; one; UNKNOWN; 5.5; 10.7; 88.0
-Greenwood Witch; 1982; 1980; one; UNKNOWN; 5.54; 9.1; 112.0
-Ultralite Soaring Wizard; UNKNOWN; 1970; one; UNKNOWN; 5.2; 9.86; 76.0
-Latécoère 225; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Chotia Woodhopper; 1978; 1970; one; UNKNOWN; 5.33; 9.75; 66.0
-Diehl AeroNautical XTC Hydrolight; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 9.8; 112.0
-Cloudbaser Trikes Cloudbaser; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; 84.0
-LEAF Trike; UNKNOWN; 1980; one; UNKNOWN; 2.3; UNKNOWN; 68.0
-J & J Ultralights Tukan; UNKNOWN; 1990; one; one passenger; 2.1; 11.0; 113.0
-MFI BA-12 Sländan; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Mountaineer Trikes Mite-Lite; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; 91.0
-Air Creation GT; UNKNOWN; 1990; one; one passenger; 2.4; 10.0; 172.0
-Antares MA-32; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.3; 146.0
-Apex Eco 6; UNKNOWN; 1980; one; UNKNOWN; 1.98; 9.6; 32.0
-Buckeye Eclipse; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 118.0
-GibboGear Butterfly; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 10.0; 132.0
-Cosmos Samba; UNKNOWN; 1990; one; UNKNOWN; 1.8; 10.12; 95.0
-Cosmos Phase II; UNKNOWN; 1990; one; one passenger; 2.1; 10.0; 136.0
-Cosmos Echo; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 9.87; 126.0
-Cosmos Bison; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.6; 123.0
-Fletcher Hercules; UNKNOWN; 1990; one; one passenger; 2.7; 10.0; 115.0
-Airborne Edge; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.16; 185.0
-Airborne Outback; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.96; 165.0
-Airborne Redback; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.96; 165.0
-Airborne XT; 2003; 2000; one; one; UNKNOWN; 9.9; 216.0
-Ultimate Jetwing; 1981; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; 98.0
-LiteWing Aircraft LiteTrike; UNKNOWN; 1990; one; UNKNOWN; 2.4; 10.0; 82.0
-LiteWing Aircraft LiteWing; UNKNOWN; 1990; one; UNKNOWN; 2.59; 9.8; 127.0
-Mainair Blade; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.6; 190.0
-Mainair Rapier; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.6; 152.0
-Pegasus Quantum; 1996; 1990; one; one passenger; UNKNOWN; 10.4; 204.0
-North Wing Maverick; UNKNOWN; 1990; one; UNKNOWN; 2.1; 9.6; 114.0
-North Wing ATF; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 10.6; 84.0
-North Wing Apache; UNKNOWN; 1990; one; one passenger; 3.7; 9.6; 181.0
-Pegasus Quik; 2003; 2000; one; one passenger; UNKNOWN; UNKNOWN; 193.0
-Concept Prowler; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 112.0
-Aviate Raptor; 1992; 1990; one; one passenger; UNKNOWN; 10.5; 163.0
-Medway Av8R; 2003; 2000; one; one passenger; UNKNOWN; 11.0; UNKNOWN
-Medway EclipseR; UNKNOWN; 1990; one; one passenger; UNKNOWN; 11.0; 208.0
-Sabre 340; 1991; 1990; one; UNKNOWN; 3.0; 10.0; 98.0
-Sabre Wildcat; UNKNOWN; 1990; one; one passenger; 4.0; 10.82; 150.0
-World Seair Corp Seair; 1998; 1990; one; one passenger; 2.79; 10.06; 114.0
-Y2Fly Seahawk; UNKNOWN; 1990; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-J & J Ultralights Seawing; UNKNOWN; 1990; one; one passenger; 3.7; 11.0; 159.0
-Lookout Mountain SkyCycle; 1997; 1990; one; UNKNOWN; 4.6; 10.0; 75.0
-Personal Flight Sky-Tender; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.75; 172.0
-Spartan DFS Trike; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 96.0
-Spartan DFD Aerotome; UNKNOWN; 1990; one; one passenger; 2.1; 11.0; 112.0
-Spartan DFS Paramotor; UNKNOWN; 1990; one; UNKNOWN; 1.8; 11.0; 31.0
-Spartan BP Parawing; UNKNOWN; 1990; one; UNKNOWN; 1.2; 11.0; 22.0
-TC's Trikes Coyote; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 113.0
-Solo Wings Windlass; 1987; 1980; one; one passenger; UNKNOWN; 10.0; 175.0
-Solo Wings Aquilla; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.0; 152.0
-Antonov T-2M Maverick; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 170.0
-Pegasus Booster; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
-Flylight Doodle Bug; 1999; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
-Swedish Aerosport Mosquito; 1995; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Aeros-2; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 229.5
-Aeros Cross Country; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 222.0
-Buckeye Eagle; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 100.0
-Buckeye Dream Machine; 1985; 1980; one; one passenger; UNKNOWN; UNKNOWN; 136.0
-Buckeye Falcon; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN
-Goodwin Buckshot; 1998; 1990; one; one passenger; UNKNOWN; UNKNOWN; 104.0
-Canadian Phase I; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 132.0
-Emerald Coast XL2 Sport; 2000; 2000; one; one passenger; UNKNOWN; UNKNOWN; 131.0
-Harmening High Flyer; UNKNOWN; 1980; one; optionally one passenger, if second seat fitted; 3.05; 12.0; 127.0
-Heldeberg Spirit 103; UNKNOWN; 1990; one; UNKNOWN; 2.59; 12.04; 107.0
-Heldeberg Marathon; UNKNOWN; 1990; one; one passenger; 2.95; 12.04; 140.0
-Heldeberg Convertible; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 111.0
-Paladin Sparrow; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 66.0
-Paladin Golden Eagle; UNKNOWN; 1990; one; one passenger; 3.35; 10.82; 154.0
-Paladin Hercules; UNKNOWN; 1990; one; one passenger; 3.43; 10.82; 179.0
-Para-Ski XS; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 154.0
-Para-Ski VX; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 154.0
-Powrachute Pegasus; 2000; 2000; one; one passenger; UNKNOWN; UNKNOWN; 166.0
-Tennessee Propellers Scout; 1999; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 102.0
-Sea-Bow International Sea-Bow; UNKNOWN; 1990; one; UNKNOWN; 3.05; UNKNOWN; 154.0
-Six Chuter SR1; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Six Chuter SR7; 1997; 1990; one; one passenger; 2.59; 12.04; 136.0
-Sky Seeker Powerchutes Sky Seeker; 2000; 2000; one; one passenger; UNKNOWN; UNKNOWN; 132.0
-Summit 2; 1999; 1990; one; one passenger; 3.15; UNKNOWN; 141.0
-Goodwin Tri-Moto; 1997; 1990; one; one passenger; UNKNOWN; UNKNOWN; 93.0
-St Andrews Viking; 1998; 1990; one; one passenger; UNKNOWN; UNKNOWN; 122.0
-Airframes Unlimited T-2; UNKNOWN; 1990; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Airframes Unlimited T-103; UNKNOWN; 1990; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Adventure F series; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 22.0
-Fresh Breeze Solo; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; 23.0
-Fresh Breeze Paratour Twin; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN
-Fresh Breeze Twin; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 31.0
-Fresh Breeze Simonini; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 23.0
-Fresh Breeze Monster; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 33.0
-Per Il Volo Miniplane; 1989; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; 17.0
-Daiichi Kosho Whisper; 1992; 1990; one; UNKNOWN; 0.61; 12.0; 27.0
-Paraborne Backplane; 1999; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
-Phoenix Industries B1Z ParaFlyer; UNKNOWN; 1990; one; UNKNOWN; 0.46; 9.14; 34.0
-Paramotor Inc FX series; UNKNOWN; 1990; one; UNKNOWN; 0.46; UNKNOWN; 16.0
-Fly Products Power; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Fly Products Gold; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 10.0; 30.0
-La Mouette Skybike; UNKNOWN; 1990; one; UNKNOWN; 0.61; UNKNOWN; 27.0
-Southern Skies Spymotor; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 18.0
-Southern Skies Quattro; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Vortech G-1; UNKNOWN; 1970; one; UNKNOWN; UNKNOWN; UNKNOWN; 68.0
-Vortech Kestrel Jet; UNKNOWN; 1980; one; UNKNOWN; 3.66; UNKNOWN; 82.0
-A2 CZ Ellipse Spirit; 2011; 2010; one; one passenger; UNKNOWN; 8.0; 272.5
-Aero & Tech Nexth; 2012; 2010; one; one passenger; UNKNOWN; 7.9; UNKNOWN
-Aéro Services Guépard Guêpe; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Aero Synergie Jodel D20; UNKNOWN; 1970; one; one passenger; UNKNOWN; 7.5; 265.0
-Aero Synergie J300 Joker; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.04; 272.0
-Aero Synergie Papango; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.4; 275.0
-Aero-Kros MP-02 Czajka; 2009; 2000; one; one passenger; UNKNOWN; 9.72; 268.0
-Aeroalcool Quasar; 2007; 2000; one; one passenger; UNKNOWN; 9.25; 215.0
-AeroAndina MXP-158 Embera; UNKNOWN; UNKNOWN; one; one passenger; UNKNOWN; UNKNOWN; 279.0
-Aerocomp VM-1 Esqual; UNKNOWN; 2000; one; one passenger; 6.08; 9.1; 265.0
-Aeroflying Sensation; 2007; 2000; one; one passenger; UNKNOWN; 8.4; 278.0
-AeroJames 01 Isatis; 2009; 2000; one; one passenger; UNKNOWN; 9.8; 270.0
-Aeropilot Legend 540; 2011; 2010; one; one passenger; 7.0; 9.06; 289.0
-DAR Solo; 2008; 2000; one; UNKNOWN; UNKNOWN; 8.97; 115.0
-DAR 21 Vector II; 2000; 2000; one; one passenger; 6.35; 9.42; 250.0
-Aeros UL-2000 Flamingo; 2001; 2000; one; one passenger; UNKNOWN; 8.6; UNKNOWN
-Aerosette MH-46 Eclipse; 2002; 2000; one; one passenger; 6.34; 9.71; 285.0
-Aerospool WT9 Dynamic; UNKNOWN; 2000; one; one passenger; 6.4; 9.0; 264.0
-Aerostar R40S Festival; UNKNOWN; 1990; one; one passenger; 6.74; 9.17; 354.0
-Airflow Twinbee; 2010; 2010; one; one passenger; 6.4; 9.33; 260.0
-Airkraft Sunny; UNKNOWN; 1980; one; one passenger; UNKNOWN; 7.0; 220.0
-AirLony Highlander; 1998; 1990; one; one passenger; UNKNOWN; 7.3; 240.0
-Airo 1; 2008; 2000; one; one passenger; UNKNOWN; 9.78; 278.0
-Airsport Sonet; UNKNOWN; 2000; one; one passenger; UNKNOWN; 11.7; 265.0
-Alisport Yuma; UNKNOWN; 1990; one; one passenger; 6.45; 9.75; 282.0
-Alpi Pioneer 200; UNKNOWN; 2000; one; one passenger; UNKNOWN; 7.3; 264.0
-Alpi Pioneer 300; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.1; 285.0
-Apollo Fox; UNKNOWN; 1990; one; one passenger; 5.8; 9.15; 284.0
-Arplast Micro'B; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 8.6; 110.0
-Air Sports AIRector 120; 2010; 2010; one; UNKNOWN; UNKNOWN; 8.02; 120.0
-ATEC 212 Solo; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 7.48; 200.0
-ATEC 321 Faeta; 2003; 2000; one; one passenger; UNKNOWN; 9.6; 278.0
-ATEC 122 Zephyr 2000; 1996; 1990; one; one passenger; UNKNOWN; 9.6; 275.0
-Aurore MB 02-2 Mini Bulle; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 9.0; 130.0
-Aurore MB 02 Souricette; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 9.0; 120.0
-Aurore MB 04 Souris Bulle; 1998; 1990; one; one passenger; 7.92; 11.25; 250.0
-Australian Aircraft Kits Hornet STOL; 2004; 2000; one; one passenger; UNKNOWN; 8.9; 330.0
-Australian Aircraft Kits Bushman; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.0; 310.0
-Australian Aircraft Kits Wasp; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.9; 320.0
-AV Vagabund; UNKNOWN; 1990; one; one passenger; UNKNOWN; 7.55; 114.0
-Aveko VL-3 Sprint; UNKNOWN; 2000; one; one passenger; 6.24; 8.44; 285.0
-Jodel D18; UNKNOWN; 1980; one; one passenger; UNKNOWN; 7.5; 230.0
-BOT SC07 Speed Cruiser; 2009; 2000; one; one passenger; 6.65; 8.1; 291.0
-BAaer BA-5 Gurí; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Best Off Nynja; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.7; 266.0
-Blackshape Prime; 2007; 2000; one; one passenger; 7.18; 7.94; 296.5
-BRM Argos; UNKNOWN; 2010; one; one passenger; 6.59; 8.4; UNKNOWN
-BRM Land Africa; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.63; 270.0
-Celier XeWing; 2009; 2000; one; one passenger; UNKNOWN; 6.6; 300.0
-Bushcaddy R-80; 1994; 1990; one; one passenger; 6.73; 9.8; 322.0
-Bushcaddy R-120; UNKNOWN; 1990; one; one passenger; 6.73; 9.8; 377.0
-Club ULM Rotor Ptenets-2; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.2; 220.0
-Colyaer Martin3 S100; UNKNOWN; 1990; one; one passenger; UNKNOWN; 12.4; 280.0
-Colyaer Freedom S100; 2006; 2000; one; one passenger; UNKNOWN; 12.4; 380.0
-Colyaer Gannet S100; UNKNOWN; 2000; one; one passenger; UNKNOWN; 12.4; 240.0
-Ikarus C52; 2011; 2010; one; one passenger; 6.38; 9.45; 289.5
-Concept Composites MD03 Transat; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.8; 300.0
-Didier Pti'tAvion; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.4; 275.0
-Dova DV-1 Skylark; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.14; 275.0
-Egvoyager Voyager 203; 2010; 2010; one; one passenger; UNKNOWN; 8.0; 278.0
-Ehroflug Coach II S; 1989; 1980; one; one passenger; UNKNOWN; 11.34; 230.0
-Ekolot JK-05L Junior; UNKNOWN; 2010; one; one passenger; 5.7; 10.76; 290.0
-Ekolot KR-030 Topaz; UNKNOWN; 2010; one; one passenger; UNKNOWN; 10.76; 290.0
-Lucas L11; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.4; 275.0
-Eurodisplay SR-01 Magic; UNKNOWN; 2000; one; one passenger; 6.86; 9.45; 360.0
-Eurofly Flash Light; UNKNOWN; 2000; one; one passenger; 6.5; 8.5; 255.0
-Flaeming Air FA 04 Peregrine; UNKNOWN; 2000; one; one passenger; 6.15; 9.27; 278.0
-Fly Synthesis Catalina; 2010; 2010; one; one passenger; 6.28; 9.47; 292.0
-Fly Synthesis Storch; 1990; 1990; one; one passenger; 5.75; 8.7; 275.0
-Fly Synthesis Syncro; 2009; 2000; one; one passenger; 6.75; 10.4; 289.0
-Fly Synthesis Texan; 1999; 1990; one; one passenger; 6.9; 8.6; 289.0
-Flying Machines FM250 Vampire; 2007; 2000; one; one passenger; 6.32; 7.8; 266.0
-Flyitalia MD3 Rider; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.5; 287.0
-Flylab Tucano; UNKNOWN; 1990; one; one passenger; 6.3; 10.17; 225.0
-FlyNano Nano; 2012; 2010; one; UNKNOWN; UNKNOWN; 4.8; 70.0
-FMP Qualt 201; UNKNOWN; 2000; one; one passenger; UNKNOWN; 2.8; 280.0
-G1 Aviation G1; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.9; 274.0
-Golden Avio F30; UNKNOWN; 2000; one; one passenger; 6.8; 8.6; 289.0
-Guerpont Autoplum; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.6; 230.0
-Harper Lil Breezy; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 200.0
-HB-Flugtechnik Amigo; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.0; 300.0
-HB-Flugtechnik Dandy; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.6; 260.0
-Houde Bimax; 2010; 2010; one; one passenger; UNKNOWN; 8.25; 278.0
-Houde Speedmax; UNKNOWN; 2010; one; UNKNOWN; UNKNOWN; UNKNOWN; 190.0
-Humbert La Moto Du Ciel; UNKNOWN; 1980; one; one passenger; UNKNOWN; 11.3; 240.0
-Ibis GS-700 Magic; 2003; 2000; one; one passenger; 6.85; 8.55; 320.0
-Icarus F99 Rambo; UNKNOWN; 2000; one; one passenger; 6.04; 9.1; 284.0
-Mentzel Baltic Fox; 2009; 2000; one; one passenger; UNKNOWN; 10.0; 330.0
-Jabiru J170; UNKNOWN; 2000; one; one passenger; 5.775; 9.66; 320.0
-Kubicek M-2 Scout; 2009; 2000; one; one passenger; 6.87; 9.6; 320.0
-Lanitz Escapade One; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 8.94; 119.5
-Lanitz Escapade Two; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.76; 265.0
-Light Wing AC4; 2013; 2010; one; one passenger; 7.04; 9.6; 350.0
-LTD LO-120S; UNKNOWN; 2000; one; one passenger; UNKNOWN; 15.5; 220.0
-Marawing 1-L Malamut; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.1; 295.0
-Medway SLA100 Executive; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.7; 262.0
-Micro Aviation B22 Bantam; UNKNOWN; 1980; one; one passenger; UNKNOWN; 9.03; 215.0
-Microleve Corsario; 1988; 1980; one; one passenger; UNKNOWN; 10.3; 247.0
-Microleve ML 500; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.3; 225.0
-MSL Aero H80; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.6; 280.0
-I-TEC Maverick; UNKNOWN; UNKNOWN; 1; 1; UNKNOWN; UNKNOWN; UNKNOWN
-Norman Aviation Nordic 8 Mini Explorer; UNKNOWN; 2000; one; one passenger; 6.4; 11.0; 297.0
-Peak Aerospace Me 109R; 1991; 1990; one; one passenger; 6.3; 8.1; 190.0
-Pegasus EDA 100 Flamingo; 2013; 2010; one; one passenger; UNKNOWN; 8.7; 285.0
-Podesva Trener; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.68; 296.0
-Pro.Mecc Freccia Anemo; 2011; 2010; one; one passenger; UNKNOWN; 8.78; 285.0
-Pro.Mecc Sparviero; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.23; 285.0
-Norman Aviation Nordic II; 1986; 1980; one; one passenger; 5.79; 10.06; 281.0
-Norman Aviation Nordic VII; UNKNOWN; 1990; one; one passenger; 6.15; 10.3; 283.0
-Norman Aviation J6 Karatoo; 1988; 1980; one; one passenger; 5.79; 10.06; 286.0
-Anglin J6 Karatoo; 1982; 1980; one; one passenger; 6.1; 9.91; 263.0
-Protoplane Ultra; UNKNOWN; 2000; one; one passenger; 7.24; 11.0; 250.0
-Rainbow Cheetah; UNKNOWN; 2000; one; one passenger; 5.67; 9.6; 248.0
-RMT Bateleur; UNKNOWN; 2000; one; one passenger; UNKNOWN; 6.25; 250.0
-Roland Me 109 Replica; UNKNOWN; 2010; one; one passenger; 7.41; 8.13; UNKNOWN
-Roland S-STOL; UNKNOWN; 2000; one; one passenger; 6.1; 8.2; 275.0
-Roland Z-602; UNKNOWN; 2000; one; one passenger; 6.1; 8.23; 286.0
-Mosquito Aviation XE; 2004; 2000; 1; UNKNOWN; 4.9; UNKNOWN; 135.0
-Rolandas Kalinauskas RK-6 Magic; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.7; 270.0
-Rolandas Kalinauskas RK-7 Orange; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.2; 150.0
-SAB C-100 Vulcan; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.0; 282.0
-Sapphire Aircraft Australia Sapphire LSA; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 8.84; 210.0
-Letov LK-2 Sluka; 1988; 1980; one; UNKNOWN; 5.1; 9.2; 147.0
-Servoplant Aerocraft; UNKNOWN; 1990; one; one passenger; UNKNOWN; 8.75; 275.0
-Skyfly S-34 Skystar; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.6; 159.0
-Skyleader GP One; 2010; 2010; one; one passenger; 6.25; 10.2; 280.0
-Kohl Mythos; UNKNOWN; 2000; one; one passenger; 6.24; 8.75; 290.0
-Slepcev Storch; 1994; 1990; one; one passenger; UNKNOWN; 10.0; UNKNOWN
-Direct Fly Alto; UNKNOWN; 2000; one; one passenger; 6.15; 8.1; 287.0
-Thruster T600 Sprint; UNKNOWN; 1990; one; one passenger; 5.8; 9.6; 197.0
-ULBI Wild Thing; 1996; 1990; one; one passenger; 6.49; 9.15; 290.0
-Ultra-Leicht Flugtechnik Speedy Mouse; UNKNOWN; 2010; one; one passenger; 5.9; 9.2; 298.0
-Vervoost FV-3 Delphin; 2009; 2000; one; one passenger; UNKNOWN; 9.36; 295.0
-Vol Xerpa ULM Pulsar; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.2; 205.0
-Weller ULI NG; 2010; 2010; one; UNKNOWN; 5.92; 9.68; 119.5
-Weller UW-9 Sprint; UNKNOWN; 2000; one; one passenger; 5.7; 9.8; 290.0
-APEV Scoutchel; UNKNOWN; UNKNOWN; one; UNKNOWN; 5.2; 8.3; 130.0
-Preceptor Stinger; UNKNOWN; 1990; one; UNKNOWN; 5.18; 9.3; 181.0
-Alpi Pioneer 400; 2013; 2010; One; Three passengers; 7.0; 8.8; 290.0
-Aérostructure Lutin 80; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Hummel Ultracruiser; 2000; 2000; one; UNKNOWN; 4.9; 7.6; 113.0
-Wings of Freedom Phoenix 103; UNKNOWN; 2000; one; UNKNOWN; 5.2; 8.2; 115.0
-DAR-23; 2001; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN
-Summit 103 Mini Breeze; UNKNOWN; 2000; one; UNKNOWN; 2.57; UNKNOWN; 109.0
-Summit Steel Breeze; UNKNOWN; 2000; one; one passenger; 3.12; UNKNOWN; 147.0
-Synergy Paramotors Synergy; 2012; 2010; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN
-Sanstroem Friendship 3; 2012; 2010; one; one passenger; UNKNOWN; 11.47; 292.0
-Rolandas Kalinauskas RK-5 Ruth; UNKNOWN; 2000; one; three passengers; UNKNOWN; 11.0; 450.0
-Sochen Phoenix; UNKNOWN; UNKNOWN; Two; UNKNOWN; UNKNOWN; 9.75; 143.0
-Ace Magic; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.2; 115.0
-AEF Monotrace; UNKNOWN; 2000; one; UNKNOWN; 2.5; UNKNOWN; 47.0
-Aeros Profi; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0; 52.0
-Aeros Still; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.3; 45.0
-Aeros del Sur Manta; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; UNKNOWN
-Air Creation BioniX; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 9.85; 56.0
-Air Creation iXess; 2000; 2000; UNKNOWN; UNKNOWN; UNKNOWN; 10.0; 53.0
-Air Creation Tanarg; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.85; 249.0
-Air Creation Trek; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 190.0
-Air Creation Fun; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 3.4; 10.0; 38.0
-Air Creation NuviX; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 9.55; 52.0
-Air Creation Skypper; 2011; 2010; one; one passenger; UNKNOWN; 9.55; 201.0
-Airborne T-Lite; UNKNOWN; 2000; one; UNKNOWN; 2.2; 9.5; 90.0
-Airbridge Cruiser Suzuki; 2004; 2000; one; one passenger; UNKNOWN; 9.28; 230.0
-Airbridge Fregat-Hydro; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.28; 230.0
-Airtrike Eagle 5; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 215.0
-Apollo Delta Jet; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 236.0
-Apollo Monsoon; UNKNOWN; 2000; one; one passenger; UNKNOWN; 7.9; 249.0
-Apollo Jet Star; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.5; 180.0
-Apollo Racer GT; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 140.0
-Aquilair Kid; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.9; 132.0
-Aquilair Swing; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.9; 155.0
-Aviasouz Cruise; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 180.0
-Aviation Products Star Trike; 1980; 1980; one; UNKNOWN; UNKNOWN; 10.0; 170.0
-AVIC Lucky Bird; UNKNOWN; 2010; one; one or two passengers; UNKNOWN; UNKNOWN; UNKNOWN
-Avio Delta Thruster; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.5; 32.0
-Avio Design Swan; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.5; 133.0
-Bautek Skycruiser; 2009; 2000; one; UNKNOWN; UNKNOWN; 9.5; 75.0
-BB Microlight 103; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 7.9; 113.0
-BB Microlight BB-two seater; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.1; 91.0
-Cosmik Chaser; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 8.1; 98.0
-Drachen Studio Kecur Royal 912; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.48; 230.0
-Drachen Studio Kecur EOS 15; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.48; UNKNOWN
-DTA Combo; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.4; 243.0
-DTA Diva; 2009; 2000; UNKNOWN; UNKNOWN; 2.96; 9.4; 54.0
-DTA Dynamic; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 3.0; 10.2; 59.0
-DTA Magic; 2010; 2010; UNKNOWN; UNKNOWN; 2.68; 9.4; 59.0
-DTA Feeling; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 200.0
-DTA Voyageur; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.2; 226.0
-DTA Alizés; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-DTA Evolution; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.3; 166.0
-Electravia Electro Trike; 2008; 2000; one; UNKNOWN; UNKNOWN; 10.0; 85.0
-Eurofly Viper; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.5; 126.0
-Evolution Revo; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.2; 240.0
-Exkluziv Joker; UNKNOWN; 2000; one; one passenger; UNKNOWN; 12.2; 219.0
-Flight Team Spider; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.5; 180.0
-Flight Team Twister; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 198.0
-Fly Air Swallow; 2007; 2000; one; one passenger; UNKNOWN; 10.4; 131.0
-Fly Hard Trikes SkyCycle; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.0; 93.0
-Flying Machines FM301 Stream; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.5; 175.0
-Flylight Dragonfly; 2007; 2000; one; UNKNOWN; UNKNOWN; 10.3; 80.0
-Flylight E-Dragon; UNKNOWN; 2010; one; UNKNOWN; UNKNOWN; 10.3; UNKNOWN
-Flylight Motorfloater; 2010; 2010; one; UNKNOWN; UNKNOWN; 9.6; 72.0
-FUL MA 30 Graffiti; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.1; 185.0
-Gdecouv'R 582; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.87; 132.0
-General Aviation Design Bureau T-32 Maverick; UNKNOWN; 2010; one; two passengers on a bench seat; UNKNOWN; 10.2; 280.0
-General Aviation Design Bureau T-2 Maverick; 1995; 1990; one; one passenger; UNKNOWN; 10.2; 190.0
-Hubertec Thermik; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.6; 48.0
-Icaro Pit-Trike; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.48; 70.0
-Junkers Profly Junkers Trike; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.6; 186.0
-Keitek Streamer; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.8; 185.0
-Kompol Jazz; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.83; 186.0
-Krasniye Kryl'ya Deltacraft MD-50C; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 178.0
-Krasniye Kryl'ya Deltacraft MD-40; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 160.0
-Sea and Sky Cygnet; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.3; 240.0
-La Mouette Samson; UNKNOWN; 2010; one; one passenger, maximum of 150&#160;kg (331&#160;lb) total; UNKNOWN; UNKNOWN; 70.0
-North Wing Sport X2; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.6; 204.0
-Pagotto Brako; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.35; 158.0
-Parazoom Trio-Star Delta; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.7; 91.0
-Polaris AM-FIB; 2003; 2000; one; one passenger; UNKNOWN; 11.15; 239.0
-Polaris FIB; UNKNOWN; 1980; one; one passenger; UNKNOWN; 11.15; 216.0
-Polaris Skin; UNKNOWN; 1980; one; one passenger; UNKNOWN; 10.6; 155.0
-PowerTrike Evolution; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.5; 178.0
-PowerTrike II; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.5; 198.0
-PowerTrike Light; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.7; 120.0
-Quander Airpfeil; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.5; 130.0
-Quander Micropfeil; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.8; 80.0
-Ramphos Trident; 1998; 1990; one; one passenger; UNKNOWN; 10.5; 200.0
-ViS Sprint; 2004; 2000; UNKNOWN; Two; 6.14; 9.6; 301.0
-KhAZ ViS-3; 2006; 2000; UNKNOWN; Two; 6.32; 8.956; 315.0
-Rossi Shuttle Quik; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.0; UNKNOWN
-Valley Engineering Backyard Flyer; UNKNOWN; UNKNOWN; one; UNKNOWN; 7.9; UNKNOWN; 114.0
-SDB Karat; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.8; 91.0
-Silent Family Silent Glider M; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 14.0; 118.5
-Silent Family Silent Racer; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 200.0
-Skyjam ST-Freestyle; UNKNOWN; 2010; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Skyrider Sonic; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.8; 165.0
-Skyrider Stingray; 2007; 2000; one; one passenger; UNKNOWN; 10.1; 169.0
-Solid Air Diamant LP; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.7; 118.0
-Solid Air Diamant Twin; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.1; 190.0
-Stellar Astra; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.5; 220.0
-Sunair Sunlight; 2010; 2010; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Take Off Merlin; 1994; 1990; one; one passenger; UNKNOWN; 10.0; 230.0
-Trike Icaros Adventure S; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 180.0
-TrikeBuggy Delta; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.7; 32.0
-Schmidtler Enduro; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; UNKNOWN
-Ventura 1200; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 245.0
-Raj Hamsa Clipper; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.1; 160.0
-Raj Hamsa Voyager; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.1; 160.0
-Yuneec International ETrike; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.5; UNKNOWN
-Powrachute Sky Rascal; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.0; 115.0
-Alliant Destiny Fusion; UNKNOWN; 2000; two; UNKNOWN; UNKNOWN; UNKNOWN; 154.0
-Alliant Destiny XLT; UNKNOWN; 2000; two; UNKNOWN; UNKNOWN; UNKNOWN; 175.0
-Airfer Transan; UNKNOWN; 2000; two; UNKNOWN; UNKNOWN; UNKNOWN; 154.0
-Air Creation Twin; UNKNOWN; 1990; one; one passenger; 3.35; 10.06; 129.0
-Bagalini Bagalini; UNKNOWN; 1990; one; UNKNOWN; 6.4; 10.67; 115.0
-Bagalini Baganfibio; UNKNOWN; 1960; one; one passenger; 6.71; 10.67; 175.0
-Bagalini Colombo; UNKNOWN; 1990; one; one passenger; 6.4; 10.49; 150.0
-Bounsall Super Prospector; UNKNOWN; 1990; one; UNKNOWN; 5.89; 9.04; 200.0
-Brutsche Freedom 40; UNKNOWN; 1990; one; UNKNOWN; 5.49; 8.53; 150.0
-Butterfly Banty; 1984; 1980; one; UNKNOWN; 5.74; 9.75; UNKNOWN
-Duane's Hangar Ultrababy; 1997; 1990; one; UNKNOWN; 4.88; 8.38; 136.0
-Early Bird Spad 13; UNKNOWN; 1990; one; UNKNOWN; 4.95; 6.15; 249.0
-Early Bird Jenny; UNKNOWN; 1990; one; UNKNOWN; 5.59; 8.38; 190.0
-Eurofly Fox; UNKNOWN; 1990; one; one passenger; 6.2; 9.6; 190.0
-Eurofly Fire Fox; UNKNOWN; 1990; one; one passenger; 6.2; 9.6; 220.0
-Eurofly Fire Cat; UNKNOWN; 1990; one; one passenger; 6.2; 9.6; 218.0
-Freedom Lite SS-11 Skywatch; 1996; 1990; one; one passenger; 6.55; 10.06; 191.0
-Laron Wizard; UNKNOWN; 1990; one; one passenger; 5.974; 9.3; 210.0
-Las Brisas Mohawk; UNKNOWN; 1990; one; one passenger; 5.49; 9.14; 204.0
-Let-Mont Piper UL; UNKNOWN; 1990; one; one passenger; 6.08; 9.4; 250.0
-Let-Mont Tulak; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.6; 230.0
-Letov ST-4 Aztek; UNKNOWN; 1990; one; one passenger; 5.91; 10.4; 220.0
-Stern ST 87 Vega; 1992; 1990; one; one passenger; UNKNOWN; 7.62; 469.0
-Microleve ML 450; UNKNOWN; 1990; one; one passenger; 6.84; 10.3; 220.0
-Midwest Questar Open Aire; UNKNOWN; 1990; one; UNKNOWN; 5.08; 8.74; 100.0
-Midwest Questar Sport; UNKNOWN; 1990; one; UNKNOWN; 5.33; 10.13; 73.0
-Midwest Questar XLS; UNKNOWN; 1990; one; UNKNOWN; 5.18; 9.54; 109.0
-Midwest Questar Arrowstar; UNKNOWN; 1990; one; UNKNOWN; 4.57; 8.31; 104.0
-NWT Spruce Coupe; UNKNOWN; 1990; one; UNKNOWN; 4.98; 6.71; 136.0
-Olympic Desert Eagle; UNKNOWN; 1990; one; one passenger; 6.55; 10.06; 211.0
-Paxman Viper; 1994; 1990; one; one passenger; 6.25; 8.23; 265.0
-Peris JN-1; UNKNOWN; 1980; one; UNKNOWN; 5.28; 9.14; 145.0
-Pipistrel Spider; UNKNOWN; 1980; one; one passenger; UNKNOWN; 10.5; 129.75
-Progressive Aerodyne Stingray; UNKNOWN; 1990; one; UNKNOWN; 7.75; 9.4; 215.0
-Raisner Graffiti; 1997; 1990; one; one passenger; UNKNOWN; 10.3; 155.0
-Storm 300; UNKNOWN; 1990; one; one passenger; 6.55; 7.92; 322.0
-Storm Sea Storm; UNKNOWN; 1990; one; one passenger; 7.47; 9.25; 309.0
-Storm 320E; UNKNOWN; 1990; one; one passenger; 6.55; 8.6; 280.0
-Storm RG Fury; UNKNOWN; 2000; one; one passenger; 7.2; 7.9; 290.0
-St Croix Pietenpol Aircamper; UNKNOWN; 1960; one; one passenger; 5.94; 8.99; 295.0
-Rowley P-40F; 1986; 1980; one; UNKNOWN; 7.01; 8.53; 340.0
-Aero Designs Pulsar; UNKNOWN; 1980; one; one passenger; 6.1; 7.62; 299.0
-Star-Lite Warp 1-A; 1996; 1990; one; UNKNOWN; UNKNOWN; 7.62; 113.0
-Synairgie Jet Ranger; UNKNOWN; 1990; one; one passenger; 5.73; 9.14; 185.0
-TL Ultralight TL-22 Duo; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.6; 160.0
-Time Warp Spitfire Mk V; UNKNOWN; 1990; one; UNKNOWN; 5.61; 7.01; 272.0
-Theiss Speedster; UNKNOWN; 1990; one; UNKNOWN; 4.17; 5.33; 114.0
-Ultracraft Calypso; UNKNOWN; 1990; one; one passenger; 5.5; 8.65; 155.0
-V-STOL XC 2000T; 1997; 1990; one; one passenger; 6.1; 9.75; 172.0
-V-STOL Super Solution 2000; UNKNOWN; 1990; one; one passenger; 6.1; 9.75; 172.0
-Mathews Mr Easy; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 7.32; 113.0
-Vintage Ultralight SR-1 Hornet; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 10.06; 111.0
-Warner Revolution I; UNKNOWN; 1990; one; UNKNOWN; 5.49; 7.92; 245.0
-Warner Revolution II; UNKNOWN; 1990; one; one passenger; 5.99; 8.53; 363.0
-Air Command Commander Sport; UNKNOWN; 1990; one; UNKNOWN; 3.25; UNKNOWN; 125.0
-Amax Double Eagle TT; UNKNOWN; 1990; one; one passenger; 3.96; UNKNOWN; 261.0
-Amax Eagle TT; UNKNOWN; 1990; one; UNKNOWN; 3.05; UNKNOWN; 186.0
-Amax Eagle; UNKNOWN; 1990; one; UNKNOWN; 3.05; UNKNOWN; 186.0
-Chasle YC-100 Hirondelle; 1985; 1980; one; UNKNOWN; 5.43; 8.3; 110.0
-FK-Lightplanes SW51 Mustang; 2014; 2010; one; one passenger; 6.88; 7.9; 288.0
-Phoenix Industries CV1 ParaFlyer; UNKNOWN; 1990; one; UNKNOWN; 1.8; 9.1; 54.0
-Phoenix Industries Sport; UNKNOWN; 1990; one; UNKNOWN; 2.1; 10.0; 102.0
-Airsport Sonata; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 278.0
-Airsport Song; UNKNOWN; 2000; one; UNKNOWN; 5.9; 11.2; 110.0
-Little Wing Roto-Pup; UNKNOWN; 1990; one; UNKNOWN; 4.88; UNKNOWN; 113.0
-Raven Explorer I; UNKNOWN; 1990; one; UNKNOWN; 4.57; UNKNOWN; 115.0
-Raven Explorer II; UNKNOWN; 1990; one; one passenger; 4.82; UNKNOWN; 166.0
-Rotorwing-Aero 3D-RV; 1989; 1980; one; UNKNOWN; 2.59; UNKNOWN; 113.0
-EasyUp Parapropter; UNKNOWN; 1990; one; UNKNOWN; 1.2; UNKNOWN; 25.0
-Paraplane PSE-2 Osprey; UNKNOWN; 1990; one; UNKNOWN; 2.01; 9.6; 125.0
-Paraplane GE-2 Golden Eagle; UNKNOWN; 1990; one; one passenger; 3.15; 12.34; 150.0
-Paraplane WD-1 Wind Dancer; UNKNOWN; 1990; one; one passenger; 1.96; 9.6; 86.0
-Parascender Para-Ag; UNKNOWN; 1990; one; UNKNOWN; 2.74; 11.73; 129.0
-Parascender I; 1989; 1980; one; UNKNOWN; 2.68; 11.13; 245.0
-Parascender II; 1990; 1990; one; one passenger; 2.74; 11.73; 113.0
-Paratrek Angel 2-B; UNKNOWN; 1990; one; one passenger; 2.74; 11.28; 115.0
-Personal Flight Sky-Bike; UNKNOWN; 1990; one; one passenger; UNKNOWN; 12.8; 36.0
-Personal Flight Sky-Bike Trike; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 12.8; 36.0
-Phoenix Industries TZ-1 ParaFlyer; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 10.06; 52.0
-Six Chuter Skye Ryder Aerochute; UNKNOWN; 1990; one; one passenger; UNKNOWN; 11.13; 113.0
-Coelho AC-11; UNKNOWN; 1990; one; one passenger; 5.79; 8.08; 290.0
-Calumet Snobird Explorer; 1997; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 111.0
-InterPlane Starboy; UNKNOWN; 1990; one; one passenger; 7.56; 10.49; 245.0
-Parrish Dart; UNKNOWN; 1990; one; one passenger; 4.39; 7.0; UNKNOWN
-Performance Aircraft Formula GT; UNKNOWN; 1990; one; one passenger; UNKNOWN; 8.69; 635.0
-Spring WS202 Sprint; 1996; 1990; one; one passenger; 5.79; 8.23; 304.0
-Theiss Sportster; 1998; 1990; one; UNKNOWN; 4.27; 5.33; 114.0
-Ibis GS-501 Urraco; 2000; 2000; one; one passenger; 6.37; 9.2; 340.0
-Ibis GS-600 Arrow; 2000; 2000; one; one passenger; 6.37; 9.2; 340.0
-Ibis GS-710 Magic; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.69; 279.0
-Ibis GS-730 Super Magic; UNKNOWN; 2000; one; one passenger; 6.83; 8.92; 320.0
-Vancil Spitz S1; UNKNOWN; 1990; one; UNKNOWN; 4.64; 5.57; 115.0
-Huntwing; 1982; 1980; one; one passenger; UNKNOWN; 10.2; UNKNOWN
-Jeof Candiana; UNKNOWN; 1990; one; one passenger; 6.7; 8.7; 282.0
-ABS Aerolight Legacy; UNKNOWN; 2000; one; one passenger; UNKNOWN; 11.76; 185.0
-ABS Aerolight Navigathor; UNKNOWN; 2000; one; one passenger; UNKNOWN; 11.0; 230.0
-Adventure Wheely II; UNKNOWN; 2000; one; one passenger; UNKNOWN; 13.0; 70.0
-Aerochute International Dual; 1992; 1990; one; one passenger; UNKNOWN; 11.0; 100.0
-Air Sylphe 447; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 12.2; 88.0
-Air Sylphe Bi 582; 2004; 2000; one; one passenger; UNKNOWN; 15.0; 130.0
-Bilsam Sky Walker I; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.0; UNKNOWN
-Bilsam Sky Walker II; UNKNOWN; 2000; one; one passenger; UNKNOWN; 15.0; 155.0
-Bilsam Sky Walker; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 14.5
-Bilsam Sky Cruiser; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.0; 250.0
-Bilsam Ultra Cruiser; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 8.0; 115.0
-Büttner Crazy Flyer; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Southern Condor; UNKNOWN; 2000; one; one passenger; 3.0; UNKNOWN; 146.0
-Eagles Wing Scout; 1999; 1990; one; UNKNOWN; UNKNOWN; 10.36; 115.0
-Explorair Relax MV; 2002; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 115.0
-EuroSport Crossover; 2013; 2010; One pilot,; one passenger; 6.9; 9.6; 307.0
-WLT Sparrow; 2010; 2010; one pilot; one passenger; 7.0; 9.1; 272.0
-Fly Castelluccio Diavolo; 2004; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN
-Fresh Breeze Flyke; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Gemini Twin; UNKNOWN; 2000; one; one passenger; 3.0; UNKNOWN; 157.0
-Helite Skydancer; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN
-Infinity Purple; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 160.0
-Kolb Flyer Powered Parachute; 2001; 2000; one; one passenger; UNKNOWN; UNKNOWN; 59.0
-New PowerChutes Gemini; 2001; 2000; one; one passenger; UNKNOWN; UNKNOWN; 90.0
-Para-Ski Top Gun; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.14; 181.0
-Roll Flight MR V; UNKNOWN; 2000; one; one passenger; UNKNOWN; 12.0; 63.0
-Sky Science PowerHawk; 2000; 2000; one; one passenger; 2.7; 12.04; 129.0
-Skymaster Excel; UNKNOWN; 2000; one; one passenger; 3.05; UNKNOWN; 191.0
-Skymaster Single Seater; 2004; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 115.0
-Soaring Concepts Sky Trek; 2000; 2000; one; one passenger; 3.1; 10.0; 175.0
-Airframes Unlimited SS-2 Trainer; 2003; 2000; one; one passenger; UNKNOWN; UNKNOWN; 170.0
-SNAS Stryke-Air Bi; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 43.0
-Sun Flightcraft Air-Chopper; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 156.0
-Sundog Two-Seater; UNKNOWN; 2000; one; one passenger; 2.56; UNKNOWN; 152.0
-Sundog One-Seater; UNKNOWN; 2000; one; UNKNOWN; 2.56; UNKNOWN; 137.0
-Swing-Europe Parashell; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 12.0; 42.0
-Technic'air Fly Roller; 1999; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Trio-Twister 103; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.0; 80.0
-Trio-Twister 203; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 105.0
-Viking Aircraft Viking II; 2000; 2000; one; one passenger; UNKNOWN; 11.7; 122.0
-Wrobel Vroby 2; UNKNOWN; 2000; one; one passenger; UNKNOWN; 15.0; 58.0
-BDC Aero Puma; UNKNOWN; 1980; one; one passenger; 6.3; 8.5; 310.0
-Adventure A series; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 23.0
-Adventure R series; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 17.0
-Adventure S series; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
-Aero Nord AIR; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
-Aerosport OY Spider; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0
-Airfer Bimax; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 27.5
-Airfer Titan; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Airfer Tornado; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 26.0
-Airtime Explorer; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 23.0
-Airtime Discovery; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 30.0
-Arey Tatush; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0
-Av8er Explorer; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
-Av8er Observer Light; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 19.95
-Av8er Orbiter; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Back Bone Seraph; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 17.0
-Back Bone Shadow; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 16.0
-Back Bone Silver; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 16.0
-Bailey JPX D330; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 26.0
-Bailey Solo; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 22.0
-Büttner Crazy Plane; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Büttner Easy Plane; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-D'Yves Yvasion 2000; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 29.0
-Dynamic Sport Climber; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 24.0
-Dynamic Sport Rocket; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 17.0
-Fly Castelluccio Flash; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 18.0
-Fly Castelluccio Mach; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 18.0
-Fly Castelluccio SMN; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Fresh Breeze Airbass; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 22.0
-Fresh Breeze Respect; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 28.0
-Jet Pocket Top 210; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 22.0
-Jet Pocket Top 80; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Jet Pocket Top Must; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 28.0
-La Mouette SR 210; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-La Mouette ZR 250; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 32.0
-Mini-Fly Set; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 16.0
-MS Parafly Skyward; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-NAGL System NAGL; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
-NeuraJet Neura Jet; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 13.0
-NST Minimum; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Paraavis Mirage; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0
-Paraavis Sova; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0
-Paraavis Pegasus; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Paraavis Vityaz; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 31.0
-Paramania Vortex; 2002; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 23.0
-Marbella Parapente Paramotor PAP; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 28.0
-Paramotor Performance M3; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 24.0
-Paramotor Mosquito; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 23.0
-H&E Paramotores Corsario; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 29.0
-H&E Paramotores Simonini; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 29.0
-H&E Paramotores Solo; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
-H&E Paramotores Ziklon; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Parapower Parapower; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Parasport.de Fun; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 25.5
-Paratour SD; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 21.5
-Phoenix Skywalker; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Rad MXL; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 16.4
-Rad RXL; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 15.0
-Rad SXL Custom; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 13.5
-Reflex Bi Trike; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 40.0
-Reflex J 160; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 23.0
-Reflex J 320; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0
-Reflex S; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0
-Reflex Solo Elec; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 26.0
-Skyrunner Basic; 1996; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
-Skyrunner Powerful; 1996; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0
-Skyrunner Booster; 1996; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 23.0
-Skyrunner Light; 1996; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 17.0
-Skyway Light; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 17.5
-Sokopf Falke; 1998; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
-Sperwill 120; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Sperwill 2+; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
-Sperwill 3+; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Sperwill 210; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
-Sperwill CA; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
-Sperwill ST; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 28.0
-Sperwill TX; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 28.0
-Sport 2000 80; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
-Time To Fly Backplane SL; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 26.0
-Time To Fly Racket; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
-Aeromarine Merlin; 2016; 2010; one; UNKNOWN; 5.31; 7.8; 180.0
-Walkerjet Simon; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0
-Walkerjet Spider; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 17.5
-Walkerjet Super Hawk; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 24.0
-Walkerjet Schoolboy; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN
-Wasp SP Mk2; 2002; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 23.0
-Winds Italia Raven; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 21.9
-Winds Italia Orbiter; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
-Xplorer Xflyer; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Xplorer XS; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Aeroprakt A-32 Vixxen; 2014; 2010; one; one passenger; 6.27; 9.45; 320.0
-Aviad Zigolo MG12; 2012; 2010; One; UNKNOWN; 5.5; 11.1; 95.0
-Swiss Excellence Risen; 2012; 2010; one; one passenger; 6.8; 9.0; 297.0
-AC Sirocco nG; 2009; 2000; one; UNKNOWN; UNKNOWN; 9.0; 115.0
-Aero East Europe Sila; 2013; 2010; one; one passenger; UNKNOWN; 9.4; 291.0
-Aéro Services Guépard Super Guépard; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Aero-Service Panda; 2016; 2010; one; one passenger; 6.62; 8.91; 270.0
-Airmak J4; 2011; 2010; one; one passenger; 7.4; 9.44; 330.0
-Albaviation D24 MagicOne; UNKNOWN; 2010; one; one passenger; 7.2; 9.0; 280.0
-Alpi Pioneer 300 Kite; UNKNOWN; 2010; one; one passenger; 6.25; 7.55; 315.0
-Blackwing Sweden Blackwing; 2015; 2010; one; one passenger; UNKNOWN; 8.4; 297.5
-Caldas 2G7 Vento; UNKNOWN; 2010; one; one passenger; UNKNOWN; 9.8; 260.0
-Carplane GmbH Carplane; UNKNOWN; UNKNOWN; one; one passenger; 7.453; 9.715; 498.0
-CFM Air Dardo; 2014; 2010; one; one passenger; UNKNOWN; UNKNOWN; 320.0
-Corvus Racer 312; 2013; 2010; one; one passenger; UNKNOWN; 8.33; 295.0
-Direct Fly ArGO; 2011; 2010; one; one passenger; UNKNOWN; 9.0; 282.0
-Electric Aircraft Corporation ElectraFlyer-ULS; 2012; 2010; one; UNKNOWN; UNKNOWN; UNKNOWN; 111.0
-Evektor EPOS; 2013; 2010; one; one passenger; 5.98; 10.462; 285.0
-B&F Fk131 Bücker Jungmann; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
-Dorna Free Bird; UNKNOWN; 2010; one; one passenger; UNKNOWN; 9.45; 380.0
-Ivanov ZJ-Viera; 2008; 2000; one; UNKNOWN; UNKNOWN; 7.5; 77.0
-Jingmen A2C Ultra Seaplane; 2003; 2000; one; two passengers; UNKNOWN; 11.28; 316.0
-OneAircraft One; UNKNOWN; 2010; one; three passengers; UNKNOWN; 9.67; 330.0
-Orel VH2 Streamline; 2014; 2010; one; one passenger; 6.05; 9.0; 290.0
-Pelegrin Tarragon; UNKNOWN; 2010; one; one passenger; 7.53; 7.94; 338.0
-Rokospol Via; 2008; 2000; one; one passenger; 6.45; 8.13; 285.0
-Roland Z-120 Relax; UNKNOWN; 2010; one; UNKNOWN; UNKNOWN; 7.45; 120.0
-Tecnam Snap; 2013; 2010; one; UNKNOWN; UNKNOWN; 2.19; 280.0
-TL-Ultralight Stream; 2013; 2010; one; one passenger; 6.785; 9.0; 300.0
-Tomark Skyper GT9; 2014; 2010; one; one passenger; 6.3; 9.0; 315.0
-Triavio Italo; 2013; 2010; one; one passenger; UNKNOWN; 7.77; 320.0
-Aviomania G2SA Genesis Duo; 2007; 2000; one; one passenger; UNKNOWN; UNKNOWN; 240.0
-Aviomania G1SA Genesis Solo; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 140.0
-GoFly Gotar; 2015; 2010; one; one passenger; UNKNOWN; UNKNOWN; 245.0
+name; year; decade; crew; capacity; length; wingspan; wingarea; emptyweight; grossweight; maxspeed; cruisespeed; stallspeed; range; fuelcapacity; power
+Advanced Aeromarine Carrera; UNKNOWN; 1990; 1; 2; 6.76; 9.53; 14.1; 186.0; 431.0; 65.0; 55.0; 27.0; UNKNOWN; UNKNOWN; 48.0
+Advanced Aeromarine Buccaneer; 1984; 1980; UNKNOWN; UNKNOWN; UNKNOWN; 10.21; 15.1; 147.0; 560.0; 65.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
+Advanced Aviation Cobra; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 11.0; 14.1; 107.0; 238.0; 56.0; 48.0; 21.0; 113.0; 18.0; 22.0
+Advanced Aviation Explorer; UNKNOWN; 1990; one; one passenger; 6.86; 9.04; 14.5; 218.0; 476.0; 78.0; 63.0; 29.0; 174.0; UNKNOWN; UNKNOWN
+Aériane Swift; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Aero Adventure Aventura; 1995; 1990; 1; UNKNOWN; 6.25; 8.48; 14.5; 325.0; 650.0; 74.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 30.0
+Mitchell U-2 Superwing; 1980; 1980; one; UNKNOWN; UNKNOWN; 10.0; 12.6; 109.0; 249.0; UNKNOWN; UNKNOWN; 23.0; 156.0; 11.0; 15.0
+Eipper Quicksilver; UNKNOWN; 1970; one; UNKNOWN; 5.51; 8.53; 14.5; 113.0; 238.0; 47.0; 43.0; 21.0; UNKNOWN; UNKNOWN; 30.0
+Zenith STOL CH 701; 1986; 1980; two; UNKNOWN; 6.38; 8.23; 11.33; 263.0; UNKNOWN; 74.0; 70.0; 26.0; 323.0; UNKNOWN; 60.0
+CZAW SportCruiser; 2006; 2000; one; one passenger; 6.62; 8.6; 12.3; 388.0; 600.0; 119.0; 93.0; 30.0; 515.0; UNKNOWN; 73.5
+Aerosport Rail; 1970; 1970; 1 (pilot); UNKNOWN; 4.8; 7.11; 7.57; 172.0; 295.0; 83.0; 57.0; 36.0; 104.0; UNKNOWN; 34.0
+Bradley Aerobat; UNKNOWN; 1990; one; UNKNOWN; 4.42; 5.61; 5.853; 158.0; 281.0; 174.0; 130.0; 43.0; 348.0; 38.0; 52.0
+Chotia Weedhopper; 1977; 1970; one; UNKNOWN; 5.64; 8.53; 15.6; 113.0; 249.0; UNKNOWN; 48.0; 17.0; UNKNOWN; UNKNOWN; 30.0
+E-Go Aeroplanes e-Go; 2013; 2010; one; UNKNOWN; UNKNOWN; 8.0; 11.5; 115.0; 243.0; 120.0; UNKNOWN; 35.0; 330.0; UNKNOWN; 22.0
+Hovey Whing Ding; 1971; 1970; one; UNKNOWN; 4.3; 5.2; 9.1; 55.0; 136.0; 43.0; 35.0; 23.0; 17.0; 1.9; 9.3
+Janowski Don Kichot; 1970; 1970; 1; UNKNOWN; 4.88; 7.6; 7.5; 163.0; 270.0; 73.0; 65.0; 31.0; 135.0; UNKNOWN; 17.0
+MAI-223; 2004; 2000; 2; UNKNOWN; 6.0; 8.19; 11.4; 320.0; UNKNOWN; 103.0; 86.0; 39.0; 286.0; UNKNOWN; 73.5
+Canaero Toucan; 1983; 1980; one; one passenger; 5.7849; 11.73; 16.9; 178.0; 408.0; 65.0; 56.0; 21.0; 148.0; UNKNOWN; 21.0
+Lamco Eurocub; UNKNOWN; 1990; one; one passenger; 5.7; 9.55; 14.0; UNKNOWN; 450.0; UNKNOWN; UNKNOWN; 33.0; UNKNOWN; UNKNOWN; 60.0
+Fisher Dakota Hawk; 1993; 1990; one; one passenger; 6.02; 8.69; 11.9; 272.0; 522.0; 87.0; 78.0; UNKNOWN; 217.0; UNKNOWN; 60.0
+Fisher FP-101; 1982; 1980; one; UNKNOWN; 5.03; 8.79; 10.8; 112.0; 227.0; 52.0; 48.0; 23.0; 130.0; UNKNOWN; 21.0
+Fisher Flyer; 1980; 1980; one; UNKNOWN; 4.27; 7.92; UNKNOWN; 109.0; 191.0; UNKNOWN; 39.0; UNKNOWN; UNKNOWN; UNKNOWN; 22.0
+Freebird I; 1998; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 114.0; 289.0; 55.0; 52.0; UNKNOWN; UNKNOWN; UNKNOWN; 30.0
+Freebird II; 1996; 1990; one; one passenger; 5.4; 8.5; 12.3; 175.0; 440.0; 74.0; 61.0; 28.0; UNKNOWN; UNKNOWN; 37.0
+Birdman Atlas; 1980; 1980; one; UNKNOWN; 4.27; 9.75; 15.0; 94.0; UNKNOWN; 40.0; 36.0; 17.0; 74.0; UNKNOWN; 15.0
+InterPlane Griffon; 1992; 1990; one; UNKNOWN; 5.72; 10.03; 13.96; 155.0; 275.0; 76.0; 51.0; 26.0; 108.0; UNKNOWN; 37.0
+InterPlane Skyboy; 1992; 1990; one; one passenger; 6.1; 10.49; 15.2; 222.0; 454.0; 78.0; 59.0; 35.0; 174.0; UNKNOWN; 48.0
+CGS Hawk; 1982; 1980; one; UNKNOWN; 6.27; 8.79; 12.5; 141.0; 272.0; UNKNOWN; 65.0; 30.0; 150.0; UNKNOWN; 30.0
+Team Mini-Max Hi-MAX; 1987; 1980; one; UNKNOWN; 4.88; 7.62; 10.45; 149.0; 254.0; 70.0; 61.0; 27.0; 122.0; UNKNOWN; 30.0
+Mini-MAX; 1984; 1980; one; UNKNOWN; 4.88; 8.08; 11.0; 181.0; 318.0; 70.0; 65.0; 31.0; 125.0; UNKNOWN; 37.0
+Watkinson Dingbat; 1938; 1930; 1; UNKNOWN; 4.88; 8.53; 11.6; 209.0; 318.0; 78.0; 70.0; 34.0; 174.0; UNKNOWN; 24.0
+Murphy Renegade; UNKNOWN; 1980; one; one passenger; 5.61; UNKNOWN; 14.2; 170.0; 386.0; 74.0; 65.0; 31.0; 245.0; 53.0; 37.0
+Fisher Barnstormer; 1982; 1980; one; no passengers; UNKNOWN; 6.1; 16.4; 100.0; 222.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 30.0
+Fisher Boomerang; 1982; 1980; one; no passengers; UNKNOWN; 8.53; 14.5; 86.0; 213.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 30.0
+Norman Aviation Nordic VI; UNKNOWN; 1990; 2; UNKNOWN; 6.15; 10.21; UNKNOWN; 266.0; 480.0; UNKNOWN; 90.0; 30.0; UNKNOWN; UNKNOWN; 60.0
+Normand Dube Aerocruiser; 1985; 1980; one; one passenger; UNKNOWN; 9.75; 15.0; 240.0; UNKNOWN; 100.0; 73.0; 28.0; UNKNOWN; UNKNOWN; 75.0
+Excalibur Aircraft Excalibur; 1993; 1990; one; one passenger; 6.1; 9.6; 17.2; 204.0; 431.0; UNKNOWN; 70.0; 29.0; 252.0; UNKNOWN; 37.0
+Airconcept VoWi 10; 1975; 1970; 2; UNKNOWN; 5.89; 11.0; 13.0; 265.0; UNKNOWN; UNKNOWN; 59.0; UNKNOWN; UNKNOWN; UNKNOWN; 45.0
+Sorrell Hiperlight; 1982; 1980; one; UNKNOWN; 4.72; 6.71; 13.0; 112.0; 227.0; 85.0; 52.0; 23.0; 156.0; UNKNOWN; 21.0
+Preceptor N3 Pup; UNKNOWN; 1990; one; UNKNOWN; 5.03; 9.3; 11.0; 115.0; 243.0; 55.0; 52.0; 23.0; 150.0; UNKNOWN; 28.0
+Hipp's Superbirds J-3 Kitten; 1986; 1980; one; UNKNOWN; 4.95; 9.14; 11.0; 113.0; 227.0; 55.0; 52.0; 21.0; 120.0; UNKNOWN; 21.0
+Hy-Tek Hurricane 103; 1991; 1990; one; UNKNOWN; 5.18; 8.53; 13.3; 114.0; 238.0; 87.0; 56.0; 23.0; 70.0; UNKNOWN; 30.0
+Capella Javelin; 1999; 1990; one; UNKNOWN; 5.49; 8.53; 10.4; 109.0; 261.0; 55.0; 52.0; 23.0; 120.0; UNKNOWN; 21.0
+Capella XS; 1988; 1980; one; one passenger; 5.61; 8.69; 10.6; 218.0; 544.0; 117.0; 96.0; 36.0; 239.0; UNKNOWN; 48.0
+Kolb Firefly; 1995; 1990; one; UNKNOWN; 5.94; 6.71; 10.9; 115.0; 227.0; 61.0; 52.0; 23.0; UNKNOWN; UNKNOWN; 30.0
+Kolb Firestar; 1985; 1980; one; UNKNOWN; 6.17; 8.43; 13.3; 115.0; 249.0; 55.0; 46.0; 23.0; 113.0; UNKNOWN; 21.0
+Kolb Mark III; UNKNOWN; 1990; one; one passenger; 6.86; 9.14; 15.0; 204.0; 454.0; 74.0; 65.0; 29.0; 113.0; UNKNOWN; 48.0
+Kolb Slingshot; UNKNOWN; 1990; one; one passenger; 5.79; 6.71; 10.0; 156.0; 386.0; 87.0; 76.0; 34.0; UNKNOWN; UNKNOWN; 48.0
+Kolb Kolbra; 2000; 2000; one; one passenger; 7.32; 8.84; 14.5; 225.0; 454.0; 87.0; 65.0; 30.0; 160.0; UNKNOWN; 48.0
+Kolb Flyer; 1970; 1970; one; UNKNOWN; UNKNOWN; 8.84; 15.0; 84.0; 178.0; UNKNOWN; 35.0; 17.0; 30.0; UNKNOWN; 8.6
+Kolb Ultrastar; 1982; 1980; one; UNKNOWN; UNKNOWN; 8.38; 14.0; 107.0; 213.0; 55.0; 35.0; 17.0; UNKNOWN; 19.0; 26.0
+Ultravia Pelican; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 11.28; 13.0; 95.0; 204.0; UNKNOWN; 48.0; 23.0; 90.0; UNKNOWN; 13.0
+Milholland Legal Eagle; 1998; 1990; one; UNKNOWN; 3.96; 7.16; 9.9; 111.0; 227.0; 52.0; 43.0; 22.0; 87.0; UNKNOWN; 22.0
+Light Miniature Aircraft LM-1; 1985; 1980; one; UNKNOWN; 5.41; 9.14; 11.0; 136.0; 272.0; 65.0; 56.0; 23.0; 150.0; UNKNOWN; 30.0
+Light Miniature Aircraft LM-5; 1991; 1990; one; one passenger; 6.88; 11.0; 17.0; 352.0; 578.0; 83.0; 70.0; 31.0; 252.0; UNKNOWN; 48.0
+AmeriPlanes Mitchell Wing A-10; 1982; 1980; one; UNKNOWN; 2.84; 10.46; 12.4; 127.0; 251.0; 61.0; 48.0; 24.0; 200.0; UNKNOWN; 21.0
+Aero-Service Puma; UNKNOWN; UNKNOWN; one; one passenger; 6.27; 9.15; 11.3; 290.0; 472.5; 130.0; 119.0; 33.0; 648.0; UNKNOWN; 60.0
+Loehle Sport Parasol; 1991; 1990; one; UNKNOWN; 5.61; 7.77; 10.6; 114.0; 272.0; 74.0; 56.0; 19.0; 200.0; UNKNOWN; 37.0
+Phantom X1; 1982; 1980; one; UNKNOWN; 5.08; 8.69; 13.2; 113.0; 231.0; 53.0; 48.0; 23.0; UNKNOWN; UNKNOWN; 30.0
+CFM Shadow; 1983; 1980; 2; UNKNOWN; 6.13; 10.0; 15.25; 215.0; UNKNOWN; UNKNOWN; 86.0; 34.0; 370.0; UNKNOWN; 48.0
+American Aerolights Double Eagle; 1982; 1980; UNKNOWN; 2; 4.6; 11.0; UNKNOWN; 141.0; 299.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 26.0
+Lilienthal Bekas; 1993; 1990; one; one passenger; 6.55; 9.0; 12.33; 300.0; UNKNOWN; UNKNOWN; 65.0; 30.0; UNKNOWN; UNKNOWN; 60.0
+Skyeton K-10 Swift; 2006; 2000; UNKNOWN; 2; 6.235; 9.1; UNKNOWN; 285.0; UNKNOWN; 121.0; 111.0; 31.0; 486.0; UNKNOWN; 73.5
+RemSchetMash Robust; 2006; 2000; UNKNOWN; 1; 5.47; 8.94; 10.6; UNKNOWN; UNKNOWN; 108.0; 97.0; 35.0; 540.0; UNKNOWN; 41.0
+Pop's Props Pinocchio; 1994; 1990; One; UNKNOWN; 5.03; 7.87; 10.76; 115.0; 227.0; 61.0; 52.0; 23.0; 100.0; UNKNOWN; 34.0
+Pop's Props Cloudster; 1995; 1990; One; UNKNOWN; 5.03; 9.14; 12.8; 113.0; 227.0; 52.0; 43.0; 19.0; 75.0; UNKNOWN; 26.0
+Pop's Props Zing; 1996; 1990; One; UNKNOWN; 5.18; 7.75; 11.04; 113.0; 227.0; 61.0; 48.0; 23.0; 120.0; UNKNOWN; 26.0
+ICP Savannah; UNKNOWN; 2000; 2; UNKNOWN; 6.6; 9.0; 12.87; 286.0; UNKNOWN; 107.0; 94.0; 26.0; UNKNOWN; UNKNOWN; 60.0
+RagWing RW1 Ultra-Piet; 1994; 1990; one; UNKNOWN; 4.57; 7.77; 117.0; 115.0; 249.0; UNKNOWN; 48.0; 21.0; 109.0; UNKNOWN; 26.0
+RagWing RW4 Midwing Sport; 1994; 1990; one; UNKNOWN; 4.88; 8.13; 117.0; 107.0; 249.0; UNKNOWN; 56.0; 23.0; 109.0; UNKNOWN; 21.0
+RagWing RW7 Duster; UNKNOWN; 1990; one; UNKNOWN; 5.18; 8.53; 130.0; 125.0; 299.0; UNKNOWN; 56.0; 19.0; 174.0; UNKNOWN; 37.0
+RagWing RW8 PT2S; 1993; 1990; one; one passenger; 5.18; 9.14; 135.0; 209.0; 408.0; UNKNOWN; 65.0; 31.0; 226.0; UNKNOWN; 39.0
+RagWing RW9 Motor Bipe; 1995; 1990; one; UNKNOWN; 4.88; 5.49; 120.0; 102.0; 238.0; UNKNOWN; 52.0; 23.0; 109.0; UNKNOWN; 26.0
+Rocky Mountain Wings Ridge Runner; 2000; 2000; one; UNKNOWN; 5.18; 7.98; 9.23; 112.0; 408.0; UNKNOWN; 48.0; 20.0; 122.0; UNKNOWN; 21.0
+Dart Skycycle; 1985; 1980; one; UNKNOWN; 6.1; 9.14; 13.5; 115.0; 246.0; UNKNOWN; 48.0; 23.0; UNKNOWN; UNKNOWN; 21.0
+Wood Sky Pup; 1980; 1980; one; UNKNOWN; 4.85; 9.45; 12.0; 88.0; 181.0; UNKNOWN; 48.0; 23.0; 130.0; UNKNOWN; 16.0
+Flying K Sky Raider; 1996; 1990; one; UNKNOWN; 5.18; 8.0; 10.0; 109.0; 227.0; 55.0; 52.0; 20.0; 104.0; UNKNOWN; 21.0
+Loehle Spad XIII; UNKNOWN; 1990; one; UNKNOWN; 5.0; 7.32; 15.6; 113.0; 238.0; 55.0; 46.0; 17.0; 74.0; UNKNOWN; 21.0
+Carlson Sparrow; 1987; 1980; one; UNKNOWN; 5.11; 9.22; 11.0; 115.0; 229.0; 55.0; 50.0; 23.0; 200.0; UNKNOWN; 21.0
+Golden Circle Air T-Bird; 1983; 1980; one; one passenger; 5.49; 9.45; 18.0; 186.0; 454.0; UNKNOWN; 61.0; 31.0; UNKNOWN; UNKNOWN; 48.0
+Earthstar Thunder Gull; 1987; 1980; one; UNKNOWN; 5.26; 5.36; 8.8; 114.0; 249.0; 55.0; 48.0; 22.0; 143.0; UNKNOWN; 21.0
+Titan Tornado; 1994; 1990; one; UNKNOWN; 5.64; 6.1; UNKNOWN; 113.0; 249.0; UNKNOWN; 52.0; 22.0; 104.0; UNKNOWN; 21.0
+Joplin Tundra; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 7.92; UNKNOWN; 113.0; 249.0; 55.0; 48.0; 22.0; 143.0; UNKNOWN; 30.0
+TL Ultralight TL-96 Star; 1997; 1990; UNKNOWN; 2; 6.5; 9.2; 12.2; 265.0; 450.0; 138.0; 119.0; 34.0; 540.0; UNKNOWN; UNKNOWN
+Aeroprakt A-20 Vista; 1991; 1990; one; one passenger in tandem seating; 6.71; 11.58; 16.0; 220.0; 449.0; 81.0; 61.0; 26.0; UNKNOWN; UNKNOWN; 37.0
+TL Ultralight Condor; 1993; 1990; UNKNOWN; 2; 6.08; 10.6; 14.84; 265.0; UNKNOWN; 86.0; 76.0; 31.0; 243.0; UNKNOWN; 48.5
+Bailey-Moyes Dragonfly; 1990; 1990; one; one passenger; 5.94; 10.36; 16.0; 233.0; 450.0; UNKNOWN; 40.0; 17.0; 65.0; 23.0; 48.0
+Falconar Golden Hawk; 1983; 1980; one; one passenger; 4.27; 10.36; 15.6; 227.0; 449.0; 113.0; 87.0; 35.0; 174.0; UNKNOWN; 41.0
+Precision Tech Fergy; 1991; 1990; one; one passenger; 5.7; 8.99; 13.0; 181.0; 454.0; 78.0; 65.0; 24.0; 191.0; UNKNOWN; 37.0
+Buzzman L'il Buzzard; 1990; 1990; one; one passenger; 6.25; 10.21; 16.0; 227.0; 544.0; UNKNOWN; 70.0; 30.0; 304.0; UNKNOWN; 48.0
+Arnet Pereyra Sabre II; 1992; 1990; one; one passenger; 6.81; 9.04; 14.5; 218.0; 499.0; 78.0; 61.0; 28.0; 130.0; UNKNOWN; 48.0
+Aeroprakt A-26 Vulcan; UNKNOWN; 2000; UNKNOWN; 2; 6.7; 11.4; 15.7; 290.0; 520.0; 97.0; 70.0; 35.0; UNKNOWN; UNKNOWN; 48.0
+Blue Yonder Merlin; 1987; 1980; two; UNKNOWN; 7.01; 10.82; 21.8; 318.0; UNKNOWN; 104.0; 96.0; UNKNOWN; UNKNOWN; UNKNOWN; 75.0
+Aviasud Sirocco; UNKNOWN; 1980; 1; UNKNOWN; 5.08; 10.06; 13.1; 131.0; 248.0; UNKNOWN; 43.0; 23.0; UNKNOWN; UNKNOWN; 26.0
+M-Squared Breese; 1996; 1990; one; one passenger; 5.79; 9.98; 17.0; 215.0; 635.0; 67.0; 55.0; 30.0; 78.0; UNKNOWN; 48.0
+Raj Hamsa X-Air; 1993; 1990; one; one passenger; 5.65; 9.8; UNKNOWN; 240.0; UNKNOWN; 65.0; 54.0; 24.0; UNKNOWN; 49.0; 48.0
+Rainbow Aerotrike; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.2; 14.8; 154.0; 400.0; 62.0; 54.0; 30.0; 175.0; 49.0; 37.0
+Air Creation Racer; UNKNOWN; 1980; one; UNKNOWN; 2.74; 10.06; 13.5; 112.0; 272.0; 47.0; 39.0; 19.0; UNKNOWN; UNKNOWN; 30.0
+UFM Easy Riser; 1975; 1970; one; UNKNOWN; 2.74; 9.14; 16.0; 54.0; 145.0; 35.0; 22.0; 17.0; 87.0; UNKNOWN; 8.2
+Roko Aero NG4; 2008; 2000; UNKNOWN; 2; 6.45; 10.1; 13.0; 330.0; UNKNOWN; UNKNOWN; 130.0; 30.0; UNKNOWN; UNKNOWN; 75.0
+S-Wing Swing; UNKNOWN; 1990; one; one passenger; 6.29; 10.2; 12.9; 296.0; UNKNOWN; UNKNOWN; 87.0; 35.0; 434.0; UNKNOWN; 73.5
+Euro-ALA Jet Fox; 1991; 1990; UNKNOWN; 2; 5.78; 9.78; 14.62; 278.0; UNKNOWN; 94.0; 81.0; 32.0; 173.0; UNKNOWN; 60.0
+Cyclone AX2000; 1997; 1990; 2; UNKNOWN; 5.6; 9.1; 15.77; 201.0; UNKNOWN; 54.0; UNKNOWN; 31.0; UNKNOWN; UNKNOWN; UNKNOWN
+US Aviation CAVU; 1997; 1990; one; UNKNOWN; 5.26; UNKNOWN; 14.0; 100.0; 236.0; 78.0; 45.0; 23.0; 156.0; 11.0; 16.0
+Colomban MC-30 Luciole; 2007; 2000; 1; UNKNOWN; UNKNOWN; 6.9; 4.6; 97.0; UNKNOWN; 108.0; 92.0; UNKNOWN; 432.0; UNKNOWN; 19.0
+BRM Aero Bristell; 2010; 2010; one; one passenger; 6.45; 8.13; 10.5; 290.0; 472.5; UNKNOWN; 116.0; 28.0; UNKNOWN; UNKNOWN; 75.0
+Volmer VJ-24W SunFun; 1977; 1970; one; UNKNOWN; 5.64; 11.13; 15.1; 75.0; 156.0; 36.0; 24.0; 13.0; 26.0; UNKNOWN; UNKNOWN
+Aerotique Parasol; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 9.75; 13.4; 110.0; 236.0; 55.0; 50.0; 21.0; UNKNOWN; 19.0; 21.0
+Ultralight Engineering Astra; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 10.06; 15.3; 112.0; 249.0; 48.0; 39.0; 19.0; UNKNOWN; 15.0; 26.0
+Airborne Avenger; UNKNOWN; 1980; one; UNKNOWN; 5.18; 9.45; 12.5; 114.0; UNKNOWN; 52.0; 39.0; 14.0; UNKNOWN; 19.0; 22.0
+Brock Avion; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 10.36; 13.5; 109.0; 206.0; 45.0; 42.0; 23.0; UNKNOWN; 19.0; 21.0
+Robertson B1-RD; 1982; 1980; one; UNKNOWN; UNKNOWN; 9.75; 15.1; 100.0; 227.0; 43.0; 33.0; 13.0; 109.0; 15.0; 22.0
+International Ultralight Banchee; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 10.36; 16.0; 114.0; 272.0; 48.0; 43.0; 21.0; 104.0; 19.0; 26.0
+Aircore Cadet; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 9.14; 15.1; 112.0; 240.0; 48.0; 39.0; 16.0; 96.0; 19.0; 21.0
+Worldwide Ultralite Clipper; UNKNOWN; 1980; one; UNKNOWN; 5.3; 9.1; 14.3; 114.0; 263.0; 55.0; 52.0; 17.0; 113.0; 19.0; 30.0
+Cloudbuster Ultralights Cloudbuster; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 11.0; 14.2; 112.0; 241.0; 52.0; 43.0; 22.0; 117.0; 13.0; 15.0
+US Aviation Cloud Dancer; 1983; 1980; one; UNKNOWN; 5.2; 12.19; 12.3; 114.0; 236.0; UNKNOWN; 43.0; 23.0; 217.0; 19.0; 21.0
+Seahawk Condor; UNKNOWN; 1980; one; one passenger; UNKNOWN; 9.8; 15.6; 109.0; 247.0; UNKNOWN; 48.0; 17.0; UNKNOWN; 19.0; 30.0
+Hovey Delta Bird; 1982; 1980; one; UNKNOWN; 4.57; UNKNOWN; 15.0; 99.0; 188.0; 52.0; 39.0; 23.0; 43.0; 19.0; 22.0
+American Aerolights Eagle; 1975; 1970; one; UNKNOWN; UNKNOWN; 11.0; 16.4; 102.0; 464.0; 43.0; 30.0; 23.0; 43.0; 15.0; 26.0
+Phase 3 Eclipse; 1983; 1980; one; UNKNOWN; 4.3; 9.8; 10.6; 75.0; 211.0; 55.0; 43.0; 22.0; 130.0; 19.0; 19.0
+St Croix Excelsior; 1980; 1980; one; UNKNOWN; 5.03; 10.54; 12.6; 113.0; 238.0; 65.0; 56.0; 22.0; 109.0; 19.0; 15.0
+Striplin F.L.A.C.; 1978; 1970; one; UNKNOWN; UNKNOWN; 9.75; 14.4; 91.0; 197.0; 56.0; 48.0; 14.0; UNKNOWN; 19.0; 8.6
+Goldwing Ltd Goldwing; 1979; 1970; one; UNKNOWN; UNKNOWN; 9.1; 13.0; 114.0; 245.0; UNKNOWN; 52.0; 22.0; UNKNOWN; 11.0; 22.0
+Delta Sailplane Nomad; UNKNOWN; 1980; one; UNKNOWN; 5.6; 9.8; 12.2; 86.0; 185.0; 52.0; UNKNOWN; 23.0; UNKNOWN; 9.5; 19.0
+Howland H-3 Pegasus; 1988; 1980; one; UNKNOWN; UNKNOWN; 7.6; 10.0; 114.0; 249.0; 83.0; 48.0; 23.0; 104.0; 19.0; 21.0
+Howland H-2 Honey Bee; 1986; 1980; one; UNKNOWN; 4.8; UNKNOWN; 13.0; 225.0; 318.0; 70.0; 59.0; 30.0; 104.0; 45.0; 48.0
+Gemini Hummingbird; 1981; 1980; one; UNKNOWN; UNKNOWN; 11.0; 163.0; 109.0; 254.0; UNKNOWN; 50.0; 19.0; 87.0; 17.0; 15.0
+Advanced Aviation Husky; 1978; 1970; One; UNKNOWN; 5.11; 10.21; 15.4; 90.0; 212.0; 46.0; 39.0; 21.0; UNKNOWN; 18.0; 22.0
+Blue Yonder EZ Fun Flyer; 2011; 2010; one; UNKNOWN; 4.6; 10.0; 13.6; 114.0; 272.0; UNKNOWN; 43.0; 15.0; 87.0; 23.0; 10.0
+Ultra-Efficient Products Invader; 1982; 1980; one; UNKNOWN; 5.5; 9.4; 13.0; 111.0; 215.0; UNKNOWN; 35.0; 17.0; 87.0; 9.5; 10.0
+Cascade Kasperwing I-80; 1976; 1970; one; UNKNOWN; 3.0; 11.0; 17.0; 73.0; 172.0; 39.0; 30.0; 16.0; 74.0; 9.5; 15.0
+Manta Foxbat; UNKNOWN; 1980; one; UNKNOWN; 2.4; 9.91; 14.6; 86.0; 193.0; UNKNOWN; 30.0; 19.0; 87.0; 19.0; 22.0
+Striplin Lone Ranger; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 9.8; 11.0; 111.0; 227.0; 55.0; UNKNOWN; 22.0; UNKNOWN; 19.0; 15.0
+Tomark Viper SD4; 2006; 2000; UNKNOWN; 2; 6.4; 8.4; UNKNOWN; 292.0; 472.5; UNKNOWN; 108.0; 35.0; 405.0; UNKNOWN; 59.6
+Mariner Aircraft Mariner; 1989; 1980; one; UNKNOWN; UNKNOWN; 9.8; 13.1; 138.0; 295.0; UNKNOWN; 48.0; 23.0; 65.0; 38.0; 30.0
+Mathews Petit Breezy; UNKNOWN; 1980; one; UNKNOWN; 5.2; 9.1; 14.0; 112.0; 227.0; UNKNOWN; 35.0; 19.0; UNKNOWN; 19.0; 22.0
+Mathews PUP; 1983; 1980; one; UNKNOWN; UNKNOWN; 9.8; 15.0; 112.0; UNKNOWN; UNKNOWN; 35.0; 24.0; UNKNOWN; UNKNOWN; 28.0
+Mathews Turnerkraft; UNKNOWN; 1980; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Chandelle Mk IV; 1984; 1980; one; UNKNOWN; 5.2; 9.3; 14.2; 110.0; 227.0; 51.0; 39.0; 20.0; UNKNOWN; 19.0; 22.0
+Shark.Aero Shark; 2009; 2000; one; one passenger; 6.715; 7.9; 9.5; 275.0; UNKNOWN; 157.0; 135.0; 35.0; UNKNOWN; UNKNOWN; 73.5
+Meadowlark Ultralight Meadowlark; 1982; 1980; one; UNKNOWN; 5.8; 11.0; 12.6; 114.0; 249.0; 48.0; 30.0; 19.0; 78.0; 14.0; 22.0
+Ultralight Flight Mirage; UNKNOWN; 1980; one; UNKNOWN; 5.94; 9.8; 13.4; 112.0; 227.0; UNKNOWN; 43.0; 22.0; 91.0; 15.0; 26.0
+Teman Mono-Fly; UNKNOWN; 1980; one; UNKNOWN; 5.2; 9.4; 11.5; 113.0; 249.0; 55.0; 39.0; 17.0; UNKNOWN; 19.0; 37.0
+Golden Gate Mosquito; UNKNOWN; 1980; one; UNKNOWN; 4.6; 8.8; 13.5; 114.0; 228.0; 55.0; 52.0; 23.0; UNKNOWN; 19.0; 26.0
+Paup P-Craft; 1982; 1980; one; UNKNOWN; UNKNOWN; 9.91; 12.3; 75.0; 182.0; UNKNOWN; 35.0; 19.0; UNKNOWN; UNKNOWN; 15.0
+Waspair HM 81 Tomcat; 1980; 1980; one; UNKNOWN; UNKNOWN; 9.4; UNKNOWN; 111.0; 238.0; 55.0; 48.0; 23.0; UNKNOWN; 19.0; 22.0
+Rotec Rally; 1977; 1970; one; UNKNOWN; UNKNOWN; 9.4; 14.4; 99.0; 211.0; UNKNOWN; 35.0; 17.0; 68.0; 11.0; 26.0
+Rotec Panther; 1984; 1980; one; UNKNOWN; UNKNOWN; 10.0; UNKNOWN; 113.0; 215.0; 52.0; 50.0; 19.0; 149.0; 13.0; 21.0
+Ritz Model A; 1984; 1980; one; UNKNOWN; UNKNOWN; 11.0; 13.0; 91.0; 204.0; 54.0; 39.0; 16.0; UNKNOWN; 19.0; 16.0
+Skyhigh Skybaby; 1983; 1980; one; UNKNOWN; 5.2; 9.8; 11.9; 70.0; 163.0; 35.0; 30.0; 21.0; UNKNOWN; 11.0; 9.3
+Raceair Skylite; 1991; 1990; one; UNKNOWN; 5.33; 8.9; 10.9; 109.0; 236.0; 52.0; 41.0; 23.0; 78.0; 19.0; 21.0
+TL Ultralight TL-3000 Sirius; 2008; 2000; UNKNOWN; 2; 6.75; 9.4; 11.15; 297.0; UNKNOWN; 121.0; UNKNOWN; 35.0; 756.0; UNKNOWN; 59.6
+Worldwide Ultralite Skyraider S/S; UNKNOWN; 1980; one; one passenger; UNKNOWN; 9.8; 15.0; 115.0; 308.0; 44.0; 35.0; 21.0; 91.0; 17.0; 30.0
+Bell Sidewinder; UNKNOWN; 1980; one; UNKNOWN; 5.03; 9.14; 14.3; 113.0; 227.0; 52.0; 43.0; 23.0; UNKNOWN; 19.0; 28.0
+Worldwide Ultralite Spitfire; UNKNOWN; 1980; one; UNKNOWN; 5.59; 9.14; 14.1; 115.0; 249.0; 55.0; 48.0; 17.0; 87.0; 19.0; 27.0
+Jora Jora; UNKNOWN; 1990; UNKNOWN; two; 6.0; 10.6; 12.5; 225.0; UNKNOWN; 76.0; 65.0; 24.0; 304.0; UNKNOWN; 38.8
+UL-Jih Fascination; 1996; 1990; UNKNOWN; two; 6.87; 9.0; 10.7; 297.0; UNKNOWN; UNKNOWN; 131.0; 35.0; 756.0; UNKNOWN; 59.6
+UL-Jih Evolution; 2002; 2000; UNKNOWN; two; 6.98; 9.0; 10.76; 305.0; UNKNOWN; 157.0; 146.0; 35.0; 756.0; UNKNOWN; 73.5
+Skye Treck Skyseeker; 1981; 1980; one; UNKNOWN; 3.7; 9.8; 15.0; 112.0; 225.0; 39.0; 35.0; 17.0; 156.0; 19.0; 21.0
+TL Ultralight TL-32 Typhoon; 1991; 1990; UNKNOWN; 2; 5.9; 10.7; 15.2; 200.0; UNKNOWN; 59.0; 49.0; 24.0; 162.0; UNKNOWN; UNKNOWN
+Eastern Ultralights Snoop; 1981; 1980; one; UNKNOWN; UNKNOWN; 10.0; 15.3; 108.0; 235.0; 48.0; 39.0; 16.0; 109.0; 19.0; 26.0
+V-STOL Solution; 1998; 1990; one; UNKNOWN; UNKNOWN; 10.0; 17.0; 112.0; 226.0; UNKNOWN; 39.0; 19.0; UNKNOWN; UNKNOWN; 21.0
+Star Flight Starfire; 1979; 1970; one; UNKNOWN; 4.6; 10.0; 15.3; 100.0; 213.0; 48.0; 33.0; 18.0; 52.0; 9.5; 22.0
+Airmass Sunburst; UNKNOWN; 1980; one; UNKNOWN; 4.9; 11.0; 14.8; 115.0; 238.0; UNKNOWN; 30.0; 22.0; 87.0; 19.0; 22.0
+Ultra-Fab Sundowner; 1983; 1980; one; UNKNOWN; UNKNOWN; 9.3; 13.6; 112.0; 227.0; 54.0; 43.0; 22.0; UNKNOWN; 17.0; 21.0
+Swallow Aeroplane Company Swallow; UNKNOWN; 1980; one; UNKNOWN; 5.5; 10.44; 12.8; 132.0; 265.0; 61.0; 52.0; 24.0; 119.0; 14.0; 22.0
+Teratorn T/A; UNKNOWN; 1970; one; UNKNOWN; UNKNOWN; 9.8; 15.0; 103.0; 227.0; 43.0; 39.0; 15.0; 61.0; 12.0; UNKNOWN
+Thor T/A; 1985; 1980; one; UNKNOWN; 4.2; 9.86; 15.5; 108.0; 227.0; 55.0; 48.0; 19.0; UNKNOWN; 19.0; 21.0
+Pinaire Ultra-Aire; UNKNOWN; 1980; one; UNKNOWN; 4.32; 7.9; 12.0; 114.0; 250.0; 55.0; 35.0; 19.0; UNKNOWN; 19.0; 26.0
+Aerodyne Systems Vector; 1982; 1980; one; UNKNOWN; 5.5; 10.7; 14.3; 88.0; 202.0; UNKNOWN; 39.0; 23.0; 109.0; 19.0; 16.0
+Greenwood Witch; 1982; 1980; one; UNKNOWN; 5.54; 9.1; 14.0; 112.0; 227.0; 55.0; 43.0; 23.0; UNKNOWN; 19.0; 16.0
+Ultralite Soaring Wizard; UNKNOWN; 1970; one; UNKNOWN; 5.2; 9.86; 15.1; 76.0; 204.0; 36.0; 30.0; 15.0; UNKNOWN; 12.0; 11.0
+Latécoère 225; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Chotia Woodhopper; 1978; 1970; one; UNKNOWN; 5.33; 9.75; 14.6; 66.0; 163.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 7.6; UNKNOWN
+Diehl AeroNautical XTC Hydrolight; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 9.8; 14.4; 112.0; 227.0; 54.0; 43.0; 22.0; 104.0; 19.0; 19.0
+Cloudbaser Trikes Cloudbaser; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; 17.2; 84.0; 261.0; UNKNOWN; 43.0; 24.0; UNKNOWN; 19.0; 30.0
+LEAF Trike; UNKNOWN; 1980; one; UNKNOWN; 2.3; UNKNOWN; UNKNOWN; 68.0; 227.0; 39.0; 28.0; 21.0; UNKNOWN; 19.0; 26.0
+J & J Ultralights Tukan; UNKNOWN; 1990; one; one passenger; 2.1; 11.0; 18.0; 113.0; 340.0; UNKNOWN; 35.0; 21.0; UNKNOWN; 19.0; 30.0
+MFI BA-12 Sländan; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Mountaineer Trikes Mite-Lite; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; 19.0; 91.0; 204.0; UNKNOWN; 30.0; 20.0; UNKNOWN; 19.0; 21.0
+Air Creation GT; UNKNOWN; 1990; one; one passenger; 2.4; 10.0; 16.5; 172.0; 450.0; UNKNOWN; 43.0; UNKNOWN; UNKNOWN; 57.0; 37.0
+Antares MA-32; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.3; 15.5; 146.0; 250.0; 67.0; 35.0; 24.0; 174.0; UNKNOWN; 30.0
+Apex Eco 6; UNKNOWN; 1980; one; UNKNOWN; 1.98; 9.6; 15.0; 32.0; 215.0; UNKNOWN; 30.0; UNKNOWN; 78.0; UNKNOWN; 37.0
+Buckeye Eclipse; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 15.5; 118.0; 454.0; UNKNOWN; 65.0; 23.0; UNKNOWN; 38.0; 48.0
+GibboGear Butterfly; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 10.0; 22.0; 132.0; 299.0; UNKNOWN; 22.0; 17.0; UNKNOWN; 38.0; 30.0
+Cosmos Samba; UNKNOWN; 1990; one; UNKNOWN; 1.8; 10.12; 14.1; 95.0; 204.0; 50.0; 39.0; 22.0; 70.0; UNKNOWN; 16.0
+Cosmos Phase II; UNKNOWN; 1990; one; one passenger; 2.1; 10.0; 15.2; 136.0; 363.0; 70.0; 56.0; 24.0; 282.0; UNKNOWN; UNKNOWN
+Cosmos Echo; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 9.87; 12.9; 126.0; 300.0; 84.0; 59.0; 22.0; 282.0; UNKNOWN; 37.0
+Cosmos Bison; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.6; 19.0; 123.0; 400.0; 46.0; 32.0; 22.0; UNKNOWN; UNKNOWN; 30.0
+Fletcher Hercules; UNKNOWN; 1990; one; one passenger; 2.7; 10.0; 18.0; 115.0; 272.0; UNKNOWN; 35.0; 24.0; 74.0; 19.0; 26.0
+Airborne Edge; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.16; UNKNOWN; 185.0; 408.0; UNKNOWN; 48.0; 30.0; UNKNOWN; 48.0; 48.0
+Airborne Outback; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.96; 17.6; 165.0; 401.0; 50.0; 36.0; 28.0; UNKNOWN; UNKNOWN; 48.0
+Airborne Redback; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.96; 17.6; 165.0; 401.0; 50.0; 36.0; 24.0; UNKNOWN; UNKNOWN; 37.0
+Airborne XT; 2003; 2000; one; one; UNKNOWN; 9.9; 15.0; 216.0; 450.0; 65.0; UNKNOWN; 30.0; UNKNOWN; UNKNOWN; 60.0
+Ultimate Jetwing; 1981; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; 15.3; 98.0; 218.0; UNKNOWN; 30.0; 20.0; UNKNOWN; 19.0; UNKNOWN
+LiteWing Aircraft LiteTrike; UNKNOWN; 1990; one; UNKNOWN; 2.4; 10.0; 19.0; 82.0; 200.0; UNKNOWN; 26.0; 13.0; 78.0; 19.0; 16.0
+LiteWing Aircraft LiteWing; UNKNOWN; 1990; one; UNKNOWN; 2.59; 9.8; 15.0; 127.0; 272.0; UNKNOWN; 52.0; UNKNOWN; UNKNOWN; 23.0; 30.0
+Mainair Blade; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.6; 15.6; 190.0; 390.0; 78.0; 57.0; 26.0; 220.0; UNKNOWN; 60.0
+Mainair Rapier; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.6; 15.6; 152.0; 370.0; 73.0; 51.0; 27.0; 240.0; UNKNOWN; 37.0
+Pegasus Quantum; 1996; 1990; one; one passenger; UNKNOWN; 10.4; 15.6; 204.0; 409.0; 78.0; 52.0; 33.0; UNKNOWN; UNKNOWN; 60.0
+North Wing Maverick; UNKNOWN; 1990; one; UNKNOWN; 2.1; 9.6; 14.6; 114.0; 249.0; UNKNOWN; 39.0; UNKNOWN; UNKNOWN; 19.0; 30.0
+North Wing ATF; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 10.6; UNKNOWN; 84.0; 249.0; 39.0; 26.0; 18.0; UNKNOWN; 19.0; 22.0
+North Wing Apache; UNKNOWN; 1990; one; one passenger; 3.7; 9.6; 14.4; 181.0; 431.0; 65.0; 52.0; 26.0; 304.0; 45.0; 48.0
+Pegasus Quik; 2003; 2000; one; one passenger; UNKNOWN; UNKNOWN; 10.6; 193.0; 409.0; 91.0; 71.0; 33.0; UNKNOWN; UNKNOWN; 75.0
+Concept Prowler; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 10.0; 112.0; UNKNOWN; UNKNOWN; 50.0; 24.0; UNKNOWN; 19.0; 30.0
+Aviate Raptor; 1992; 1990; one; one passenger; UNKNOWN; 10.5; 17.0; 163.0; 450.0; 63.0; 43.0; 28.0; UNKNOWN; UNKNOWN; 48.0
+Medway Av8R; 2003; 2000; one; one passenger; UNKNOWN; 11.0; 15.0; UNKNOWN; 415.0; 70.0; 54.0; 26.0; UNKNOWN; UNKNOWN; 60.0
+Medway EclipseR; UNKNOWN; 1990; one; one passenger; UNKNOWN; 11.0; 15.0; 208.0; 415.0; 70.0; 54.0; 26.0; UNKNOWN; UNKNOWN; 60.0
+Sabre 340; 1991; 1990; one; UNKNOWN; 3.0; 10.0; 13.7; 98.0; 272.0; UNKNOWN; 43.0; 23.0; 104.0; 19.0; 22.0
+Sabre Wildcat; UNKNOWN; 1990; one; one passenger; 4.0; 10.82; 16.4; 150.0; 401.0; 48.0; 40.0; 18.0; 217.0; 38.0; 48.0
+World Seair Corp Seair; 1998; 1990; one; one passenger; 2.79; 10.06; 19.0; 114.0; 318.0; 48.0; UNKNOWN; UNKNOWN; 65.0; 19.0; 37.0
+Y2Fly Seahawk; UNKNOWN; 1990; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+J & J Ultralights Seawing; UNKNOWN; 1990; one; one passenger; 3.7; 11.0; 18.0; 159.0; 363.0; 52.0; 30.0; 22.0; 70.0; 19.0; 37.0
+Lookout Mountain SkyCycle; 1997; 1990; one; UNKNOWN; 4.6; 10.0; 20.9; 75.0; 211.0; 65.0; 35.0; 17.0; 104.0; 9.5; 16.0
+Personal Flight Sky-Tender; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.75; 19.1; 172.0; 263.0; UNKNOWN; 48.0; UNKNOWN; UNKNOWN; 38.0; 48.0
+Spartan DFS Trike; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 18.5; 96.0; 210.0; UNKNOWN; 30.0; UNKNOWN; UNKNOWN; 19.0; 21.0
+Spartan DFD Aerotome; UNKNOWN; 1990; one; one passenger; 2.1; 11.0; 18.0; 112.0; 340.0; UNKNOWN; 38.0; UNKNOWN; UNKNOWN; 19.0; 37.0
+Spartan DFS Paramotor; UNKNOWN; 1990; one; UNKNOWN; 1.8; 11.0; UNKNOWN; 31.0; 228.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 13.0; 21.0
+Spartan BP Parawing; UNKNOWN; 1990; one; UNKNOWN; 1.2; 11.0; UNKNOWN; 22.0; 159.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 9.5; 21.0
+TC's Trikes Coyote; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 16.0; 113.0; 363.0; UNKNOWN; 39.0; 17.0; UNKNOWN; 19.0; 30.0
+Solo Wings Windlass; 1987; 1980; one; one passenger; UNKNOWN; 10.0; 15.3; 175.0; 356.0; UNKNOWN; 43.0; UNKNOWN; 174.0; 38.0; 37.0
+Solo Wings Aquilla; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.0; 14.0; 152.0; 352.0; UNKNOWN; 54.0; UNKNOWN; UNKNOWN; 38.0; 37.0
+Antonov T-2M Maverick; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 15.1; 170.0; 352.0; UNKNOWN; 48.0; 24.0; UNKNOWN; UNKNOWN; 48.0
+Pegasus Booster; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0; UNKNOWN; UNKNOWN; 22.0; 12.0; UNKNOWN; 4.9; 10.0
+Flylight Doodle Bug; 1999; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0; UNKNOWN; UNKNOWN; 22.0; 12.0; UNKNOWN; 5.7; 10.0
+Swedish Aerosport Mosquito; 1995; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; 22.0; 12.0; UNKNOWN; 5.7; 10.0
+Aeros-2; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 14.5; 229.5; 472.5; UNKNOWN; 49.0; 28.0; UNKNOWN; UNKNOWN; 60.0
+Aeros Cross Country; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 14.5; 222.0; 472.5; UNKNOWN; 49.0; 28.0; UNKNOWN; UNKNOWN; 60.0
+Buckeye Eagle; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 41.81; 100.0; 249.0; 23.0; 23.0; UNKNOWN; UNKNOWN; 19.0; 30.0
+Buckeye Dream Machine; 1985; 1980; one; one passenger; UNKNOWN; UNKNOWN; 46.0; 136.0; 363.0; 26.0; 23.0; UNKNOWN; UNKNOWN; 30.0; 37.0
+Buckeye Falcon; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 24.0; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Goodwin Buckshot; 1998; 1990; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 104.0; UNKNOWN; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 51.0; 34.0
+Canadian Phase I; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 46.0; 132.0; 363.0; UNKNOWN; 30.0; UNKNOWN; UNKNOWN; 38.0; 48.0
+Emerald Coast XL2 Sport; 2000; 2000; one; one passenger; UNKNOWN; UNKNOWN; 51.0; 131.0; UNKNOWN; UNKNOWN; 24.0; UNKNOWN; UNKNOWN; 38.0; 37.0
+Harmening High Flyer; UNKNOWN; 1980; one; optionally one passenger, if second seat fitted; 3.05; 12.0; 51.0; 127.0; 376.0; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; 34.0; 48.0
+Heldeberg Spirit 103; UNKNOWN; 1990; one; UNKNOWN; 2.59; 12.04; 37.0; 107.0; 263.0; UNKNOWN; 28.0; UNKNOWN; UNKNOWN; 19.0; 37.0
+Heldeberg Marathon; UNKNOWN; 1990; one; one passenger; 2.95; 12.04; 46.0; 140.0; 386.0; UNKNOWN; 28.0; UNKNOWN; 100.0; 38.0; 48.0
+Heldeberg Convertible; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 46.0; 111.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0; 37.0
+Paladin Sparrow; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 34.0; 66.0; 170.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0; 22.0
+Paladin Golden Eagle; UNKNOWN; 1990; one; one passenger; 3.35; 10.82; 46.0; 154.0; 386.0; UNKNOWN; 24.0; UNKNOWN; UNKNOWN; 38.0; 48.0
+Paladin Hercules; UNKNOWN; 1990; one; one passenger; 3.43; 10.82; 51.0; 179.0; 454.0; UNKNOWN; 24.0; UNKNOWN; UNKNOWN; 38.0; 82.0
+Para-Ski XS; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; 60.9; 154.0; 372.0; UNKNOWN; 35.0; UNKNOWN; UNKNOWN; 34.0; 48.0
+Para-Ski VX; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 51.6; 154.0; 313.0; UNKNOWN; 35.0; UNKNOWN; UNKNOWN; 34.0; 48.0
+Powrachute Pegasus; 2000; 2000; one; one passenger; UNKNOWN; UNKNOWN; 46.0; 166.0; 363.0; UNKNOWN; 26.0; UNKNOWN; UNKNOWN; 38.0; 48.0
+Tennessee Propellers Scout; 1999; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 37.0; 102.0; 220.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 19.0; 34.0
+Sea-Bow International Sea-Bow; UNKNOWN; 1990; one; UNKNOWN; 3.05; UNKNOWN; 46.0; 154.0; 308.0; UNKNOWN; 26.0; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Six Chuter SR1; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 42.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0; 37.0
+Six Chuter SR7; 1997; 1990; one; one passenger; 2.59; 12.04; 46.0; 136.0; 318.0; UNKNOWN; 23.0; UNKNOWN; 43.0; 38.0; 48.0
+Sky Seeker Powerchutes Sky Seeker; 2000; 2000; one; one passenger; UNKNOWN; UNKNOWN; 46.0; 132.0; 318.0; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; UNKNOWN; 37.0
+Summit 2; 1999; 1990; one; one passenger; 3.15; UNKNOWN; 51.0; 141.0; 431.0; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; 38.0; 48.0
+Goodwin Tri-Moto; 1997; 1990; one; one passenger; UNKNOWN; UNKNOWN; 45.1; 93.0; 411.0; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; 23.0; UNKNOWN
+St Andrews Viking; 1998; 1990; one; one passenger; UNKNOWN; UNKNOWN; 48.0; 122.0; UNKNOWN; UNKNOWN; 26.0; UNKNOWN; UNKNOWN; 38.0; 37.0
+Airframes Unlimited T-2; UNKNOWN; 1990; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Airframes Unlimited T-103; UNKNOWN; 1990; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Adventure F series; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 28.0; 22.0; UNKNOWN; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; 9.5; 10.8
+Fresh Breeze Solo; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; 23.0; 126.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 7.6; 14.0
+Fresh Breeze Paratour Twin; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 9.8; UNKNOWN
+Fresh Breeze Twin; UNKNOWN; 1990; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 31.0; 191.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Fresh Breeze Simonini; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 15.5
+Fresh Breeze Monster; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 33.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
+Per Il Volo Miniplane; 1989; 1980; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.0; 113.0; UNKNOWN; 17.0; UNKNOWN; UNKNOWN; 7.6; 9.7
+Daiichi Kosho Whisper; 1992; 1990; one; UNKNOWN; 0.61; 12.0; 30.0; 27.0; 136.0; UNKNOWN; 22.0; UNKNOWN; 17.0; 6.4; 16.0
+Paraborne Backplane; 1999; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 32.0; 19.0; 118.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 11.0; 16.0
+Phoenix Industries B1Z ParaFlyer; UNKNOWN; 1990; one; UNKNOWN; 0.46; 9.14; 29.3; 34.0; 138.0; UNKNOWN; 19.0; UNKNOWN; 26.0; 9.5; 16.0
+Paramotor Inc FX series; UNKNOWN; 1990; one; UNKNOWN; 0.46; UNKNOWN; 28.0; 16.0; 84.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 4.7; 13.0
+Fly Products Power; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 4.7; 13.0
+Fly Products Gold; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 10.0; 42.0; 30.0; UNKNOWN; 26.0; 22.0; 8.0; UNKNOWN; 16.1; 21.0
+La Mouette Skybike; UNKNOWN; 1990; one; UNKNOWN; 0.61; UNKNOWN; 30.0; 27.0; 127.0; UNKNOWN; 22.0; UNKNOWN; 43.0; 7.6; 13.0
+Southern Skies Spymotor; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; 18.0; 100.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 7.6; 13.0
+Southern Skies Quattro; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; 20.0; 102.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 7.6; 10.0
+Vortech G-1; UNKNOWN; 1970; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 68.0; 191.0; 70.0; 39.0; UNKNOWN; 52.0; 19.0; 30.0
+Vortech Kestrel Jet; UNKNOWN; 1980; one; UNKNOWN; 3.66; UNKNOWN; UNKNOWN; 82.0; 200.0; 55.0; 39.0; UNKNOWN; 52.0; 38.0; UNKNOWN
+A2 CZ Ellipse Spirit; 2011; 2010; one; one passenger; UNKNOWN; 8.0; 8.48; 272.5; 472.5; 151.0; 135.0; 32.0; UNKNOWN; UNKNOWN; 80.0
+Aero & Tech Nexth; 2012; 2010; one; one passenger; UNKNOWN; 7.9; 9.23; UNKNOWN; 472.5; 148.0; 132.0; 35.0; 918.0; UNKNOWN; 75.0
+Aéro Services Guépard Guêpe; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Aero Synergie Jodel D20; UNKNOWN; 1970; one; one passenger; UNKNOWN; 7.5; 10.5; 265.0; 472.5; 124.0; 111.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Aero Synergie J300 Joker; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.04; 15.6; 272.0; 472.5; 97.0; 76.0; 31.0; UNKNOWN; UNKNOWN; 75.0
+Aero Synergie Papango; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.4; 15.3; 275.0; 472.5; 97.0; 81.0; 31.0; UNKNOWN; UNKNOWN; 75.0
+Aero-Kros MP-02 Czajka; 2009; 2000; one; one passenger; UNKNOWN; 9.72; 10.2; 268.0; 472.5; 124.0; 92.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Aeroalcool Quasar; 2007; 2000; one; one passenger; UNKNOWN; 9.25; 9.2; 215.0; 589.0; 140.0; 103.0; 39.0; UNKNOWN; UNKNOWN; 45.0
+AeroAndina MXP-158 Embera; UNKNOWN; UNKNOWN; one; one passenger; UNKNOWN; UNKNOWN; 11.7; 279.0; 472.5; 103.0; 94.0; 29.0; UNKNOWN; UNKNOWN; 60.0
+Aerocomp VM-1 Esqual; UNKNOWN; 2000; one; one passenger; 6.08; 9.1; 9.0; 265.0; 450.0; UNKNOWN; 124.0; 33.0; UNKNOWN; UNKNOWN; 75.0
+Aeroflying Sensation; 2007; 2000; one; one passenger; UNKNOWN; 8.4; 10.55; 278.0; 472.5; 121.0; 108.0; 31.0; 648.0; UNKNOWN; 60.0
+AeroJames 01 Isatis; 2009; 2000; one; one passenger; UNKNOWN; 9.8; 12.0; 270.0; 472.5; 146.0; 124.0; 32.0; UNKNOWN; UNKNOWN; 75.0
+Aeropilot Legend 540; 2011; 2010; one; one passenger; 7.0; 9.06; 10.54; 289.0; 472.5; 121.0; 113.0; 33.0; 702.0; UNKNOWN; 75.0
+DAR Solo; 2008; 2000; one; UNKNOWN; UNKNOWN; 8.97; 10.76; 115.0; 220.0; 70.0; 54.0; 24.0; UNKNOWN; UNKNOWN; 21.0
+DAR 21 Vector II; 2000; 2000; one; one passenger; 6.35; 9.42; 12.42; 250.0; 450.0; 108.0; 94.0; 31.0; UNKNOWN; UNKNOWN; 48.0
+Aeros UL-2000 Flamingo; 2001; 2000; one; one passenger; UNKNOWN; 8.6; 10.5; UNKNOWN; 450.0; 130.0; 97.0; 33.0; UNKNOWN; UNKNOWN; 75.0
+Aerosette MH-46 Eclipse; 2002; 2000; one; one passenger; 6.34; 9.71; 11.5; 285.0; 472.5; 135.0; 119.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Aerospool WT9 Dynamic; UNKNOWN; 2000; one; one passenger; 6.4; 9.0; 10.35; 264.0; 450.0; UNKNOWN; 135.0; 35.0; 864.0; UNKNOWN; 75.0
+Aerostar R40S Festival; UNKNOWN; 1990; one; one passenger; 6.74; 9.17; 13.97; 354.0; 535.0; 94.0; 81.0; 36.0; 432.0; UNKNOWN; 75.0
+Airflow Twinbee; 2010; 2010; one; one passenger; 6.4; 9.33; 14.2; 260.0; 450.0; 83.0; 71.0; 27.0; UNKNOWN; UNKNOWN; 63.0
+Airkraft Sunny; UNKNOWN; 1980; one; one passenger; UNKNOWN; 7.0; 17.0; 220.0; 450.0; 78.0; 54.0; 30.0; UNKNOWN; UNKNOWN; 48.0
+AirLony Highlander; 1998; 1990; one; one passenger; UNKNOWN; 7.3; 14.5; 240.0; 450.0; 102.0; 86.0; 35.0; UNKNOWN; UNKNOWN; UNKNOWN
+Airo 1; 2008; 2000; one; one passenger; UNKNOWN; 9.78; 14.62; 278.0; 450.0; 94.0; 81.0; 32.0; UNKNOWN; UNKNOWN; 75.0
+Airsport Sonet; UNKNOWN; 2000; one; one passenger; UNKNOWN; 11.7; 10.5; 265.0; 450.0; 109.0; 76.0; 35.0; UNKNOWN; UNKNOWN; 48.0
+Alisport Yuma; UNKNOWN; 1990; one; one passenger; 6.45; 9.75; 13.44; 282.0; 450.0; 100.0; 86.0; 27.0; UNKNOWN; UNKNOWN; 75.0
+Alpi Pioneer 200; UNKNOWN; 2000; one; one passenger; UNKNOWN; 7.3; 10.22; 264.0; 472.5; 113.0; 97.0; 34.0; UNKNOWN; UNKNOWN; 60.0
+Alpi Pioneer 300; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.1; 11.0; 285.0; 472.5; 146.0; 135.0; 32.0; UNKNOWN; UNKNOWN; 75.0
+Apollo Fox; UNKNOWN; 1990; one; one passenger; 5.8; 9.15; 11.4; 284.0; 450.0; 108.0; 81.0; 35.0; 432.0; UNKNOWN; 75.0
+Arplast Micro'B; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 8.6; 8.3; 110.0; 250.0; 78.0; 59.0; 22.0; UNKNOWN; UNKNOWN; 19.0
+Air Sports AIRector 120; 2010; 2010; one; UNKNOWN; UNKNOWN; 8.02; UNKNOWN; 120.0; 242.0; 97.0; 86.0; UNKNOWN; UNKNOWN; UNKNOWN; 37.0
+ATEC 212 Solo; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 7.48; 7.27; 200.0; 315.0; 135.0; 119.0; 35.0; UNKNOWN; UNKNOWN; 48.0
+ATEC 321 Faeta; 2003; 2000; one; one passenger; UNKNOWN; 9.6; 10.1; 278.0; 472.5; 146.0; 123.0; 28.0; UNKNOWN; UNKNOWN; 75.0
+ATEC 122 Zephyr 2000; 1996; 1990; one; one passenger; UNKNOWN; 9.6; 10.07; 275.0; 472.5; 143.0; 116.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Aurore MB 02-2 Mini Bulle; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 9.0; 10.0; 130.0; 220.0; 76.0; 67.0; 32.0; UNKNOWN; UNKNOWN; 13.0
+Aurore MB 02 Souricette; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 9.0; 10.1; 120.0; 200.0; 76.0; 57.0; 30.0; UNKNOWN; UNKNOWN; 19.0
+Aurore MB 04 Souris Bulle; 1998; 1990; one; one passenger; 7.92; 11.25; 15.0; 250.0; 450.0; 92.0; 76.0; 32.0; UNKNOWN; UNKNOWN; 45.0
+Australian Aircraft Kits Hornet STOL; 2004; 2000; one; one passenger; UNKNOWN; 8.9; 11.9; 330.0; 600.0; 97.0; 76.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Australian Aircraft Kits Bushman; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.0; UNKNOWN; 310.0; 600.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 86.0
+Australian Aircraft Kits Wasp; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.9; 12.1; 320.0; 544.0; 97.0; 84.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+AV Vagabund; UNKNOWN; 1990; one; one passenger; UNKNOWN; 7.55; 18.2; 114.0; 450.0; 76.0; 62.0; 32.0; 217.0; UNKNOWN; 63.0
+Aveko VL-3 Sprint; UNKNOWN; 2000; one; one passenger; 6.24; 8.44; 9.77; 285.0; 472.5; 158.0; 135.0; 29.0; UNKNOWN; UNKNOWN; 75.0
+Jodel D18; UNKNOWN; 1980; one; one passenger; UNKNOWN; 7.5; 10.5; 230.0; 450.0; 127.0; 119.0; 32.0; UNKNOWN; UNKNOWN; 63.0
+BOT SC07 Speed Cruiser; 2009; 2000; one; one passenger; 6.65; 8.1; 10.03; 291.0; 472.5; 125.0; 116.0; 35.0; 648.0; UNKNOWN; 75.0
+BAaer BA-5 Gurí; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Best Off Nynja; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.7; 14.0; 266.0; 472.5; 113.0; 94.0; 35.0; UNKNOWN; UNKNOWN; 60.0
+Blackshape Prime; 2007; 2000; one; one passenger; 7.18; 7.94; 9.96; 296.5; 472.5; 162.0; 148.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+BRM Argos; UNKNOWN; 2010; one; one passenger; 6.59; 8.4; 11.6; UNKNOWN; 450.0; 119.0; 103.0; 32.0; UNKNOWN; UNKNOWN; 75.0
+BRM Land Africa; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.63; 18.08; 270.0; 450.0; UNKNOWN; 94.0; 22.0; UNKNOWN; UNKNOWN; 75.0
+Celier XeWing; 2009; 2000; one; one passenger; UNKNOWN; 6.6; 10.0; 300.0; 472.5; UNKNOWN; 81.0; 38.0; UNKNOWN; UNKNOWN; 75.0
+Bushcaddy R-80; 1994; 1990; one; one passenger; 6.73; 9.8; 15.6; 322.0; 599.0; UNKNOWN; 91.0; 30.0; UNKNOWN; UNKNOWN; 75.0
+Bushcaddy R-120; UNKNOWN; 1990; one; one passenger; 6.73; 9.8; 15.6; 377.0; 680.0; UNKNOWN; 96.0; 30.0; UNKNOWN; UNKNOWN; 75.0
+Club ULM Rotor Ptenets-2; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.2; 12.7; 220.0; 450.0; 86.0; 65.0; 35.0; UNKNOWN; UNKNOWN; 48.0
+Colyaer Martin3 S100; UNKNOWN; 1990; one; one passenger; UNKNOWN; 12.4; 12.0; 280.0; 450.0; 140.0; 97.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Colyaer Freedom S100; 2006; 2000; one; one passenger; UNKNOWN; 12.4; 12.0; 380.0; 650.0; 124.0; 103.0; 38.0; UNKNOWN; UNKNOWN; 75.0
+Colyaer Gannet S100; UNKNOWN; 2000; one; one passenger; UNKNOWN; 12.4; 12.0; 240.0; 450.0; 140.0; 97.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Ikarus C52; 2011; 2010; one; one passenger; 6.38; 9.45; 12.5; 289.5; 472.5; 105.0; 100.0; 35.0; 432.0; UNKNOWN; 75.0
+Concept Composites MD03 Transat; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.8; 18.0; 300.0; 495.0; 81.0; 76.0; 35.0; UNKNOWN; UNKNOWN; 60.0
+Didier Pti'tAvion; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.4; 15.04; 275.0; 450.0; 94.0; 81.0; 35.0; UNKNOWN; UNKNOWN; 60.0
+Dova DV-1 Skylark; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.14; 9.44; 275.0; 472.5; 130.0; 113.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Egvoyager Voyager 203; 2010; 2010; one; one passenger; UNKNOWN; 8.0; UNKNOWN; 278.0; 472.5; UNKNOWN; 130.0; 34.0; UNKNOWN; UNKNOWN; 75.0
+Ehroflug Coach II S; 1989; 1980; one; one passenger; UNKNOWN; 11.34; 15.0; 230.0; 450.0; 67.0; 54.0; 27.0; UNKNOWN; UNKNOWN; 70.0
+Ekolot JK-05L Junior; UNKNOWN; 2010; one; one passenger; 5.7; 10.76; 10.2; 290.0; 450.0; 108.0; 97.0; 30.0; 540.0; UNKNOWN; 60.0
+Ekolot KR-030 Topaz; UNKNOWN; 2010; one; one passenger; UNKNOWN; 10.76; 10.24; 290.0; 472.5; 119.0; 97.0; 35.0; UNKNOWN; UNKNOWN; 60.0
+Lucas L11; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.4; 9.0; 275.0; 450.0; 110.0; 97.0; 35.0; UNKNOWN; UNKNOWN; 63.0
+Eurodisplay SR-01 Magic; UNKNOWN; 2000; one; one passenger; 6.86; 9.45; 11.7; 360.0; 472.5; 119.0; UNKNOWN; 35.0; 188.0; UNKNOWN; 60.0
+Eurofly Flash Light; UNKNOWN; 2000; one; one passenger; 6.5; 8.5; 13.5; 255.0; 450.0; 97.0; 70.0; 27.0; UNKNOWN; UNKNOWN; 48.0
+Flaeming Air FA 04 Peregrine; UNKNOWN; 2000; one; one passenger; 6.15; 9.27; 10.05; 278.0; 472.5; 124.0; 119.0; 35.0; 620.0; UNKNOWN; 75.0
+Fly Synthesis Catalina; 2010; 2010; one; one passenger; 6.28; 9.47; 12.6; 292.0; 495.0; UNKNOWN; 67.0; 32.0; UNKNOWN; UNKNOWN; 48.0
+Fly Synthesis Storch; 1990; 1990; one; one passenger; 5.75; 8.7; 11.8; 275.0; 472.5; 111.0; 100.0; 35.0; UNKNOWN; UNKNOWN; 60.0
+Fly Synthesis Syncro; 2009; 2000; one; one passenger; 6.75; 10.4; 10.54; 289.0; 472.5; 159.0; 124.0; 35.0; 648.0; UNKNOWN; 75.0
+Fly Synthesis Texan; 1999; 1990; one; one passenger; 6.9; 8.6; 11.8; 289.0; 472.5; 130.0; 108.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Flying Machines FM250 Vampire; 2007; 2000; one; one passenger; 6.32; 7.8; 10.05; 266.0; 472.5; 135.0; 119.0; 35.0; 648.0; UNKNOWN; 75.0
+Flyitalia MD3 Rider; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.5; 9.5; 287.0; 472.5; 113.0; 103.0; 33.0; UNKNOWN; UNKNOWN; 75.0
+Flylab Tucano; UNKNOWN; 1990; one; one passenger; 6.3; 10.17; 16.99; 225.0; 450.0; 89.0; 67.0; 28.0; UNKNOWN; UNKNOWN; 48.0
+FlyNano Nano; 2012; 2010; one; UNKNOWN; UNKNOWN; 4.8; UNKNOWN; 70.0; 200.0; UNKNOWN; 76.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+FMP Qualt 201; UNKNOWN; 2000; one; one passenger; UNKNOWN; 2.8; 10.5; 280.0; 472.5; 124.0; 92.0; 32.0; UNKNOWN; UNKNOWN; 63.0
+G1 Aviation G1; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.9; 14.27; 274.0; 472.5; 108.0; 98.0; 27.0; UNKNOWN; UNKNOWN; 75.0
+Golden Avio F30; UNKNOWN; 2000; one; one passenger; 6.8; 8.6; 10.6; 289.0; 472.5; 130.0; 119.0; 35.0; 648.0; UNKNOWN; 75.0
+Guerpont Autoplum; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.6; 17.5; 230.0; 420.0; 81.0; 76.0; 27.0; UNKNOWN; UNKNOWN; 39.0
+Harper Lil Breezy; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 200.0; 307.0; 57.0; 43.0; 24.0; UNKNOWN; UNKNOWN; 37.0
+HB-Flugtechnik Amigo; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.0; 11.8; 300.0; 450.0; 97.0; 92.0; 30.0; UNKNOWN; UNKNOWN; 60.0
+HB-Flugtechnik Dandy; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.6; 12.6; 260.0; 450.0; 92.0; 81.0; 27.0; UNKNOWN; UNKNOWN; 60.0
+Houde Bimax; 2010; 2010; one; one passenger; UNKNOWN; 8.25; UNKNOWN; 278.0; 472.5; 135.0; 113.0; 35.0; UNKNOWN; UNKNOWN; 60.0
+Houde Speedmax; UNKNOWN; 2010; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 190.0; 315.0; 146.0; 119.0; 35.0; UNKNOWN; UNKNOWN; 48.0
+Humbert La Moto Du Ciel; UNKNOWN; 1980; one; one passenger; UNKNOWN; 11.3; 17.4; 240.0; 450.0; 81.0; 65.0; 32.0; UNKNOWN; UNKNOWN; 48.0
+Ibis GS-700 Magic; 2003; 2000; one; one passenger; 6.85; 8.55; 12.48; 320.0; 600.0; 105.0; 100.0; 31.0; UNKNOWN; UNKNOWN; 75.0
+Icarus F99 Rambo; UNKNOWN; 2000; one; one passenger; 6.04; 9.1; 10.095; 284.0; 469.0; 122.0; 108.0; 34.0; 756.0; UNKNOWN; 75.0
+Mentzel Baltic Fox; 2009; 2000; one; one passenger; UNKNOWN; 10.0; 16.1; 330.0; 517.5; 76.0; 65.0; 30.0; UNKNOWN; UNKNOWN; 60.0
+Jabiru J170; UNKNOWN; 2000; one; one passenger; 5.775; 9.66; 9.56; 320.0; 600.0; 130.0; 100.0; 39.0; 30.0; UNKNOWN; 63.0
+Kubicek M-2 Scout; 2009; 2000; one; one passenger; 6.87; 9.6; 12.4; 320.0; 600.0; 119.0; 97.0; 39.0; UNKNOWN; UNKNOWN; 75.0
+Lanitz Escapade One; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 8.94; 11.5; 119.5; 250.0; 88.0; 65.0; 27.0; UNKNOWN; UNKNOWN; 24.0
+Lanitz Escapade Two; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.76; 10.11; 265.0; 472.5; 119.0; 90.0; 34.0; UNKNOWN; UNKNOWN; 71.0
+Light Wing AC4; 2013; 2010; one; one passenger; 7.04; 9.6; 16.65; 350.0; 600.0; UNKNOWN; 86.0; 34.0; 324.0; UNKNOWN; 75.0
+LTD LO-120S; UNKNOWN; 2000; one; one passenger; UNKNOWN; 15.5; 16.0; 220.0; 400.0; 81.0; 70.0; 32.0; UNKNOWN; UNKNOWN; 30.0
+Marawing 1-L Malamut; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.1; 15.1; 295.0; 472.5; 107.0; 89.0; 27.0; UNKNOWN; UNKNOWN; 60.0
+Medway SLA100 Executive; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.7; 13.8; 262.0; 450.0; 83.0; 70.0; 32.0; UNKNOWN; UNKNOWN; 60.0
+Micro Aviation B22 Bantam; UNKNOWN; 1980; one; one passenger; UNKNOWN; 9.03; 15.1; 215.0; 430.0; 81.0; 65.0; 30.0; UNKNOWN; UNKNOWN; 60.0
+Microleve Corsario; 1988; 1980; one; one passenger; UNKNOWN; 10.3; UNKNOWN; 247.0; 525.0; 86.0; 65.0; 26.0; UNKNOWN; UNKNOWN; 60.0
+Microleve ML 500; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.3; 14.7; 225.0; 449.0; 76.0; 49.0; 32.0; UNKNOWN; UNKNOWN; 48.0
+MSL Aero H80; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.6; 10.6; 280.0; 472.5; 113.0; 105.0; 31.0; UNKNOWN; UNKNOWN; 60.0
+I-TEC Maverick; UNKNOWN; UNKNOWN; 1; 1; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 35.0; UNKNOWN; UNKNOWN; UNKNOWN; 140.0
+Norman Aviation Nordic 8 Mini Explorer; UNKNOWN; 2000; one; one passenger; 6.4; 11.0; 16.75; 297.0; 559.0; 112.0; 74.0; 32.0; UNKNOWN; UNKNOWN; 75.0
+Peak Aerospace Me 109R; 1991; 1990; one; one passenger; 6.3; 8.1; 10.53; 190.0; 322.0; 103.0; 94.0; 32.0; UNKNOWN; UNKNOWN; 48.0
+Pegasus EDA 100 Flamingo; 2013; 2010; one; one passenger; UNKNOWN; 8.7; 10.53; 285.0; 472.5; 148.0; 140.0; 25.0; 814.0; UNKNOWN; 75.0
+Podesva Trener; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.68; 10.8; 296.0; 472.5; 119.0; 94.0; 35.0; UNKNOWN; UNKNOWN; 56.0
+Pro.Mecc Freccia Anemo; 2011; 2010; one; one passenger; UNKNOWN; 8.78; 10.18; 285.0; 472.5; 151.0; 140.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Pro.Mecc Sparviero; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.23; 12.0; 285.0; 472.5; 130.0; 121.0; 29.0; UNKNOWN; UNKNOWN; 75.0
+Norman Aviation Nordic II; 1986; 1980; one; one passenger; 5.79; 10.06; 14.3; 281.0; 480.0; 87.0; 74.0; 30.0; 304.0; 45.0; 67.0
+Norman Aviation Nordic VII; UNKNOWN; 1990; one; one passenger; 6.15; 10.3; 12.5; 283.0; 480.0; 100.0; 91.0; 35.0; 304.0; 45.0; 75.0
+Norman Aviation J6 Karatoo; 1988; 1980; one; one passenger; 5.79; 10.06; 15.7; 286.0; 480.0; 87.0; 78.0; 33.0; 304.0; 45.0; 67.0
+Anglin J6 Karatoo; 1982; 1980; one; one passenger; 6.1; 9.91; 13.6; 263.0; 544.0; 110.0; 80.0; 40.0; UNKNOWN; UNKNOWN; 67.0
+Protoplane Ultra; UNKNOWN; 2000; one; one passenger; 7.24; 11.0; 12.1; 250.0; 450.0; 138.0; 119.0; 32.0; UNKNOWN; UNKNOWN; 63.0
+Rainbow Cheetah; UNKNOWN; 2000; one; one passenger; 5.67; 9.6; 13.25; 248.0; 560.0; 96.0; 73.0; 30.0; 582.0; UNKNOWN; 60.0
+RMT Bateleur; UNKNOWN; 2000; one; one passenger; UNKNOWN; 6.25; 14.0; 250.0; 450.0; 173.0; 162.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Roland Me 109 Replica; UNKNOWN; 2010; one; one passenger; 7.41; 8.13; 17.5; UNKNOWN; 600.0; 162.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 75.0
+Roland S-STOL; UNKNOWN; 2000; one; one passenger; 6.1; 8.2; 11.4; 275.0; 530.0; 97.0; 76.0; 31.0; UNKNOWN; UNKNOWN; 60.0
+Roland Z-602; UNKNOWN; 2000; one; one passenger; 6.1; 8.23; 12.4; 286.0; 590.0; 131.0; 124.0; 34.0; UNKNOWN; UNKNOWN; 75.0
+Mosquito Aviation XE; 2004; 2000; 1; UNKNOWN; 4.9; UNKNOWN; UNKNOWN; 135.0; 277.0; 70.0; UNKNOWN; UNKNOWN; UNKNOWN; 45.0; 48.0
+Rolandas Kalinauskas RK-6 Magic; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.7; 12.5; 270.0; 450.0; 92.0; 84.0; 32.0; UNKNOWN; UNKNOWN; 48.0
+Rolandas Kalinauskas RK-7 Orange; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.2; 11.5; 150.0; 250.0; 65.0; 54.0; 32.0; UNKNOWN; UNKNOWN; 37.0
+SAB C-100 Vulcan; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.0; 10.61; 282.0; 450.0; 135.0; 124.0; 33.0; UNKNOWN; UNKNOWN; 75.0
+Sapphire Aircraft Australia Sapphire LSA; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 8.84; 9.132; 210.0; 360.0; 98.0; 89.0; 21.0; UNKNOWN; UNKNOWN; 37.0
+Letov LK-2 Sluka; 1988; 1980; one; UNKNOWN; 5.1; 9.2; 13.34; 147.0; 250.0; 65.0; 38.0; 23.0; 108.0; UNKNOWN; 29.5
+Servoplant Aerocraft; UNKNOWN; 1990; one; one passenger; UNKNOWN; 8.75; 17.5; 275.0; 450.0; 78.0; 51.0; 35.0; UNKNOWN; UNKNOWN; 78.0
+Skyfly S-34 Skystar; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.6; 14.6; 159.0; 380.0; 70.0; 65.0; 27.0; UNKNOWN; UNKNOWN; 48.0
+Skyleader GP One; 2010; 2010; one; one passenger; 6.25; 10.2; 11.165; 280.0; 472.5; 116.0; 104.0; 35.0; 740.0; UNKNOWN; 60.0
+Kohl Mythos; UNKNOWN; 2000; one; one passenger; 6.24; 8.75; 10.3; 290.0; 450.0; 104.0; 92.0; 34.0; UNKNOWN; UNKNOWN; 75.0
+Slepcev Storch; 1994; 1990; one; one passenger; UNKNOWN; 10.0; 15.0; UNKNOWN; 450.0; 81.0; 72.0; 22.0; UNKNOWN; UNKNOWN; 75.0
+Direct Fly Alto; UNKNOWN; 2000; one; one passenger; 6.15; 8.1; 10.14; 287.0; 472.5; 132.0; 113.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Thruster T600 Sprint; UNKNOWN; 1990; one; one passenger; 5.8; 9.6; 15.7; 197.0; 450.0; 76.0; 57.0; 32.0; UNKNOWN; UNKNOWN; 48.0
+ULBI Wild Thing; 1996; 1990; one; one passenger; 6.49; 9.15; 13.88; 290.0; 472.5; UNKNOWN; 92.0; 31.0; UNKNOWN; UNKNOWN; 89.0
+Ultra-Leicht Flugtechnik Speedy Mouse; UNKNOWN; 2010; one; one passenger; 5.9; 9.2; 10.5; 298.0; 450.0; 124.0; 100.0; 35.0; 351.0; UNKNOWN; 75.0
+Vervoost FV-3 Delphin; 2009; 2000; one; one passenger; UNKNOWN; 9.36; 11.92; 295.0; 472.5; 140.0; 108.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Vol Xerpa ULM Pulsar; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.2; 14.75; 205.0; 450.0; 89.0; 65.0; 30.0; UNKNOWN; UNKNOWN; 48.0
+Weller ULI NG; 2010; 2010; one; UNKNOWN; 5.92; 9.68; 12.78; 119.5; 220.0; 51.0; 43.0; 24.0; 81.0; UNKNOWN; 22.0
+Weller UW-9 Sprint; UNKNOWN; 2000; one; one passenger; 5.7; 9.8; 13.3; 290.0; 472.5; 92.0; 70.0; 33.0; 340.0; UNKNOWN; 52.0
+APEV Scoutchel; UNKNOWN; UNKNOWN; one; UNKNOWN; 5.2; 8.3; 9.96; 130.0; 250.0; UNKNOWN; 54.0; 22.0; UNKNOWN; UNKNOWN; 75.0
+Preceptor Stinger; UNKNOWN; 1990; one; UNKNOWN; 5.18; 9.3; 11.33; 181.0; 299.0; UNKNOWN; 70.0; 30.0; 261.0; 38.0; 37.0
+Alpi Pioneer 400; 2013; 2010; One; Three passengers; 7.0; 8.8; 11.2; 290.0; UNKNOWN; 135.0; 119.0; 36.0; 486.0; UNKNOWN; 73.2
+Aérostructure Lutin 80; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Hummel Ultracruiser; 2000; 2000; one; UNKNOWN; 4.9; 7.6; 10.4; 113.0; 227.0; UNKNOWN; 52.0; 24.0; UNKNOWN; 19.0; 28.0
+Wings of Freedom Phoenix 103; UNKNOWN; 2000; one; UNKNOWN; 5.2; 8.2; 11.5; 115.0; 295.0; UNKNOWN; 55.0; 24.0; 87.0; 19.0; 37.0
+DAR-23; 2001; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 340.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 37.0
+Summit 103 Mini Breeze; UNKNOWN; 2000; one; UNKNOWN; 2.57; UNKNOWN; 35.0; 109.0; 249.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 45.0; 30.0
+Summit Steel Breeze; UNKNOWN; 2000; one; one passenger; 3.12; UNKNOWN; 46.0; 147.0; 386.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 53.0; 37.0
+Synergy Paramotors Synergy; 2012; 2010; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Sanstroem Friendship 3; 2012; 2010; one; one passenger; UNKNOWN; 11.47; 11.89; 292.0; 472.5; 127.0; 108.0; 32.0; UNKNOWN; UNKNOWN; 60.0
+Rolandas Kalinauskas RK-5 Ruth; UNKNOWN; 2000; one; three passengers; UNKNOWN; 11.0; 15.2; 450.0; 900.0; 124.0; 105.0; 33.0; UNKNOWN; UNKNOWN; 100.0
+Sochen Phoenix; UNKNOWN; UNKNOWN; Two; UNKNOWN; UNKNOWN; 9.75; UNKNOWN; 143.0; UNKNOWN; 56.0; 43.0; 24.0; 87.0; UNKNOWN; 39.0
+Ace Magic; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.2; 11.5; 115.0; 245.0; 67.0; 56.0; 25.0; UNKNOWN; UNKNOWN; 30.0
+AEF Monotrace; UNKNOWN; 2000; one; UNKNOWN; 2.5; UNKNOWN; UNKNOWN; 47.0; 180.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
+Aeros Profi; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0; 14.5; 52.0; 450.0; UNKNOWN; 67.0; 28.0; UNKNOWN; UNKNOWN; UNKNOWN
+Aeros Still; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.3; 17.4; 45.0; 450.0; UNKNOWN; 43.0; 27.0; UNKNOWN; UNKNOWN; UNKNOWN
+Aeros del Sur Manta; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 15.4; UNKNOWN; 472.5; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Air Creation BioniX; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 9.85; 15.1; 56.0; 472.5; 85.0; 73.0; 30.0; UNKNOWN; UNKNOWN; UNKNOWN
+Air Creation iXess; 2000; 2000; UNKNOWN; UNKNOWN; UNKNOWN; 10.0; 15.0; 53.0; 450.0; UNKNOWN; UNKNOWN; 32.0; UNKNOWN; UNKNOWN; UNKNOWN
+Air Creation Tanarg; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.85; 15.1; 249.0; 472.5; 85.0; 73.0; 30.0; UNKNOWN; UNKNOWN; 75.0
+Air Creation Trek; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 17.4; 190.0; UNKNOWN; 54.0; 49.0; 29.0; UNKNOWN; UNKNOWN; 45.0
+Air Creation Fun; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 3.4; 10.0; UNKNOWN; 38.0; 250.0; UNKNOWN; 49.0; 22.0; UNKNOWN; UNKNOWN; UNKNOWN
+Air Creation NuviX; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 9.55; 15.2; 52.0; 462.0; 76.0; UNKNOWN; 33.0; UNKNOWN; UNKNOWN; UNKNOWN
+Air Creation Skypper; 2011; 2010; one; one passenger; UNKNOWN; 9.55; 15.2; 201.0; 462.0; 67.0; UNKNOWN; 29.0; UNKNOWN; UNKNOWN; 48.0
+Airborne T-Lite; UNKNOWN; 2000; one; UNKNOWN; 2.2; 9.5; 15.6; 90.0; 210.0; UNKNOWN; 31.0; 17.0; 129.0; UNKNOWN; 16.0
+Airbridge Cruiser Suzuki; 2004; 2000; one; one passenger; UNKNOWN; 9.28; 16.5; 230.0; 450.0; 70.0; 54.0; 32.0; UNKNOWN; UNKNOWN; 60.0
+Airbridge Fregat-Hydro; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.28; 16.5; 230.0; 500.0; 70.0; 54.0; 32.0; UNKNOWN; UNKNOWN; 60.0
+Airtrike Eagle 5; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 12.0; 215.0; 450.0; 81.0; 65.0; 30.0; UNKNOWN; UNKNOWN; 67.0
+Apollo Delta Jet; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 14.5; 236.0; 472.5; 86.0; 70.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Apollo Monsoon; UNKNOWN; 2000; one; one passenger; UNKNOWN; 7.9; 12.5; 249.0; 450.0; 70.0; 58.0; 30.0; UNKNOWN; UNKNOWN; 75.0
+Apollo Jet Star; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.5; 15.0; 180.0; 430.0; 67.0; 59.0; 30.0; UNKNOWN; UNKNOWN; 60.0
+Apollo Racer GT; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 15.0; 140.0; 430.0; 76.0; 54.0; 30.0; UNKNOWN; UNKNOWN; 48.0
+Aquilair Kid; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.9; 12.9; 132.0; 300.0; 78.0; 49.0; 28.0; UNKNOWN; UNKNOWN; 37.0
+Aquilair Swing; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.9; 14.9; 155.0; 405.0; 81.0; 49.0; 30.0; UNKNOWN; UNKNOWN; 48.0
+Aviasouz Cruise; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 14.0; 180.0; 430.0; 67.0; 49.0; 30.0; UNKNOWN; UNKNOWN; 48.0
+Aviation Products Star Trike; 1980; 1980; one; UNKNOWN; UNKNOWN; 10.0; 15.5; 170.0; 472.5; 76.0; 65.0; 25.0; UNKNOWN; UNKNOWN; 48.0
+AVIC Lucky Bird; UNKNOWN; 2010; one; one or two passengers; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 60.0
+Avio Delta Thruster; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.5; 12.3; 32.0; 200.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
+Avio Design Swan; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.5; 12.3; 133.0; 420.0; 78.0; 54.0; 30.0; UNKNOWN; UNKNOWN; 48.0
+Bautek Skycruiser; 2009; 2000; one; UNKNOWN; UNKNOWN; 9.5; 12.2; 75.0; 238.0; 70.0; 49.0; 23.0; UNKNOWN; UNKNOWN; 28.0
+BB Microlight 103; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 7.9; 12.5; 113.0; 294.0; 54.0; 45.0; 23.0; UNKNOWN; UNKNOWN; 30.0
+BB Microlight BB-two seater; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.1; 16.0; 91.0; 375.0; 65.0; 46.0; 22.0; UNKNOWN; UNKNOWN; 37.0
+Cosmik Chaser; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 8.1; 10.0; 98.0; UNKNOWN; 65.0; 52.0; 30.0; UNKNOWN; UNKNOWN; 30.0
+Drachen Studio Kecur Royal 912; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.48; 15.0; 230.0; 450.0; 81.0; 62.0; 33.0; UNKNOWN; UNKNOWN; 60.0
+Drachen Studio Kecur EOS 15; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.48; 15.0; UNKNOWN; 450.0; 81.0; 62.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+DTA Combo; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.4; 12.0; 243.0; 472.5; 86.0; 70.0; 31.0; UNKNOWN; UNKNOWN; 75.0
+DTA Diva; 2009; 2000; UNKNOWN; UNKNOWN; 2.96; 9.4; 12.0; 54.0; 450.0; UNKNOWN; 65.0; 33.0; UNKNOWN; UNKNOWN; UNKNOWN
+DTA Dynamic; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 3.0; 10.2; 15.5; 59.0; 450.0; UNKNOWN; 59.0; 27.0; UNKNOWN; UNKNOWN; UNKNOWN
+DTA Magic; 2010; 2010; UNKNOWN; UNKNOWN; 2.68; 9.4; 12.0; 59.0; 450.0; UNKNOWN; UNKNOWN; 29.0; UNKNOWN; UNKNOWN; UNKNOWN
+DTA Feeling; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 12.0; 200.0; 450.0; 76.0; 54.0; 32.0; UNKNOWN; UNKNOWN; 48.0
+DTA Voyageur; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.2; 15.5; 226.0; 450.0; 73.0; 54.0; 33.0; UNKNOWN; UNKNOWN; 75.0
+DTA Alizés; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+DTA Evolution; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.3; 14.5; 166.0; 400.0; 62.0; 49.0; 27.0; UNKNOWN; UNKNOWN; 37.0
+Electravia Electro Trike; 2008; 2000; one; UNKNOWN; UNKNOWN; 10.0; 16.0; 85.0; 193.0; 40.0; 35.0; 24.0; UNKNOWN; UNKNOWN; 19.0
+Eurofly Viper; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.5; 12.0; 126.0; 450.0; 86.0; 67.0; 26.0; UNKNOWN; UNKNOWN; 48.0
+Evolution Revo; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.2; 13.5; 240.0; 470.0; 54.0; 43.0; 19.0; UNKNOWN; 57.0; 75.0
+Exkluziv Joker; UNKNOWN; 2000; one; one passenger; UNKNOWN; 12.2; 9.5; 219.0; 450.0; 81.0; 65.0; 32.0; UNKNOWN; UNKNOWN; 60.0
+Flight Team Spider; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.5; 12.0; 180.0; 450.0; 70.0; 54.0; 30.0; UNKNOWN; UNKNOWN; 48.0
+Flight Team Twister; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 15.0; 198.0; 450.0; 70.0; 59.0; 32.0; UNKNOWN; UNKNOWN; 60.0
+Fly Air Swallow; 2007; 2000; one; one passenger; UNKNOWN; 10.4; 15.6; 131.0; UNKNOWN; 59.0; UNKNOWN; 26.0; UNKNOWN; UNKNOWN; 37.0
+Fly Hard Trikes SkyCycle; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.0; 14.9; 93.0; 181.0; 57.0; UNKNOWN; 22.0; UNKNOWN; 19.0; 24.0
+Flying Machines FM301 Stream; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.5; 15.4; 175.0; 450.0; 73.0; 54.0; 28.0; UNKNOWN; UNKNOWN; 45.0
+Flylight Dragonfly; 2007; 2000; one; UNKNOWN; UNKNOWN; 10.3; 14.7; 80.0; UNKNOWN; 54.0; 31.0; 21.0; UNKNOWN; UNKNOWN; 16.0
+Flylight E-Dragon; UNKNOWN; 2010; one; UNKNOWN; UNKNOWN; 10.3; 14.7; UNKNOWN; UNKNOWN; 51.0; 38.0; UNKNOWN; UNKNOWN; UNKNOWN; 9.7
+Flylight Motorfloater; 2010; 2010; one; UNKNOWN; UNKNOWN; 9.6; 16.2; 72.0; 205.0; 43.0; 29.0; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
+FUL MA 30 Graffiti; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.1; 14.8; 185.0; 400.0; 62.0; 49.0; 29.0; UNKNOWN; UNKNOWN; 48.0
+Gdecouv'R 582; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.87; 13.0; 132.0; 450.0; 78.0; 54.0; 27.0; UNKNOWN; UNKNOWN; 48.0
+General Aviation Design Bureau T-32 Maverick; UNKNOWN; 2010; one; two passengers on a bench seat; UNKNOWN; 10.2; 16.5; 280.0; UNKNOWN; 76.0; 54.0; 30.0; UNKNOWN; UNKNOWN; 60.0
+General Aviation Design Bureau T-2 Maverick; 1995; 1990; one; one passenger; UNKNOWN; 10.2; 16.5; 190.0; 450.0; 70.0; 46.0; 30.0; UNKNOWN; UNKNOWN; 48.0
+Hubertec Thermik; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.6; 17.2; 48.0; 200.0; 45.0; 32.0; 15.0; UNKNOWN; UNKNOWN; 19.0
+Icaro Pit-Trike; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.48; 14.88; 70.0; 173.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Junkers Profly Junkers Trike; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.6; 12.8; 186.0; 450.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Keitek Streamer; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.8; 12.0; 185.0; 450.0; UNKNOWN; 86.0; 35.0; UNKNOWN; UNKNOWN; 60.0
+Kompol Jazz; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.83; 14.6; 186.0; 450.0; 78.0; 46.0; 35.0; UNKNOWN; UNKNOWN; 48.0
+Krasniye Kryl'ya Deltacraft MD-50C; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 14.0; 178.0; 380.0; 67.0; 46.0; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Krasniye Kryl'ya Deltacraft MD-40; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 16.7; 160.0; 340.0; 51.0; 40.0; UNKNOWN; UNKNOWN; UNKNOWN; 37.0
+Sea and Sky Cygnet; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.3; 17.6; 240.0; 450.0; 52.0; 32.0; 27.0; UNKNOWN; 38.0; 48.0
+La Mouette Samson; UNKNOWN; 2010; one; one passenger, maximum of 150&#160;kg (331&#160;lb) total; UNKNOWN; UNKNOWN; 19.0; 70.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 14.0
+North Wing Sport X2; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.6; 15.0; 204.0; 481.0; UNKNOWN; 41.0; 30.0; UNKNOWN; UNKNOWN; 48.0
+Pagotto Brako; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.35; 16.0; 158.0; 450.0; 54.0; 40.0; 24.0; UNKNOWN; UNKNOWN; 37.0
+Parazoom Trio-Star Delta; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.7; 12.7; 91.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
+Polaris AM-FIB; 2003; 2000; one; one passenger; UNKNOWN; 11.15; 19.6; 239.0; 406.0; 43.0; 38.0; 26.0; UNKNOWN; UNKNOWN; 48.0
+Polaris FIB; UNKNOWN; 1980; one; one passenger; UNKNOWN; 11.15; 19.6; 216.0; 406.0; 43.0; 38.0; 26.0; UNKNOWN; UNKNOWN; 48.0
+Polaris Skin; UNKNOWN; 1980; one; one passenger; UNKNOWN; 10.6; 15.8; 155.0; 360.0; 50.0; UNKNOWN; 24.0; UNKNOWN; UNKNOWN; 37.0
+PowerTrike Evolution; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.5; 12.0; 178.0; 472.5; 69.0; 59.0; 24.0; UNKNOWN; UNKNOWN; 48.0
+PowerTrike II; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.5; 14.9; 198.0; 450.0; 70.0; 54.0; 32.0; UNKNOWN; UNKNOWN; 71.0
+PowerTrike Light; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.7; 12.2; 120.0; 220.0; 65.0; 49.0; 24.0; UNKNOWN; UNKNOWN; 22.0
+Quander Airpfeil; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.5; 13.0; 130.0; 400.0; 78.0; 65.0; 27.0; UNKNOWN; UNKNOWN; 48.0
+Quander Micropfeil; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.8; 14.0; 80.0; 300.0; 65.0; 49.0; 23.0; UNKNOWN; UNKNOWN; 30.0
+Ramphos Trident; 1998; 1990; one; one passenger; UNKNOWN; 10.5; 15.0; 200.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 60.0
+ViS Sprint; 2004; 2000; UNKNOWN; Two; 6.14; 9.6; 12.4; 301.0; UNKNOWN; 92.0; 70.0; 32.0; UNKNOWN; UNKNOWN; 73.5
+KhAZ ViS-3; 2006; 2000; UNKNOWN; Two; 6.32; 8.956; 12.4; 315.0; UNKNOWN; 97.0; 81.0; UNKNOWN; UNKNOWN; UNKNOWN; 73.5
+Rossi Shuttle Quik; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.0; 10.6; UNKNOWN; 409.0; 91.0; 71.0; 33.0; UNKNOWN; UNKNOWN; 75.0
+Valley Engineering Backyard Flyer; UNKNOWN; UNKNOWN; one; UNKNOWN; 7.9; UNKNOWN; UNKNOWN; 114.0; 272.0; UNKNOWN; 48.0; UNKNOWN; UNKNOWN; UNKNOWN; 28.0
+SDB Karat; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.8; 10.0; 91.0; 220.0; 67.0; 49.0; 24.0; UNKNOWN; UNKNOWN; 21.0
+Silent Family Silent Glider M; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 14.0; 16.0; 118.5; 231.0; 54.0; 49.0; 22.0; UNKNOWN; UNKNOWN; 21.0
+Silent Family Silent Racer; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 10.0; 200.0; 450.0; 76.0; 54.0; 243.0; UNKNOWN; UNKNOWN; 40.0
+Skyjam ST-Freestyle; UNKNOWN; 2010; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Skyrider Sonic; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.8; 12.0; 165.0; 450.0; 86.0; 67.0; 30.0; UNKNOWN; UNKNOWN; 63.0
+Skyrider Stingray; 2007; 2000; one; one passenger; UNKNOWN; 10.1; 14.8; 169.0; 450.0; 70.0; 59.0; 35.0; UNKNOWN; UNKNOWN; 60.0
+Solid Air Diamant LP; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.7; 12.2; 118.0; 238.0; 70.0; 54.0; 24.0; UNKNOWN; UNKNOWN; 37.0
+Solid Air Diamant Twin; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.1; 14.8; 190.0; 450.0; 81.0; 50.0; 32.0; UNKNOWN; UNKNOWN; 62.0
+Stellar Astra; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.5; 15.6; 220.0; 435.0; 67.0; 54.0; 32.0; UNKNOWN; UNKNOWN; 45.0
+Sunair Sunlight; 2010; 2010; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 38.0; 35.0; UNKNOWN; UNKNOWN; UNKNOWN; 15.0
+Take Off Merlin; 1994; 1990; one; one passenger; UNKNOWN; 10.0; 15.2; 230.0; UNKNOWN; 76.0; 65.0; 30.0; UNKNOWN; UNKNOWN; 71.0
+Trike Icaros Adventure S; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 16.0; 180.0; 420.0; 65.0; 49.0; 28.0; UNKNOWN; UNKNOWN; 60.0
+TrikeBuggy Delta; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.7; 21.2; 32.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0; 17.0
+Schmidtler Enduro; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 17.0; UNKNOWN; UNKNOWN; 65.0; 54.0; 34.0; UNKNOWN; UNKNOWN; 75.0
+Ventura 1200; UNKNOWN; 2000; one; one passenger; UNKNOWN; 10.0; 15.0; 245.0; 450.0; 78.0; UNKNOWN; 35.0; UNKNOWN; UNKNOWN; 75.0
+Raj Hamsa Clipper; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.1; 16.0; 160.0; 350.0; 54.0; 38.0; 27.0; 76.0; UNKNOWN; 37.0
+Raj Hamsa Voyager; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.1; 14.2; 160.0; 360.0; 65.0; 49.0; 30.0; 189.0; UNKNOWN; 37.0
+Yuneec International ETrike; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 9.5; 12.3; UNKNOWN; 200.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Powrachute Sky Rascal; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.0; 40.0; 115.0; 350.0; 31.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 40.0
+Alliant Destiny Fusion; UNKNOWN; 2000; two; UNKNOWN; UNKNOWN; UNKNOWN; 50.0; 154.0; 385.0; UNKNOWN; 25.0; UNKNOWN; UNKNOWN; UNKNOWN; 39.0
+Alliant Destiny XLT; UNKNOWN; 2000; two; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 175.0; 450.0; 30.0; 28.0; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Airfer Transan; UNKNOWN; 2000; two; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 154.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 39.0
+Air Creation Twin; UNKNOWN; 1990; one; one passenger; 3.35; 10.06; 17.4; 129.0; 385.0; 56.0; 40.0; 25.0; UNKNOWN; UNKNOWN; 37.0
+Bagalini Bagalini; UNKNOWN; 1990; one; UNKNOWN; 6.4; 10.67; 14.2; 115.0; 204.0; 52.0; 35.0; 23.0; 87.0; UNKNOWN; 30.0
+Bagalini Baganfibio; UNKNOWN; 1960; one; one passenger; 6.71; 10.67; 15.5; 175.0; 344.0; 54.0; 37.0; 24.0; 113.0; UNKNOWN; 37.0
+Bagalini Colombo; UNKNOWN; 1990; one; one passenger; 6.4; 10.49; UNKNOWN; 150.0; 318.0; 54.0; 36.0; 23.0; 104.0; UNKNOWN; 30.0
+Bounsall Super Prospector; UNKNOWN; 1990; one; UNKNOWN; 5.89; 9.04; 11.22; 200.0; 363.0; 87.0; 78.0; 31.0; 261.0; 45.0; 45.0
+Brutsche Freedom 40; UNKNOWN; 1990; one; UNKNOWN; 5.49; 8.53; 10.4; 150.0; 272.0; 76.0; UNKNOWN; 26.0; UNKNOWN; 38.0; 30.0
+Butterfly Banty; 1984; 1980; one; UNKNOWN; 5.74; 9.75; 11.892; UNKNOWN; UNKNOWN; 52.0; 43.0; 22.0; 78.0; 19.0; 21.0
+Duane's Hangar Ultrababy; 1997; 1990; one; UNKNOWN; 4.88; 8.38; 11.29; 136.0; 281.0; 65.0; 52.0; 30.0; 130.0; 19.0; 36.0
+Early Bird Spad 13; UNKNOWN; 1990; one; UNKNOWN; 4.95; 6.15; 13.19; 249.0; 363.0; 78.0; 70.0; 39.0; 209.0; 34.0; 63.0
+Early Bird Jenny; UNKNOWN; 1990; one; UNKNOWN; 5.59; 8.38; 16.26; 190.0; 363.0; 61.0; 56.0; 30.0; 113.0; 34.0; 37.0
+Eurofly Fox; UNKNOWN; 1990; one; one passenger; 6.2; 9.6; 16.09; 190.0; 450.0; 65.0; 43.0; 22.0; UNKNOWN; UNKNOWN; 37.0
+Eurofly Fire Fox; UNKNOWN; 1990; one; one passenger; 6.2; 9.6; 16.09; 220.0; 450.0; 70.0; 49.0; 24.0; UNKNOWN; UNKNOWN; 37.0
+Eurofly Fire Cat; UNKNOWN; 1990; one; one passenger; 6.2; 9.6; 15.99; 218.0; 450.0; 70.0; 49.0; 24.0; UNKNOWN; UNKNOWN; 37.0
+Freedom Lite SS-11 Skywatch; 1996; 1990; one; one passenger; 6.55; 10.06; 14.4; 191.0; 431.0; 78.0; 70.0; 25.0; 352.0; 34.0; 37.0
+Laron Wizard; UNKNOWN; 1990; one; one passenger; 5.974; 9.3; 13.01; 210.0; 420.0; 104.0; 78.0; UNKNOWN; 235.0; 38.0; 48.0
+Las Brisas Mohawk; UNKNOWN; 1990; one; one passenger; 5.49; 9.14; 11.57; 204.0; 454.0; 113.0; 74.0; 26.0; 278.0; 45.0; 37.0
+Let-Mont Piper UL; UNKNOWN; 1990; one; one passenger; 6.08; 9.4; 12.7; 250.0; 450.0; 87.0; 65.0; 30.0; UNKNOWN; UNKNOWN; 37.0
+Let-Mont Tulak; UNKNOWN; 1990; one; one passenger; UNKNOWN; 9.6; 13.01; 230.0; 450.0; 81.0; 59.0; 23.0; UNKNOWN; UNKNOWN; 37.0
+Letov ST-4 Aztek; UNKNOWN; 1990; one; one passenger; 5.91; 10.4; 15.21; 220.0; 450.0; 71.0; 52.0; 27.0; 184.0; 57.0; 37.0
+Stern ST 87 Vega; 1992; 1990; one; one passenger; UNKNOWN; 7.62; 10.0; 469.0; 726.0; 130.0; 109.0; 43.0; 652.0; UNKNOWN; 81.0
+Microleve ML 450; UNKNOWN; 1990; one; one passenger; 6.84; 10.3; 16.48; 220.0; 980.0; 87.0; 61.0; 17.0; 193.0; UNKNOWN; 55.0
+Midwest Questar Open Aire; UNKNOWN; 1990; one; UNKNOWN; 5.08; 8.74; 11.52; 100.0; 204.0; 52.0; 45.0; 22.0; UNKNOWN; 11.0; 22.0
+Midwest Questar Sport; UNKNOWN; 1990; one; UNKNOWN; 5.33; 10.13; 15.33; 73.0; 181.0; 42.0; 33.0; 17.0; 52.0; 11.0; 22.0
+Midwest Questar XLS; UNKNOWN; 1990; one; UNKNOWN; 5.18; 9.54; 13.56; 109.0; 227.0; 47.0; 39.0; 21.0; UNKNOWN; 19.0; 22.0
+Midwest Questar Arrowstar; UNKNOWN; 1990; one; UNKNOWN; 4.57; 8.31; 12.08; 104.0; 204.0; 50.0; 42.0; 21.0; UNKNOWN; 11.0; 22.0
+NWT Spruce Coupe; UNKNOWN; 1990; one; UNKNOWN; 4.98; 6.71; 8.175; 136.0; 272.0; 65.0; 52.0; 30.0; 70.0; 23.0; 34.0
+Olympic Desert Eagle; UNKNOWN; 1990; one; one passenger; 6.55; 10.06; 15.33; 211.0; 544.0; 96.0; 74.0; 30.0; 222.0; 38.0; 60.0
+Paxman Viper; 1994; 1990; one; one passenger; 6.25; 8.23; 9.48; 265.0; 476.0; 109.0; 96.0; 33.0; UNKNOWN; 64.0; 75.0
+Peris JN-1; UNKNOWN; 1980; one; UNKNOWN; 5.28; 9.14; 13.01; 145.0; 272.0; 56.0; 52.0; 24.0; 96.0; 19.0; 28.0
+Pipistrel Spider; UNKNOWN; 1980; one; one passenger; UNKNOWN; 10.5; UNKNOWN; 129.75; 450.0; 96.0; 65.0; 30.0; 269.0; UNKNOWN; 37.0
+Progressive Aerodyne Stingray; UNKNOWN; 1990; one; UNKNOWN; 7.75; 9.4; 13.94; 215.0; 363.0; 74.0; 61.0; 23.0; 87.0; 23.0; 30.0
+Raisner Graffiti; 1997; 1990; one; one passenger; UNKNOWN; 10.3; 14.86; 155.0; 396.0; 67.0; 49.0; 27.0; 174.0; UNKNOWN; 40.0
+Storm 300; UNKNOWN; 1990; one; one passenger; 6.55; 7.92; 11.06; 322.0; 524.0; 174.0; 149.0; 30.0; 434.0; UNKNOWN; 86.0
+Storm Sea Storm; UNKNOWN; 1990; one; one passenger; 7.47; 9.25; 12.24; 309.0; 608.0; 176.0; 129.0; 33.0; 904.0; UNKNOWN; 86.0
+Storm 320E; UNKNOWN; 1990; one; one passenger; 6.55; 8.6; 11.06; 280.0; 450.0; 158.0; 131.0; 30.0; 540.0; UNKNOWN; 60.0
+Storm RG Fury; UNKNOWN; 2000; one; one passenger; 7.2; 7.9; 10.27; 290.0; 450.0; 140.0; 132.0; 32.0; 864.0; UNKNOWN; 75.0
+St Croix Pietenpol Aircamper; UNKNOWN; 1960; one; one passenger; 5.94; 8.99; 13.7; 295.0; 499.0; 91.0; 61.0; 35.0; UNKNOWN; 45.0; 30.0
+Rowley P-40F; 1986; 1980; one; UNKNOWN; 7.01; 8.53; 11.89; 340.0; 544.0; 104.0; 96.0; 42.0; 350.0; 83.0; 75.0
+Aero Designs Pulsar; UNKNOWN; 1980; one; one passenger; 6.1; 7.62; 7.4; 299.0; 544.0; 165.0; 156.0; 43.0; 782.0; 64.0; 86.0
+Star-Lite Warp 1-A; 1996; 1990; one; UNKNOWN; UNKNOWN; 7.62; 8.129; 113.0; 261.0; UNKNOWN; 83.0; 35.0; UNKNOWN; 19.0; 37.0
+Synairgie Jet Ranger; UNKNOWN; 1990; one; one passenger; 5.73; 9.14; 14.0; 185.0; 450.0; 83.0; 69.0; 28.0; 174.0; UNKNOWN; 48.0
+TL Ultralight TL-22 Duo; UNKNOWN; 1990; one; one passenger; UNKNOWN; 10.6; 13.81; 160.0; 361.0; 65.0; 38.0; 23.0; 174.0; UNKNOWN; 48.0
+Time Warp Spitfire Mk V; UNKNOWN; 1990; one; UNKNOWN; 5.61; 7.01; 7.605; 272.0; 499.0; 174.0; 148.0; 39.0; 739.0; 100.0; 75.0
+Theiss Speedster; UNKNOWN; 1990; one; UNKNOWN; 4.17; 5.33; 7.2; 114.0; 209.0; 65.0; 54.0; 25.0; 109.0; 19.0; 30.0
+Ultracraft Calypso; UNKNOWN; 1990; one; one passenger; 5.5; 8.65; 11.6; 155.0; 285.0; UNKNOWN; 65.0; 31.0; UNKNOWN; UNKNOWN; 30.0
+V-STOL XC 2000T; 1997; 1990; one; one passenger; 6.1; 9.75; 16.35; 172.0; 404.0; 78.0; 35.0; 17.0; 87.0; 38.0; 30.0
+V-STOL Super Solution 2000; UNKNOWN; 1990; one; one passenger; 6.1; 9.75; 15.33; 172.0; 404.0; UNKNOWN; 35.0; UNKNOWN; 87.0; 38.0; 34.0
+Mathews Mr Easy; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 7.32; 13.47; 113.0; 220.0; 55.0; 43.0; 24.0; 104.0; 19.0; 30.0
+Vintage Ultralight SR-1 Hornet; UNKNOWN; 1980; one; UNKNOWN; UNKNOWN; 10.06; 20.44; 111.0; 272.0; 55.0; 43.0; 14.0; UNKNOWN; 19.0; 26.0
+Warner Revolution I; UNKNOWN; 1990; one; UNKNOWN; 5.49; 7.92; UNKNOWN; 245.0; 381.0; 109.0; 87.0; 39.0; 261.0; UNKNOWN; 48.0
+Warner Revolution II; UNKNOWN; 1990; one; one passenger; 5.99; 8.53; 11.71; 363.0; 635.0; UNKNOWN; 100.0; 36.0; 261.0; 64.0; 93.0
+Air Command Commander Sport; UNKNOWN; 1990; one; UNKNOWN; 3.25; UNKNOWN; UNKNOWN; 125.0; 340.0; 83.0; 56.0; UNKNOWN; UNKNOWN; 34.0; 48.0
+Amax Double Eagle TT; UNKNOWN; 1990; one; one passenger; 3.96; UNKNOWN; UNKNOWN; 261.0; 522.0; 87.0; 61.0; UNKNOWN; 261.0; 45.0; 110.0
+Amax Eagle TT; UNKNOWN; 1990; one; UNKNOWN; 3.05; UNKNOWN; UNKNOWN; 186.0; 386.0; 87.0; 61.0; UNKNOWN; 261.0; 45.0; 82.0
+Amax Eagle; UNKNOWN; 1990; one; UNKNOWN; 3.05; UNKNOWN; UNKNOWN; 186.0; 386.0; 78.0; 61.0; UNKNOWN; 261.0; 45.0; 82.0
+Chasle YC-100 Hirondelle; 1985; 1980; one; UNKNOWN; 5.43; 8.3; 11.25; 110.0; UNKNOWN; 70.0; 54.0; 24.0; UNKNOWN; UNKNOWN; 18.0
+FK-Lightplanes SW51 Mustang; 2014; 2010; one; one passenger; 6.88; 7.9; UNKNOWN; 288.0; 472.5; UNKNOWN; 151.0; 35.0; 900.0; UNKNOWN; 75.0
+Phoenix Industries CV1 ParaFlyer; UNKNOWN; 1990; one; UNKNOWN; 1.8; 9.1; 29.3; 54.0; 163.0; UNKNOWN; 17.0; UNKNOWN; 26.0; 9.5; 16.0
+Phoenix Industries Sport; UNKNOWN; 1990; one; UNKNOWN; 2.1; 10.0; 37.0; 102.0; 236.0; 22.0; 22.0; UNKNOWN; 30.0; 19.0; 30.0
+Airsport Sonata; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 278.0; 204.0; UNKNOWN; 49.0; 30.0; UNKNOWN; UNKNOWN; 37.0
+Airsport Song; UNKNOWN; 2000; one; UNKNOWN; 5.9; 11.2; 10.5; 110.0; 220.0; 109.0; 43.0; 27.0; UNKNOWN; UNKNOWN; 15.3
+Little Wing Roto-Pup; UNKNOWN; 1990; one; UNKNOWN; 4.88; UNKNOWN; UNKNOWN; 113.0; 249.0; 56.0; 43.0; UNKNOWN; 43.0; 19.0; 34.0
+Raven Explorer I; UNKNOWN; 1990; one; UNKNOWN; 4.57; UNKNOWN; UNKNOWN; 115.0; 256.0; 56.0; UNKNOWN; UNKNOWN; 87.0; 19.0; 34.0
+Raven Explorer II; UNKNOWN; 1990; one; one passenger; 4.82; UNKNOWN; UNKNOWN; 166.0; 404.0; 87.0; UNKNOWN; UNKNOWN; UNKNOWN; 30.0; 75.0
+Rotorwing-Aero 3D-RV; 1989; 1980; one; UNKNOWN; 2.59; UNKNOWN; UNKNOWN; 113.0; 249.0; 65.0; 43.0; UNKNOWN; 70.0; 19.0; 75.0
+EasyUp Parapropter; UNKNOWN; 1990; one; UNKNOWN; 1.2; UNKNOWN; UNKNOWN; 25.0; UNKNOWN; 22.0; 22.0; UNKNOWN; 87.0; 19.0; UNKNOWN
+Paraplane PSE-2 Osprey; UNKNOWN; 1990; one; UNKNOWN; 2.01; 9.6; 34.0; 125.0; 245.0; 24.0; 24.0; UNKNOWN; 36.0; 19.0; 37.0
+Paraplane GE-2 Golden Eagle; UNKNOWN; 1990; one; one passenger; 3.15; 12.34; 52.0; 150.0; 386.0; 24.0; 24.0; UNKNOWN; 45.0; 38.0; 48.0
+Paraplane WD-1 Wind Dancer; UNKNOWN; 1990; one; one passenger; 1.96; 9.6; 34.0; 86.0; 218.0; 23.0; 23.0; UNKNOWN; 36.0; 19.0; 30.0
+Parascender Para-Ag; UNKNOWN; 1990; one; UNKNOWN; 2.74; 11.73; 48.31; 129.0; 327.0; 23.0; 23.0; UNKNOWN; UNKNOWN; 38.0; 37.0
+Parascender I; 1989; 1980; one; UNKNOWN; 2.68; 11.13; 41.0; 245.0; 104.0; 23.0; 23.0; UNKNOWN; UNKNOWN; 19.0; 30.0
+Parascender II; 1990; 1990; one; one passenger; 2.74; 11.73; 48.0; 113.0; 327.0; 23.0; 23.0; UNKNOWN; UNKNOWN; 38.0; 37.0
+Paratrek Angel 2-B; UNKNOWN; 1990; one; one passenger; 2.74; 11.28; 48.8; 115.0; 342.0; 23.0; 23.0; UNKNOWN; 87.0; 38.0; 37.0
+Personal Flight Sky-Bike; UNKNOWN; 1990; one; one passenger; UNKNOWN; 12.8; 34.75; 36.0; 204.0; 26.0; 22.0; 13.0; UNKNOWN; 11.0; 19.0
+Personal Flight Sky-Bike Trike; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 12.8; 34.75; 36.0; 204.0; 26.0; 22.0; UNKNOWN; UNKNOWN; 11.0; 16.0
+Phoenix Industries TZ-1 ParaFlyer; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; 10.06; 33.91; 52.0; 172.0; UNKNOWN; 17.0; UNKNOWN; UNKNOWN; 11.0; 16.0
+Six Chuter Skye Ryder Aerochute; UNKNOWN; 1990; one; one passenger; UNKNOWN; 11.13; 46.0; 113.0; 408.0; 23.0; 21.0; UNKNOWN; 45.0; 19.0; 37.0
+Coelho AC-11; UNKNOWN; 1990; one; one passenger; 5.79; 8.08; 13.7; 290.0; 520.0; 91.0; 83.0; 36.0; 295.0; UNKNOWN; 78.0
+Calumet Snobird Explorer; 1997; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 111.0; UNKNOWN; UNKNOWN; 52.0; UNKNOWN; UNKNOWN; 19.0; 30.0
+InterPlane Starboy; UNKNOWN; 1990; one; one passenger; 7.56; 10.49; 12.41; 245.0; 450.0; 119.0; 81.0; 30.0; UNKNOWN; UNKNOWN; 60.0
+Parrish Dart; UNKNOWN; 1990; one; one passenger; 4.39; 7.0; UNKNOWN; UNKNOWN; 544.0; 174.0; 148.0; 56.0; 869.0; 95.0; 56.0
+Performance Aircraft Formula GT; UNKNOWN; 1990; one; one passenger; UNKNOWN; 8.69; 9.3; 635.0; 43.0; 217.0; 200.0; 53.0; 303.0; UNKNOWN; 220.0
+Spring WS202 Sprint; 1996; 1990; one; one passenger; 5.79; 8.23; 12.0; 304.0; 522.0; UNKNOWN; 91.0; 32.0; 348.0; 53.0; 48.0
+Theiss Sportster; 1998; 1990; one; UNKNOWN; 4.27; 5.33; 7.6; 114.0; 209.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0; UNKNOWN
+Ibis GS-501 Urraco; 2000; 2000; one; one passenger; 6.37; 9.2; 12.97; 340.0; 600.0; 100.0; 96.0; 35.0; 304.0; UNKNOWN; 75.0
+Ibis GS-600 Arrow; 2000; 2000; one; one passenger; 6.37; 9.2; 12.97; 340.0; 600.0; 100.0; 96.0; 35.0; 304.0; UNKNOWN; 75.0
+Ibis GS-710 Magic; UNKNOWN; 2000; one; one passenger; UNKNOWN; 8.69; UNKNOWN; 279.0; 450.0; UNKNOWN; UNKNOWN; 31.0; UNKNOWN; UNKNOWN; 60.0
+Ibis GS-730 Super Magic; UNKNOWN; 2000; one; one passenger; 6.83; 8.92; 12.4; 320.0; 569.0; UNKNOWN; 100.0; UNKNOWN; 304.0; UNKNOWN; 75.0
+Vancil Spitz S1; UNKNOWN; 1990; one; UNKNOWN; 4.64; 5.57; 10.78; 115.0; 215.0; 78.0; 55.0; 22.0; UNKNOWN; 19.0; 36.0
+Huntwing; 1982; 1980; one; one passenger; UNKNOWN; 10.2; 15.0; UNKNOWN; 372.0; 61.0; 52.0; UNKNOWN; UNKNOWN; UNKNOWN; 39.0
+Jeof Candiana; UNKNOWN; 1990; one; one passenger; 6.7; 8.7; UNKNOWN; 282.0; UNKNOWN; 113.0; 92.0; 34.0; 487.0; UNKNOWN; UNKNOWN
+ABS Aerolight Legacy; UNKNOWN; 2000; one; one passenger; UNKNOWN; 11.76; 46.5; 185.0; 400.0; 26.0; UNKNOWN; 16.0; UNKNOWN; UNKNOWN; 78.0
+ABS Aerolight Navigathor; UNKNOWN; 2000; one; one passenger; UNKNOWN; 11.0; 46.0; 230.0; 450.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 78.0
+Adventure Wheely II; UNKNOWN; 2000; one; one passenger; UNKNOWN; 13.0; 40.0; 70.0; 270.0; 30.0; 30.0; 13.0; UNKNOWN; UNKNOWN; 10.8
+Aerochute International Dual; 1992; 1990; one; one passenger; UNKNOWN; 11.0; 34.0; 100.0; 300.0; 38.0; 32.0; UNKNOWN; UNKNOWN; UNKNOWN; 37.0
+Air Sylphe 447; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 12.2; 35.0; 88.0; 210.0; 24.0; UNKNOWN; 11.0; UNKNOWN; UNKNOWN; 30.0
+Air Sylphe Bi 582; 2004; 2000; one; one passenger; UNKNOWN; 15.0; 45.0; 130.0; 330.0; 26.0; UNKNOWN; 11.0; UNKNOWN; UNKNOWN; 48.0
+Bilsam Sky Walker I; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.0; 26.0; UNKNOWN; 150.0; 26.0; 23.0; 4.0; UNKNOWN; UNKNOWN; 16.0
+Bilsam Sky Walker II; UNKNOWN; 2000; one; one passenger; UNKNOWN; 15.0; 50.0; 155.0; 400.0; 26.0; 22.0; 9.0; UNKNOWN; UNKNOWN; 45.0
+Bilsam Sky Walker; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 14.5; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Bilsam Sky Cruiser; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.0; 10.35; 250.0; 450.0; 130.0; 112.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Bilsam Ultra Cruiser; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 8.0; 8.0; 115.0; 250.0; 81.0; 54.0; 30.0; UNKNOWN; UNKNOWN; 41.0
+Büttner Crazy Flyer; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Southern Condor; UNKNOWN; 2000; one; one passenger; 3.0; UNKNOWN; 50.0; 146.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 38.0; 48.0
+Eagles Wing Scout; 1999; 1990; one; UNKNOWN; UNKNOWN; 10.36; UNKNOWN; 115.0; 220.0; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; 19.0; 34.0
+Explorair Relax MV; 2002; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 42.0; 115.0; 250.0; UNKNOWN; UNKNOWN; 13.0; UNKNOWN; UNKNOWN; 21.0
+EuroSport Crossover; 2013; 2010; One pilot,; one passenger; 6.9; 9.6; UNKNOWN; 307.0; 600.0; UNKNOWN; 119.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+WLT Sparrow; 2010; 2010; one pilot; one passenger; 7.0; 9.1; 11.6; 272.0; UNKNOWN; UNKNOWN; 113.0; 31.0; UNKNOWN; UNKNOWN; 60.0
+Fly Castelluccio Diavolo; 2004; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
+Fresh Breeze Flyke; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; 27.0; 13.0; UNKNOWN; UNKNOWN; 25.0
+Gemini Twin; UNKNOWN; 2000; one; one passenger; 3.0; UNKNOWN; 45.0; 157.0; 385.0; 30.0; UNKNOWN; UNKNOWN; 60.0; UNKNOWN; 48.0
+Helite Skydancer; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 450.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Infinity Purple; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 160.0; 400.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Kolb Flyer Powered Parachute; 2001; 2000; one; one passenger; UNKNOWN; UNKNOWN; 50.0; 59.0; 423.0; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; 38.0; 48.0
+New PowerChutes Gemini; 2001; 2000; one; one passenger; UNKNOWN; UNKNOWN; 43.1; 90.0; 480.0; 32.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Para-Ski Top Gun; UNKNOWN; 2000; one; one passenger; UNKNOWN; 9.14; 48.4; 181.0; 408.0; 30.0; 26.0; 22.0; UNKNOWN; UNKNOWN; 48.0
+Roll Flight MR V; UNKNOWN; 2000; one; one passenger; UNKNOWN; 12.0; 40.0; 63.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
+Sky Science PowerHawk; 2000; 2000; one; one passenger; 2.7; 12.04; 46.0; 129.0; 367.0; 28.0; 23.0; UNKNOWN; 122.0; UNKNOWN; 52.0
+Skymaster Excel; UNKNOWN; 2000; one; one passenger; 3.05; UNKNOWN; 51.0; 191.0; 385.0; 25.0; UNKNOWN; UNKNOWN; UNKNOWN; 38.0; 48.0
+Skymaster Single Seater; 2004; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; 115.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0; 34.0
+Soaring Concepts Sky Trek; 2000; 2000; one; one passenger; 3.1; 10.0; 46.0; 175.0; 431.0; 28.0; 26.0; UNKNOWN; UNKNOWN; 38.0; 48.0
+Airframes Unlimited SS-2 Trainer; 2003; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 170.0; 375.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 38.0; 48.0
+SNAS Stryke-Air Bi; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 43.0; 230.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
+Sun Flightcraft Air-Chopper; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; 51.0; 156.0; 376.0; 30.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 48.0
+Sundog Two-Seater; UNKNOWN; 2000; one; one passenger; 2.56; UNKNOWN; 46.0; 152.0; 374.0; 29.0; 24.0; UNKNOWN; UNKNOWN; 38.0; 48.0
+Sundog One-Seater; UNKNOWN; 2000; one; UNKNOWN; 2.56; UNKNOWN; 46.0; 137.0; 308.0; 29.0; 24.0; UNKNOWN; UNKNOWN; 19.0; 37.0
+Swing-Europe Parashell; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 12.0; UNKNOWN; 42.0; 200.0; 30.0; 25.0; 13.0; UNKNOWN; UNKNOWN; 21.0
+Technic'air Fly Roller; 1999; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 15.0
+Trio-Twister 103; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; 10.0; 30.0; 80.0; 160.0; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
+Trio-Twister 203; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 105.0; 300.0; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 41.0
+Viking Aircraft Viking II; 2000; 2000; one; one passenger; UNKNOWN; 11.7; 48.4; 122.0; 324.0; 29.0; UNKNOWN; UNKNOWN; UNKNOWN; 38.0; 37.0
+Wrobel Vroby 2; UNKNOWN; 2000; one; one passenger; UNKNOWN; 15.0; 38.0; 58.0; 250.0; 32.0; 27.0; 16.0; UNKNOWN; UNKNOWN; 19.0
+BDC Aero Puma; UNKNOWN; 1980; one; one passenger; 6.3; 8.5; 11.5; 310.0; 559.0; UNKNOWN; 115.0; 35.0; UNKNOWN; 90.0; 60.0
+Adventure A series; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.0
+Adventure R series; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.8
+Adventure S series; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.0
+Aero Nord AIR; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.0
+Aerosport OY Spider; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0
+Airfer Bimax; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 27.5; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.0
+Airfer Titan; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.0
+Airfer Tornado; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 26.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.0
+Airtime Explorer; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Airtime Discovery; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 30.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
+Arey Tatush; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 12.0
+Av8er Explorer; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 24.0
+Av8er Observer Light; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.95; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 12.0
+Av8er Orbiter; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Back Bone Seraph; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.0
+Back Bone Shadow; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Back Bone Silver; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.0
+Bailey JPX D330; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 26.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 14.0
+Bailey Solo; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Büttner Crazy Plane; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Büttner Easy Plane; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+D'Yves Yvasion 2000; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 29.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Dynamic Sport Climber; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 24.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Dynamic Sport Rocket; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Fly Castelluccio Flash; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 18.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 11.0
+Fly Castelluccio Mach; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 18.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Fly Castelluccio SMN; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Fresh Breeze Airbass; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.0
+Fresh Breeze Respect; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 28.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
+Jet Pocket Top 210; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 22.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Jet Pocket Top 80; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 11.0
+Jet Pocket Top Must; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 28.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 15.0
+La Mouette SR 210; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 11.0
+La Mouette ZR 250; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 32.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.0
+Mini-Fly Set; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+MS Parafly Skyward; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+NAGL System NAGL; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+NeuraJet Neura Jet; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+NST Minimum; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 12.0
+Paraavis Mirage; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.0
+Paraavis Sova; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 12.0
+Paraavis Pegasus; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 12.0
+Paraavis Vityaz; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 31.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.5
+Paramania Vortex; 2002; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.0
+Marbella Parapente Paramotor PAP; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 28.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 18.0
+Paramotor Performance M3; UNKNOWN; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 24.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 12.0
+Paramotor Mosquito; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 8.9
+H&E Paramotores Corsario; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 29.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+H&E Paramotores Simonini; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 29.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+H&E Paramotores Solo; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+H&E Paramotores Ziklon; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 11.0
+Parapower Parapower; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 11.1
+Parasport.de Fun; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.5; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 12.3
+Paratour SD; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.5; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Phoenix Skywalker; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.0
+Rad MXL; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.4; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Rad RXL; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 15.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Rad SXL Custom; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.5; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Reflex Bi Trike; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 40.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
+Reflex J 160; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 8.9
+Reflex J 320; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.0
+Reflex S; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
+Reflex Solo Elec; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 26.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 8.9
+Skyrunner Basic; 1996; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.0
+Skyrunner Powerful; 1996; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
+Skyrunner Booster; 1996; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
+Skyrunner Light; 1996; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.8
+Skyway Light; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.5; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 14.0
+Sokopf Falke; 1998; 1990; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
+Sperwill 120; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 12.0
+Sperwill 2+; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
+Sperwill 3+; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0
+Sperwill 210; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.8
+Sperwill CA; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 25.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 16.0
+Sperwill ST; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 28.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 18.3
+Sperwill TX; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 28.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 22.0
+Sport 2000 80; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.8
+Time To Fly Backplane SL; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 26.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 19.0
+Time To Fly Racket; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 20.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Aeromarine Merlin; 2016; 2010; one; UNKNOWN; 5.31; 7.8; UNKNOWN; 180.0; 299.0; UNKNOWN; 97.0; 33.0; UNKNOWN; UNKNOWN; 48.0
+Walkerjet Simon; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 27.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0
+Walkerjet Spider; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 17.5; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Walkerjet Super Hawk; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 24.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.0
+Walkerjet Schoolboy; UNKNOWN; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Wasp SP Mk2; 2002; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 23.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 11.0
+Winds Italia Raven; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.9; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 11.0
+Winds Italia Orbiter; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 21.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 10.8
+Xplorer Xflyer; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 13.0
+Xplorer XS; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 11.0
+Aeroprakt A-32 Vixxen; 2014; 2010; one; one passenger; 6.27; 9.45; UNKNOWN; 320.0; UNKNOWN; UNKNOWN; 115.0; 27.0; UNKNOWN; UNKNOWN; 75.0
+Aviad Zigolo MG12; 2012; 2010; One; UNKNOWN; 5.5; 11.1; 15.8; 95.0; UNKNOWN; UNKNOWN; 36.0; 19.0; UNKNOWN; UNKNOWN; 18.6
+Swiss Excellence Risen; 2012; 2010; one; one passenger; 6.8; 9.0; UNKNOWN; 297.0; UNKNOWN; 170.0; 157.0; 30.0; 274.0; UNKNOWN; 75.0
+AC Sirocco nG; 2009; 2000; one; UNKNOWN; UNKNOWN; 9.0; 12.15; 115.0; 250.0; 65.0; 49.0; 30.0; UNKNOWN; UNKNOWN; 25.0
+Aero East Europe Sila; 2013; 2010; one; one passenger; UNKNOWN; 9.4; 11.94; 291.0; 472.5; 119.0; 103.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Aéro Services Guépard Super Guépard; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Aero-Service Panda; 2016; 2010; one; one passenger; 6.62; 8.91; 10.6; 270.0; 472.5; 119.0; 103.0; 33.0; 648.0; UNKNOWN; 60.0
+Airmak J4; 2011; 2010; one; one passenger; 7.4; 9.44; 11.6; 330.0; 600.0; UNKNOWN; 108.0; 32.0; 578.0; UNKNOWN; 75.0
+Albaviation D24 MagicOne; UNKNOWN; 2010; one; one passenger; 7.2; 9.0; UNKNOWN; 280.0; 450.0; 130.0; 121.0; 27.0; UNKNOWN; UNKNOWN; 75.0
+Alpi Pioneer 300 Kite; UNKNOWN; 2010; one; one passenger; 6.25; 7.55; 10.0; 315.0; 560.0; 130.0; 119.0; 39.0; 486.0; UNKNOWN; 75.0
+Blackwing Sweden Blackwing; 2015; 2010; one; one passenger; UNKNOWN; 8.4; 9.4; 297.5; 472.5; UNKNOWN; 150.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Caldas 2G7 Vento; UNKNOWN; 2010; one; one passenger; UNKNOWN; 9.8; 12.32; 260.0; 590.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 60.0
+Carplane GmbH Carplane; UNKNOWN; UNKNOWN; one; one passenger; 7.453; 9.715; 10.72; 498.0; 750.0; 120.0; 108.0; 36.0; 450.0; UNKNOWN; 97.0
+CFM Air Dardo; 2014; 2010; one; one passenger; UNKNOWN; UNKNOWN; 10.6; 320.0; UNKNOWN; 151.0; 135.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Corvus Racer 312; 2013; 2010; one; one passenger; UNKNOWN; 8.33; UNKNOWN; 295.0; 472.5; UNKNOWN; 151.0; UNKNOWN; UNKNOWN; UNKNOWN; 75.0
+Direct Fly ArGO; 2011; 2010; one; one passenger; UNKNOWN; 9.0; 9.9; 282.0; 472.5; 146.0; 108.0; 33.0; UNKNOWN; UNKNOWN; 75.0
+Electric Aircraft Corporation ElectraFlyer-ULS; 2012; 2010; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 111.0; 238.0; UNKNOWN; 35.0; UNKNOWN; UNKNOWN; UNKNOWN; 15.0
+Evektor EPOS; 2013; 2010; one; one passenger; 5.98; 10.462; UNKNOWN; 285.0; 600.0; 140.0; 92.0; 39.0; UNKNOWN; UNKNOWN; 75.0
+B&F Fk131 Bücker Jungmann; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN
+Dorna Free Bird; UNKNOWN; 2010; one; one passenger; UNKNOWN; 9.45; 11.06; 380.0; 600.0; 119.0; UNKNOWN; 35.0; UNKNOWN; UNKNOWN; 75.0
+Ivanov ZJ-Viera; 2008; 2000; one; UNKNOWN; UNKNOWN; 7.5; 9.1; 77.0; 198.0; 70.0; 59.0; 24.0; UNKNOWN; UNKNOWN; 19.0
+Jingmen A2C Ultra Seaplane; 2003; 2000; one; two passengers; UNKNOWN; 11.28; 19.28; 316.0; 520.0; 65.0; 43.0; 33.0; UNKNOWN; UNKNOWN; 60.0
+OneAircraft One; UNKNOWN; 2010; one; three passengers; UNKNOWN; 9.67; UNKNOWN; 330.0; 750.0; UNKNOWN; 143.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Orel VH2 Streamline; 2014; 2010; one; one passenger; 6.05; 9.0; 9.6; 290.0; 472.5; 159.0; 146.0; 35.0; 680.0; UNKNOWN; 75.0
+Pelegrin Tarragon; UNKNOWN; 2010; one; one passenger; 7.53; 7.94; UNKNOWN; 338.0; UNKNOWN; 167.0; 146.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Rokospol Via; 2008; 2000; one; one passenger; 6.45; 8.13; 10.5; 285.0; 472.5; 130.0; UNKNOWN; 29.0; UNKNOWN; UNKNOWN; 75.0
+Roland Z-120 Relax; UNKNOWN; 2010; one; UNKNOWN; UNKNOWN; 7.45; 9.6; 120.0; 245.0; 86.0; 76.0; 29.0; UNKNOWN; UNKNOWN; 26.0
+Tecnam Snap; 2013; 2010; one; UNKNOWN; UNKNOWN; 2.19; 8.3; 280.0; 420.0; 157.0; 140.0; 45.0; UNKNOWN; UNKNOWN; 75.0
+TL-Ultralight Stream; 2013; 2010; one; one passenger; 6.785; 9.0; UNKNOWN; 300.0; UNKNOWN; 175.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 75.0
+Tomark Skyper GT9; 2014; 2010; one; one passenger; 6.3; 9.0; 10.0; 315.0; 472.5; 124.0; 108.0; 33.0; UNKNOWN; UNKNOWN; 75.0
+Triavio Italo; 2013; 2010; one; one passenger; UNKNOWN; 7.77; UNKNOWN; 320.0; 472.5; 140.0; 130.0; 35.0; UNKNOWN; UNKNOWN; 75.0
+Aviomania G2SA Genesis Duo; 2007; 2000; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 240.0; 560.0; 97.0; 81.0; UNKNOWN; UNKNOWN; UNKNOWN; 86.0
+Aviomania G1SA Genesis Solo; UNKNOWN; 2000; one; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 140.0; 300.0; 70.0; 65.0; UNKNOWN; UNKNOWN; UNKNOWN; 122.0
+GoFly Gotar; 2015; 2010; one; one passenger; UNKNOWN; UNKNOWN; UNKNOWN; 245.0; 450.0; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; UNKNOWN; 75.0

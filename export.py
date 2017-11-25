@@ -9,7 +9,11 @@ planefile = open('planes_all.json', 'r')
 planedata = json.load(planefile)
 planefile.close()
 
-columns = ['name', 'year', 'decade', 'crew', 'capacity', 'length', 'wingspan', 'emptyweight']
+columns = ['name', 'year', 'decade', 'crew', 'capacity',
+           'length', 'wingspan', 'wingarea',
+           'emptyweight', 'grossweight',
+           'maxspeed', 'cruisespeed', 'stallspeed',
+           'range', 'fuelcapacity', 'power']
 row = []
 
 with open('planes_export.txt', 'w') as txt_file:
